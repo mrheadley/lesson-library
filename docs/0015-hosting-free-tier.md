@@ -1,0 +1,11 @@
+# 0015: Hosting — Free-Tier Managed Services, Superseding Oracle Free Tier (ADR 0001)
+
+**Context**: ADR 0001 specified Docker Compose on an Oracle Cloud Free Tier VM. In practice, Oracle Free Tier signup carries real risk of unexpected charges and "out of capacity" errors for the free ARM shape with no region change after signup — a bad foundation for a project intended to reliably serve students. Bluehost was also evaluated (an existing asset) but the available plan is a WordPress/shared hosting package: no Docker, no Node.js server process, no Postgres support — unusable for either app in this project. A firm constraint remains: **$0 cost**.
+
+**Decision**:
+- **teacher-assistant** (needs a live backend + database): a free-tier managed Postgres provider (Supabase or Neon) + a free-tier Node/Hono host (Render or Fly.io). Note: free-tier compute on these platforms may sleep after inactivity, adding a short cold-start delay on the next request — acceptable for a single-teacher admin tool.
+- **Public Astro site** (ADR 0009): fully static, so it can be hosted on **any** free static host — Vercel, Netlify, Cloudflare Pages, or GitHub Pages — all offer permanent (not trial-limited) free tiers for static sites, with native custom-subdomain support.
+- **Media** (open, low-priority): for now, images are bundled directly in the Astro repo alongside content files, consistent with the flat-file model (ADR 0012). If volume grows enough to justify it, a free object storage tier (e.g. Cloudflare R2) can be introduced later as a source the export step pulls from — not needed for initial launch.
+- This ADR supersedes ADR 0001 **only on hosting provider/topology**. The application architecture ADR 0001 describes (Hono, Prisma, Postgres, Better-auth, Docker Compose) is unchanged for teacher-assistant; only *where* it runs changes.
+
+**Why**: This combination is $0 with transparent, permanent free tiers (not a trial-credit gamble), splits cleanly along the same public/private boundary already established in ADR 0009, and requires no infrastructure teacher-assistant doesn't already assume (Postgres + a Node process). The public site's hosting choice is now essentially free of trade-offs, since it carries no server at all.

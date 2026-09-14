@@ -1,0 +1,180 @@
+/* ==========================================================================
+   Ember and Tide — Design Tokens   (ported from the shared design system:
+   Lessons/digital-media/design-system/tokens.css, completed for the deck.)
+   ========================================================================== */
+
+:root {
+  /* --------------------------------------------------------------------
+     1. CORE LEAD COLOURS (source)
+     -------------------------------------------------------------------- */
+  --amber-glow: #ff9900;
+  --dodger-blue: #0099ff;
+  --alabaster-grey: #e0e0e0;
+  --stormy-teal: #156064;
+  --ink-black: #0d1b2a;
+
+  /* --------------------------------------------------------------------
+     2. TIDE BLUE FAMILY
+     -------------------------------------------------------------------- */
+  --tide-primary: #255b7e;
+  --tide-bright: var(--dodger-blue);
+  --tide-cta: #0a72b8;
+
+  /* --------------------------------------------------------------------
+     3. SECONDARY ACCENTS
+     -------------------------------------------------------------------- */
+  --secondary-teal: var(--stormy-teal);
+  --secondary-gold: #f2b90d;
+  --secondary-coral: #f0644c;
+
+  /* --------------------------------------------------------------------
+     4. SUBJECT-TINTED DARK BACKGROUNDS
+     -------------------------------------------------------------------- */
+  --tide-dark: var(--ink-black);
+  --ember-dark: #241a0f;
+
+  /* --------------------------------------------------------------------
+     5. NEUTRAL SCALE
+     -------------------------------------------------------------------- */
+  --neutral-0: #ffffff;
+  --neutral-50: #f5f7fa;
+  --neutral-100: #e9edf2;
+  --neutral-200: #dae0e7;
+  --neutral-300: #bdc7d1;
+  --neutral-400: #98a5b3;
+  --neutral-500: #6c7f93;
+  --neutral-600: #4e6074;
+  --neutral-700: #364759;
+  --neutral-800: #1e2d3e;
+  --neutral-900: #122130;
+  --neutral-950: var(--ink-black);
+
+  /* --------------------------------------------------------------------
+     6. SEMANTIC COLOUR ROLES
+     -------------------------------------------------------------------- */
+  --surface-light: var(--alabaster-grey);
+  --surface-light-alt: var(--neutral-50);
+  --surface-dark-tide: var(--tide-dark);
+  --surface-dark-ember: var(--ember-dark);
+
+  --text-primary: var(--ink-black);
+  --text-secondary: var(--neutral-600);
+  --text-on-dark: var(--neutral-50);
+  --text-inverse: var(--neutral-0);
+
+  --tide-accent: var(--dodger-blue);
+  --tide-accent-quiet: var(--tide-primary);
+  --tide-cta-bg: var(--tide-cta);
+  --tide-cta-bg-hover: var(--tide-primary);
+  --tide-border: var(--tide-primary);
+
+  --ember-accent: var(--amber-glow);
+  --ember-cta-bg: var(--amber-glow);
+  --ember-cta-bg-hover: #cc7a00;
+  --ember-border: var(--amber-glow);
+  --ember-cross-accent: var(--dodger-blue);
+
+  --chart-series-1: var(--secondary-teal);
+  --chart-series-2: var(--secondary-gold);
+  --chart-series-3: var(--secondary-coral);
+  --chart-series-4: var(--dodger-blue);
+  --chart-series-5: var(--amber-glow);
+
+  --illustration-ink: var(--ink-black);
+
+  --border-subtle: var(--neutral-200);
+  --border-default: var(--neutral-300);
+
+  /* --------------------------------------------------------------------
+     7. TYPOGRAPHY
+     -------------------------------------------------------------------- */
+  --font-body: "Work Sans", system-ui, sans-serif;
+  --font-display-tide: "Newsreader", Georgia, serif;
+  --font-display-ember: "Sora", system-ui, sans-serif;
+
+  --fs-body: 1rem;
+  --fs-small: 0.875rem;
+  --fs-h3: 1.5rem;
+  --fs-h2: 2rem;
+  --fs-h1: 2.75rem;
+  --fs-display: 3.5rem;
+
+  --lh-body-sans: 1.55;
+  --lh-body-serif: 1.7;
+  --lh-heading: 1.15;
+
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+
+  /* --------------------------------------------------------------------
+     8. SPACING SCALE
+     -------------------------------------------------------------------- */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-7: 1.75rem;
+  --space-8: 2rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-24: 6rem;
+
+  /* --------------------------------------------------------------------
+     9. SHAPE
+     -------------------------------------------------------------------- */
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1.25rem;
+  --radius-full: 999px;
+
+  /* --------------------------------------------------------------------
+     10. ELEVATION
+     -------------------------------------------------------------------- */
+  --shadow-sm: 0 1px 2px rgba(13, 27, 42, 0.06);
+  --shadow-md: 0 4px 12px rgba(13, 27, 42, 0.1);
+  --shadow-lg: 0 12px 32px rgba(13, 27, 42, 0.14);
+}
+
+/* ==========================================================================
+   SITE + DECK COMPLETION — vars the reading-deck CSS needs on top of the
+   source tokens.                              (see ORDocs prototype)
+   ========================================================================== */
+
+:root {
+  --paper: var(--neutral-50);
+  --ink: var(--ink-black);
+  --white: var(--neutral-0);
+
+  --ember-orange: var(--amber-glow);
+  --ember-orange-dark: #8a5200;
+  --ember-orange-text: #8a4f00;
+  --ember-soft: rgba(255, 153, 0, 0.12);
+
+  --tide-blue-bright: var(--dodger-blue);
+  --tide-soft: rgba(0, 153, 255, 0.12);
+
+  --accent-gold: var(--secondary-gold);
+
+  --text-body: var(--fs-body);
+  --text-label: 0.8125rem;
+  --text-h2: var(--fs-h2);
+  --text-h3: var(--fs-h3);
+  --leading-body: var(--lh-body-sans);
+
+  --shadow-soft: 0 1px 2px rgba(13, 27, 42, 0.05), 0 10px 30px rgba(13, 27, 42, 0.08);
+
+  /* Site chrome accent, themed per subject via data-subject. */
+  --site-accent: var(--ember-accent);
+  --site-accent-soft: var(--ember-soft);
+  --site-display: var(--font-display-ember);
+}
+
+[data-subject="tide"] {
+  --site-accent: var(--tide-accent);
+  --site-accent-soft: var(--tide-soft);
+  --site-display: var(--font-display-tide);
+}

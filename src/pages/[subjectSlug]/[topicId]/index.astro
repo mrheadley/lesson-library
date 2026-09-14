@@ -1,0 +1,64 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { excerpt, readingMinutes } from '../../../lib/text';
+import TopicLedger from '../../../components/topic/TopicLedger.astro';
+
+export async function getStaticPaths() {
+  const outlines = await getCollection('courseOutlines');
+  const allArticles = await getCollection('articles');
+
+  const paths = [];
+  for (const outline of outlines) {
+    const courseArticles = allArticles.filter(
+      (a) => a.data.subjectSlug === outline.data.subjectSlug,
+    );
+    const topicIds = [...new Set(courseArticles.map((a) => a.data.topicId))];
+    for (const topicId of topicIds) {
+      const topicTitle =
+        courseArticles.find((a) => a.data.topicId === topicId)?.data.topic ?? topicId;
+      const articles = courseArticles
+        .filter((a) => a.data.topicId === topicId)
+        .sort((a, b) => a.data.order - b.data.order)
+        .map((a) => ({
+          slug: a.id.split('/').at(-1)!,
+          title: a.data.title,
+          order: a.data.order,
+          isReview: a.data.isReview,
+          body: a.body ?? '',
+        }));
+      paths.push({
+        params: { subjectSlug: outline.data.subjectSlug, topicId },
+        props: { outline, topicId, topicTitle, articles },
+      });
+    }
+  }
+  return paths;
+}
+
+const { outline, topicId, topicTitle, articles } = Astro.props;
+const title = `${outline.data.subject} — ${topicTitle}`;
+
+const lessons = articles.map((a) => ({
+  slug: a.slug,
+  title: a.title,
+  order: a.order,
+  isReview: a.isReview,
+  excerpt: excerpt(a.body),
+  minutes: readingMinutes(a.body),
+}));
+
+const data = {
+  subject: outline.data.subject,
+  subjectSlug: outline.data.subjectSlug,
+  form: outline.data.form,
+  topicId,
+  topicTitle,
+  lessons,
+  totalMinutes: lessons.reduce((s, l) => s + l.minutes, 0),
+};
+---
+
+<Layout title={title} subjectSlug={outline.data.subjectSlug}>
+  <TopicLedger data={data} />
+</Layout>

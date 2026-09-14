@@ -1,0 +1,51 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { readingMinutes } from '../../lib/text';
+import OutlineLedger from '../../components/outline/OutlineLedger.astro';
+
+export async function getStaticPaths() {
+  const outlines = await getCollection('courseOutlines');
+  return outlines.map((outline) => ({
+    params: { subjectSlug: outline.data.subjectSlug },
+    props: { outline },
+  }));
+}
+
+const { outline } = Astro.props;
+const title = `${outline.data.subject} — ${outline.data.form}: Course Outline`;
+
+const articles = await getCollection('articles');
+const topicLinkRe = /^\s*\d+\.\s+\[([^\]]+)\]\(\/([a-z0-9-]+)\/([a-z0-9-]+)\/?\)/gm;
+
+const topics = [];
+for (const m of (outline.body ?? '').matchAll(topicLinkRe)) {
+  const topicId = m[3];
+  const own = articles
+    .filter((a) => a.data.subjectSlug === outline.data.subjectSlug && a.data.topicId === topicId)
+    .sort((a, b) => a.data.order - b.data.order);
+  topics.push({
+    order: topics.length + 1,
+    title: m[1],
+    topicId,
+    href: `/${outline.data.subjectSlug}/${topicId}/`,
+    lessons: own.length,
+    minutes: own.reduce((s, a) => s + readingMinutes(a.body ?? ''), 0),
+    reviews: own.filter((a) => a.data.isReview).length,
+  });
+}
+
+const data = {
+  subject: outline.data.subject,
+  subjectSlug: outline.data.subjectSlug,
+  form: outline.data.form,
+  topics,
+  totalLessons: topics.reduce((s, t) => s + t.lessons, 0),
+  totalMinutes: topics.reduce((s, t) => s + t.minutes, 0),
+  reviews: topics.reduce((s, t) => s + t.reviews, 0),
+};
+---
+
+<Layout title={title} subjectSlug={outline.data.subjectSlug}>
+  <OutlineLedger data={data} />
+</Layout>

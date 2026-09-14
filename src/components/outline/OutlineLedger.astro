@@ -1,0 +1,243 @@
+---
+export interface Topic {
+  order: number;
+  title: string;
+  href: string;
+  lessons: number;
+  minutes: number;
+  reviews: number;
+}
+
+export interface OutlineData {
+  subject: string;
+  form: string;
+  topics: Topic[];
+  totalLessons: number;
+  totalMinutes: number;
+}
+
+interface Props {
+  data: OutlineData;
+}
+
+const { data } = Astro.props;
+const hours = (m: number) =>
+  m < 120 ? `${Math.ceil(m / 60)} h` : `${(m / 60).toFixed(1)} h`;
+---
+
+<div class="ledger">
+  <header class="masthead">
+    <div class="masthead-inner">
+      <p class="crumbs">
+        <a href="/">Home</a> <span class="sep">/</span> Course Outline
+      </p>
+      <p class="kicker">
+        {data.subject} <span class="dot-sep">&middot;</span> {data.form}
+      </p>
+      <h1 class="doc-title">
+        {data.subject.replace('-', ' ')}
+        <em>{data.form}.</em>
+      </h1>
+      <div class="stat-strip">
+        <div class="stat">
+          <b>{String(data.topics.length).padStart(2, '0')}</b>
+          <span>units</span>
+        </div>
+        <div class="stat">
+          <b>{String(data.totalLessons).padStart(2, '0')}</b>
+          <span>lessons</span>
+        </div>
+        <div class="stat">
+          <b>≈{hours(data.totalMinutes)}</b>
+          <span>study time</span>
+        </div>
+        <div class="progress" aria-hidden="true"><i></i></div>
+      </div>
+    </div>
+  </header>
+
+  <ol class="rows">
+    {data.topics.map((t) => (
+      <li>
+        <a class="row" href={t.href}>
+          <span class="idx">{String(t.order).padStart(2, '0')}</span>
+          <span class="body">
+            <b class="title">{t.title}</b>
+            <span class="meta">
+              {t.lessons} lessons &middot; ≈ {Math.max(1, Math.ceil(t.minutes / 60))} h
+              {t.reviews > 0 && <span class="review">review</span>}
+            </span>
+          </span>
+          <span class="next">&rsaquo;</span>
+        </a>
+      </li>
+    ))}
+  </ol>
+</div>
+
+<style>
+  .ledger {
+    margin: 0 auto;
+    max-width: 900px;
+  }
+  .masthead {
+    background: var(--white);
+    border-bottom: 1px solid var(--border-subtle);
+  }
+  .masthead-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.25rem 1.75rem;
+  }
+  .crumbs {
+    font-size: 0.8125rem;
+    color: var(--text-secondary);
+    margin: 0 0 1.5rem;
+  }
+  .crumbs a {
+    color: var(--site-accent);
+  }
+  .sep {
+    color: var(--neutral-300);
+  }
+  .kicker {
+    font-size: 0.75rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--text-secondary);
+    font-weight: 600;
+    margin: 0 0 0.75rem;
+  }
+  .dot-sep {
+    color: var(--site-accent);
+  }
+  .doc-title {
+    font-family: var(--site-display);
+    font-size: clamp(2rem, 6vw, 3.5rem);
+    letter-spacing: -0.03em;
+    line-height: 1;
+    margin: 0 0 1.5rem;
+  }
+  .doc-title em {
+    font-style: normal;
+    color: var(--site-accent);
+  }
+  .stat-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    max-width: 560px;
+  }
+  .stat {
+    background: var(--white);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-soft);
+    padding: 1rem 1.25rem;
+    min-width: 96px;
+    flex: none;
+  }
+  .stat b {
+    display: block;
+    font-family: var(--site-display);
+    font-size: 1.75rem;
+    line-height: 1;
+    color: var(--site-accent);
+  }
+  .stat span {
+    font-size: var(--text-label);
+    font-weight: 600;
+    color: rgba(13, 27, 42, 0.6);
+  }
+  .progress {
+    flex: 1 1 100%;
+    height: 3px;
+    background: var(--neutral-200);
+    border-radius: var(--radius-full);
+    overflow: hidden;
+    margin-top: 0.5rem;
+  }
+  .progress i {
+    display: block;
+    width: 24%;
+    height: 100%;
+    background: linear-gradient(90deg, var(--site-accent), var(--ember-cross-accent));
+  }
+  .rows {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .row {
+    display: grid;
+    grid-template-columns: 2.5rem 1fr auto;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.1rem 1.25rem 1.1rem 1.1rem;
+    border-bottom: 1px solid var(--border-subtle);
+    color: var(--ink);
+    transition: background 0.15s;
+  }
+  .row:hover {
+    background: var(--site-accent-soft);
+    text-decoration: none;
+  }
+  .idx {
+    display: grid;
+    place-items: center;
+    width: 40px;
+    height: 40px;
+    background: var(--site-accent);
+    color: var(--white);
+    border-radius: var(--radius-sm);
+    font-family: var(--site-display);
+    font-weight: 700;
+    font-size: 0.95rem;
+    letter-spacing: 0.02em;
+    font-variant-numeric: tabular-nums;
+    transition: box-shadow 0.15s, transform 0.15s;
+  }
+  .row:hover .idx {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-1px);
+  }
+  .title {
+    font-family: var(--site-display);
+    font-size: clamp(1.1rem, 2.6vw, 1.35rem);
+    display: block;
+    letter-spacing: -0.01em;
+  }
+  .meta {
+    font-size: 0.8125rem;
+    color: var(--text-secondary);
+    display: block;
+    margin-top: 0.3rem;
+    font-variant-numeric: tabular-nums;
+  }
+  .review {
+    display: inline-block;
+    margin-left: 0.5rem;
+    padding: 0.05rem 0.5rem;
+    border-radius: var(--radius-full);
+    background: #fdf3d7;
+    color: #8a5a00;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    vertical-align: 0.05em;
+  }
+  .next {
+    color: var(--neutral-400);
+    font-size: 1.4rem;
+    transition: transform 0.15s, color 0.15s;
+  }
+  .row:hover .next {
+    color: var(--site-accent);
+    transform: translateX(3px);
+  }
+  @media (max-width: 560px) {
+    .stat-strip {
+      max-width: none;
+    }
+  }
+</style>

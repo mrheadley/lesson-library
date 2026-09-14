@@ -1,0 +1,312 @@
+---
+export interface Lesson {
+  order: number;
+  title: string;
+  slug: string;
+  minutes: number;
+  isReview: boolean;
+  excerpt: string;
+}
+
+export interface TopicData {
+  subject: string;
+  form: string;
+  topicTitle: string;
+  subjectSlug: string;
+  topicId: string;
+  lessons: Lesson[];
+  totalMinutes: number;
+}
+
+interface Props {
+  data: TopicData;
+}
+
+const { data } = Astro.props;
+const first = data.lessons[0];
+const reviews = data.lessons.filter((l) => l.isReview).length;
+const pct = `${Math.max(8, Math.round((1 / Math.max(1, data.lessons.length)) * 100))}%`;
+---
+
+<div class="ltrack">
+  <header class="masthead">
+    <div class="masthead-inner">
+      <p class="crumbs">
+        <a href="/">Home</a> <span class="sep">/</span>
+        <a href={`/${data.subjectSlug}/`}>{data.subject}</a> <span class="sep">/</span> {data.topicTitle}
+      </p>
+      <p class="kicker">
+        {data.subject} <span class="dot-sep">&middot;</span> {data.form}
+      </p>
+      <h1 class="doc-title">
+        {data.topicTitle}
+        <em>.</em>
+      </h1>
+      <div class="stat-strip">
+        <div class="stat">
+          <b>{String(data.lessons.length).padStart(2, '0')}</b>
+          <span>{data.lessons.length === 1 ? 'lesson' : 'lessons'}</span>
+        </div>
+        <div class="stat">
+          <b>≈{Math.max(1, Math.ceil(data.totalMinutes / 60))}h</b>
+          <span>study time</span>
+        </div>
+        <div class="stat">
+          <b>{String(reviews).padStart(2, '0')}</b>
+          <span>reviews</span>
+        </div>
+        <div class="progress" aria-hidden="true">
+          <i style={`width:${pct}`}></i>
+        </div>
+      </div>
+      {first && (
+        <a class="cta" href={`/${data.subjectSlug}/${data.topicId}/${first.slug}/`}>
+          Begin lesson 1<span class="arrow">&rarr;</span>
+        </a>
+      )}
+    </div>
+  </header>
+
+  <ol class="stations">
+    {data.lessons.map((l) => (
+      <li>
+        <a class="row" href={`/${data.subjectSlug}/${data.topicId}/${l.slug}/`}>
+          <span class="stop">{String(l.order).padStart(2, '0')}</span>
+          <span class="body">
+            <b class="title">{l.title}</b>
+            <span class="meta">
+              Lesson {l.order} of {data.lessons.length} &middot; {l.minutes} min read
+              {l.isReview && <span class="review">review</span>}
+            </span>
+          </span>
+          <span class="time">≈ {l.minutes} min</span>
+          <span class="next">&rsaquo;</span>
+        </a>
+      </li>
+    ))}
+  </ol>
+</div>
+
+<style>
+  .ltrack {
+    margin: 0 auto;
+    max-width: 900px;
+  }
+  .masthead {
+    background: var(--white);
+    border-bottom: 1px solid var(--border-subtle);
+  }
+  .masthead-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.25rem 1.75rem;
+  }
+  .crumbs {
+    font-size: 0.8125rem;
+    color: var(--text-secondary);
+    margin: 0 0 1.5rem;
+  }
+  .crumbs a {
+    color: var(--site-accent);
+  }
+  .sep {
+    color: var(--neutral-300);
+  }
+  .kicker {
+    font-size: 0.75rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--text-secondary);
+    font-weight: 600;
+    margin: 0 0 0.75rem;
+  }
+  .dot-sep {
+    color: var(--site-accent);
+  }
+  .doc-title {
+    font-family: var(--site-display);
+    font-size: clamp(1.8rem, 5vw, 3rem);
+    letter-spacing: -0.03em;
+    line-height: 1;
+    margin: 0 0 1.5rem;
+  }
+  .doc-title em {
+    font-style: normal;
+    color: var(--site-accent);
+  }
+  .stat-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    max-width: 560px;
+  }
+  .stat {
+    background: var(--white);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-soft);
+    padding: 1rem 1.25rem;
+    min-width: 96px;
+    flex: none;
+  }
+  .stat b {
+    display: block;
+    font-family: var(--site-display);
+    font-size: 1.75rem;
+    line-height: 1;
+    color: var(--site-accent);
+  }
+  .stat span {
+    font-size: var(--text-label);
+    font-weight: 600;
+    color: rgba(13, 27, 42, 0.6);
+  }
+  .progress {
+    flex: 1 1 100%;
+    height: 3px;
+    background: var(--neutral-200);
+    border-radius: var(--radius-full);
+    overflow: hidden;
+    margin-top: 0.5rem;
+  }
+  .progress i {
+    display: block;
+    height: 100%;
+    background: linear-gradient(90deg, var(--site-accent), var(--ember-cross-accent));
+    transition: width 0.3s;
+  }
+  .cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    background: var(--site-accent);
+    color: var(--ink-black);
+    font-weight: 700;
+    font-size: 0.95rem;
+    padding: 0.9rem 1.5rem;
+    border-radius: var(--radius-full);
+    margin-top: 1.5rem;
+    transition: box-shadow 0.15s, transform 0.15s;
+  }
+  .cta:hover {
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+    text-decoration: none;
+  }
+  :global([data-subject='tide']) .cta {
+    color: #fff;
+  }
+  .arrow {
+    font-size: 1.1rem;
+  }
+  .stations {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+  }
+  .stations::before {
+    content: '';
+    position: absolute;
+    left: 2.35rem;
+    top: 1.4rem;
+    bottom: 1.4rem;
+    width: 2px;
+    background-image: linear-gradient(
+      to bottom,
+      var(--site-accent) 0 6px,
+      transparent 6px 12px
+    );
+    background-size: 2px 12px;
+    background-repeat: repeat-y;
+    opacity: 0.4;
+  }
+  .row {
+    position: relative;
+    display: grid;
+    grid-template-columns: 2.5rem 1fr auto auto;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.25rem 1.25rem 1.25rem 1.1rem;
+    border-bottom: 1px solid var(--border-subtle);
+    color: var(--ink);
+    transition: background 0.15s;
+  }
+  .row:hover {
+    background: var(--site-accent-soft);
+    text-decoration: none;
+  }
+  .stop {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    place-items: center;
+    width: 40px;
+    height: 40px;
+    background: var(--site-accent);
+    color: var(--white);
+    border-radius: var(--radius-sm);
+    font-family: var(--site-display);
+    font-weight: 700;
+    font-size: 0.95rem;
+    letter-spacing: 0.02em;
+    font-variant-numeric: tabular-nums;
+    transition: box-shadow 0.15s, transform 0.15s;
+  }
+  .row:hover .stop {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-1px);
+  }
+  .title {
+    font-family: var(--site-display);
+    font-size: clamp(1.1rem, 2.6vw, 1.35rem);
+    display: block;
+    letter-spacing: -0.01em;
+  }
+  .meta {
+    font-size: 0.8125rem;
+    color: var(--text-secondary);
+    display: block;
+    margin-top: 0.3rem;
+    font-variant-numeric: tabular-nums;
+  }
+  .time {
+    font-variant-numeric: tabular-nums;
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+    font-weight: 600;
+  }
+  .review {
+    display: inline-block;
+    margin-left: 0.5rem;
+    padding: 0.05rem 0.5rem;
+    border-radius: var(--radius-full);
+    background: #fdf3d7;
+    color: #8a5a00;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    vertical-align: 0.05em;
+  }
+  .next {
+    color: var(--neutral-400);
+    font-size: 1.4rem;
+    transition: transform 0.15s, color 0.15s;
+  }
+  .row:hover .next {
+    color: var(--site-accent);
+    transform: translateX(3px);
+  }
+  @media (max-width: 560px) {
+    .stat-strip {
+      max-width: none;
+    }
+    .row {
+      grid-template-columns: 2.5rem 1fr auto;
+    }
+    .time {
+      grid-column: 2;
+      padding-left: 0;
+    }
+  }
+</style>

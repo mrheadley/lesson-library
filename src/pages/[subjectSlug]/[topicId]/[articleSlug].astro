@@ -1,0 +1,177 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { getCollection, render } from 'astro:content';
+import { readingMinutes, countTakeaways } from '../../../lib/text';
+import '../../../styles/article-deck.css';
+
+export interface ArticleLink {
+  slug: string;
+  title: string;
+}
+
+export async function getStaticPaths() {
+  const outlines = await getCollection('courseOutlines');
+  const allArticles = await getCollection('articles');
+
+  const paths = [];
+  for (const outline of outlines) {
+    const courseArticles = allArticles
+      .filter((a) => a.data.subjectSlug === outline.data.subjectSlug)
+      .sort((a, b) => a.data.order - b.data.order);
+
+    for (const article of courseArticles) {
+      const topicId = article.data.topicId;
+      const siblings = courseArticles.filter(
+        (a) => a.data.topicId === topicId && a.id !== article.id,
+      );
+      const prev = siblings.findLast((a) => a.data.order < article.data.order);
+      const next = siblings.find((a) => a.data.order > article.data.order);
+      const slug = article.id.split('/').at(-1)!;
+
+      paths.push({
+        params: { subjectSlug: outline.data.subjectSlug, topicId, articleSlug: slug },
+        props: {
+          outline,
+          article,
+          prev: prev
+            ? { slug: prev.id.split('/').at(-1)!, title: prev.data.title }
+            : null,
+          next: next
+            ? { slug: next.id.split('/').at(-1)!, title: next.data.title }
+            : null,
+        },
+      });
+    }
+  }
+  return paths;
+}
+
+const { outline, article, prev, next } = Astro.props;
+const { Content, headings } = await render(article);
+
+const subject = outline.data.subject;
+const subjectSlug = outline.data.subjectSlug;
+const form = outline.data.form;
+const topicTitle = article.data.topic;
+const topicId = article.data.topicId;
+const order = article.data.order;
+const isReview = article.data.isReview;
+
+const sections = headings.filter((h) => h.depth === 2).length;
+const terms = headings.filter((h) => h.depth === 3).length;
+const minutes = readingMinutes(article.body ?? '');
+const takeaways = countTakeaways(article.body ?? '');
+
+const dots = headings
+  .filter((h) => h.depth === 2 && h.slug)
+  .map((h) => ({ slug: h.slug, text: h.text }));
+
+const title = article.data.title;
+const pageTitle = `${title} — ${subject}`;
+
+const articleHref = `${subjectSlug}/${topicId}/`;
+function lessonHref(link: ArticleLink): string {
+  return `/${articleHref}${link.slug}/`;
+}
+---
+
+<Layout title={pageTitle} description={`${subject} — ${topicTitle}: ${title}`} subjectSlug={subjectSlug} bare>
+  <div class="viewer">
+    <header class="topbar">
+      <a class="brand" href="/"><span class="brand-dot"></span>Lesson Library</a>
+      <a class="topbar-link" href={`/${articleHref}`}>← Back to {topicTitle}</a>
+    </header>
+    <div class="progress-track"><i id="progress"></i></div>
+
+    <header class="deck-head">
+      <p class="overline">
+        {subject} <span class="dot-sep">·</span> {form} <span class="dot-sep">·</span> Lesson
+        {order} <span class="dot-sep">·</span> {topicTitle}
+      </p>
+      <h1 class="deck-title">{title}</h1>
+      <div class="stats">
+        <div class="stat"><b>{sections}</b><span>sections</span></div>
+        <div class="stat"><b>{terms}</b><span>key terms</span></div>
+        <div class="stat"><b>{minutes}</b><span>min to read</span></div>
+        {takeaways > 0 && <div class="stat"><b>{takeaways}</b><span>key takeaways</span></div>}
+      </div>
+      <div class="deck-actions">
+        <span class="tag-solid">{isReview ? 'Review' : 'Study mode'}</span>
+        {terms > 0 && <a class="skip" href="#wordbank">End ↴</a>}
+      </div>
+    </header>
+
+    <div class="deck-wrap">
+      <div class="deck">
+        <Content />
+        <nav class="lesson-nav" aria-label="Lesson navigation">
+          {prev ? (
+            <a class="lnav" href={lessonHref(prev)}>
+              <span class="lnav-dir">Prev</span>
+              <span class="lnav-title">{prev.title}</span>
+            </a>
+          ) : (
+            <span />
+          )}
+          {next ? (
+            <a class="lnav next" href={lessonHref(next)}>
+              <span class="lnav-dir">Next</span>
+              <span class="lnav-title">{next.title}</span>
+            </a>
+          ) : (
+            <span />
+          )}
+        </nav>
+      </div>
+    </div>
+
+    <aside class="side-nav" aria-label="Sections">
+      <div class="spine"><i id="spine-fill"></i></div>
+      <div class="dots">
+        {dots.map((dot, index) => (
+          <button
+            class:list={['dot', { on: index === 0 }]}
+            data-target={`#${dot.slug}`}
+            aria-label={`Go to ${dot.text}`}
+            title={dot.text}
+          >
+            <span class="dot-hint">{dot.text}</span>
+          </button>
+        ))}
+      </div>
+    </aside>
+  </div>
+</Layout>
+
+<script>
+  const dots = [...document.querySelectorAll<HTMLElement>('.dot')];
+  const anchors = [...document.querySelectorAll<HTMLElement>('.module h2')];
+  const fill = document.getElementById('spine-fill');
+  const prog = document.getElementById('progress');
+
+  function onScroll() {
+    const doc = document.documentElement;
+    const sc = doc.scrollTop || document.body.scrollTop;
+    const max = Math.max(1, doc.scrollHeight - doc.clientHeight);
+    const p = sc / max;
+    if (prog) prog.style.width = p * 100 + '%';
+    if (fill) fill.style.height = p * 100 + '%';
+
+    let active = 0;
+    anchors.forEach((s, i) => {
+      if (s.getBoundingClientRect().top < 150) active = i;
+    });
+    dots.forEach((d, i) => d.classList.toggle('on', i === active));
+  }
+
+  window.addEventListener('scroll', onScroll, { passive: true });
+  dots.forEach((d) =>
+    d.addEventListener('click', () => {
+      const sel = d.dataset.target;
+      if (!sel) return;
+      const target = document.querySelector<HTMLElement>(sel);
+      if (target) target.scrollIntoView({ behavior: 'smooth' });
+    }),
+  );
+  onScroll();
+</script>

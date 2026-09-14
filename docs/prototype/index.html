@@ -1,0 +1,28 @@
+<!doctype html>
+<!--
+  PROTOTYPE — throwaway, not production. Iteration 2.
+  Verdict from iteration 1: StudyDeck's card layout wins for readability; ReelLearn's
+  right-side section nav wins for orientation. This prototype merges them:
+    - content = StudyDeck modular cards (numbered tabs, term rows, word bank)
+    - right rail = ReelLearn dots, showing the section title on hover, scroll-spy active
+  Renders the 4 CAPE Digital Media articles via ?lesson=1-4.
+  Ember and Tide design system (data-subject="ember", tokens linked live).
+  Run: python3 serve_prototype.py   (from this directory)
+-->
+<html lang="en" data-subject="ember">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>StudyDeck × ReelNav — Article Reading Prototype</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../../design-system/tokens.css">
+<link rel="stylesheet" href="style.css?v=2">
+</head>
+<body>
+<main id="root" aria-live="polite"></main>
+<script src="app.js?v=2"></script>
+</body>
+</html>

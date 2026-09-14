@@ -1,0 +1,372 @@
+/* PROTOTYPE — throwaway styles. Iteration 2: StudyDeck cards + ReelLearn's
+   right rail (hover shows section title as a tooltip to the left of the dot). */
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--text-body);
+  line-height: var(--leading-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; }
+
+code {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  background: rgba(217, 99, 30, 0.1);
+  color: var(--ember-orange-text);
+  padding: 1px 6px;
+  border-radius: 6px;
+  font-size: 0.9em;
+}
+
+h1, h2, h3 { font-family: var(--font-display-ember); color: var(--ink); }
+
+/* ============================== shared chrome =============================== */
+
+.overline {
+  font-size: var(--text-label);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--ember-orange-text);
+  margin: 0 0 var(--space-3);
+}
+.dot { color: var(--tide-blue-bright); }
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-display-ember);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  font-size: 15px;
+  text-decoration: none;
+  color: var(--ink);
+}
+.brand-dot {
+  width: 10px; height: 10px; border-radius: 50%;
+  background: var(--ember-orange);
+  box-shadow: 0 0 0 4px rgba(217, 99, 30, 0.18);
+}
+.brand-thin { color: var(--tide-blue-bright); font-weight: 500; }
+
+.lesson-tabs { display: flex; gap: 6px; }
+
+.ltab {
+  width: 30px; height: 30px;
+  display: inline-flex; align-items: center; justify-content: center;
+  border-radius: var(--radius-sm);
+  font-family: var(--font-display-ember);
+  font-weight: 600; font-size: 13px;
+  text-decoration: none;
+  color: var(--ember-orange-text);
+  transition: background 0.15s, color 0.15s;
+}
+.ltab:hover { background: rgba(217, 99, 30, 0.12); }
+.ltab.on {
+  background: var(--ember-orange);
+  color: var(--white);
+  box-shadow: 0 2px 8px rgba(217, 99, 30, 0.35);
+}
+
+/* ============================== top bar / progress ========================== */
+
+.topbar {
+  position: sticky; top: 0; z-index: 30;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 12px var(--space-5);
+  background: rgba(250, 247, 242, 0.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid rgba(43, 43, 43, 0.08);
+}
+
+.progress-track {
+  position: fixed; top: 0; left: 0; right: 0; height: 3px; z-index: 40;
+}
+.progress-track i {
+  display: block; height: 100%; width: 0;
+  background: linear-gradient(90deg, var(--ember-orange), var(--tide-blue-bright));
+}
+
+/* ============================== deck header ================================= */
+
+.deck-head {
+  max-width: 780px;
+  margin: 0 auto;
+  text-align: center;
+  padding: var(--space-7) var(--space-4) var(--space-5);
+}
+.deck-title {
+  font-size: clamp(30px, 5vw, 46px);
+  line-height: 1.04;
+  margin: 0 0 var(--space-5);
+}
+.stats {
+  display: flex; justify-content: center; flex-wrap: wrap; gap: var(--space-3);
+  margin-bottom: var(--space-5);
+}
+.stat {
+  background: var(--white); border-radius: var(--radius-md);
+  box-shadow: var(--shadow-soft);
+  padding: var(--space-3) var(--space-4);
+  min-width: 96px;
+}
+.stat b { display: block; font-family: var(--font-display-ember); font-size: 28px; line-height: 1; color: var(--ember-orange); }
+.stat span { font-size: var(--text-label); font-weight: 600; color: rgba(43, 43, 43, 0.6); }
+.deck-actions { display: flex; gap: 10px; justify-content: center; align-items: center; }
+.tag-solid {
+  background: var(--ember-orange); color: var(--white);
+  font-size: var(--text-label); font-weight: 700;
+  border-radius: 999px; padding: 8px 16px;
+}
+.skip {
+  font-weight: 700; font-size: 14px; text-decoration: none;
+  color: var(--tide-blue-bright); border: 2px solid currentColor;
+  border-radius: 999px; padding: 8px 18px;
+}
+
+/* ============================== deck cards ================================== */
+
+.deck-wrap { max-width: 780px; margin: 0 auto; }
+
+.deck { padding: 0 var(--space-4) var(--space-8); }
+
+.module {
+  background: var(--white);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-soft);
+  padding: var(--space-5) var(--space-5) var(--space-4);
+  margin-bottom: var(--space-5);
+  border-top: 4px solid var(--ember-orange);
+  scroll-margin-top: 88px;
+}
+.module.overview { border-top-color: var(--tide-blue-bright); }
+.module h2 {
+  display: flex; align-items: center; gap: var(--space-3);
+  font-size: var(--text-h2);
+  margin: 0 0 var(--space-4);
+}
+.module-tab {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 40px; height: 40px; flex: none;
+  background: var(--ember-orange); color: var(--white);
+  border-radius: var(--radius-sm);
+  font-size: 15px; font-weight: 700;
+}
+.module.overview .module-tab { background: var(--tide-blue-bright); }
+
+.mp { margin: 0 0 var(--space-3); }
+
+.module h3 {
+  font-size: var(--text-h3);
+  margin: var(--space-4) 0 var(--space-2);
+}
+.term {
+  background: var(--paper);
+  border-radius: var(--radius-md);
+  padding: var(--space-3) var(--space-4);
+  margin: var(--space-3) 0;
+  border-left: 4px solid var(--tide-blue-bright);
+}
+.term-key { font-family: var(--font-display-ember); font-weight: 600; font-size: var(--text-h3); }
+
+.banner {
+  background: linear-gradient(135deg, rgba(63, 169, 245, 0.12), rgba(217, 99, 30, 0.1));
+  border-radius: var(--radius-md);
+  padding: var(--space-4) var(--space-5);
+  margin: var(--space-4) 0;
+  font-style: italic;
+  color: rgba(43, 43, 43, 0.85);
+}
+.qmark { font-family: var(--font-display-ember); color: var(--ember-orange); font-size: 1.4em; margin-right: 4px; }
+
+.mlist { padding-left: 22px; margin: 0 0 var(--space-3); }
+.mlist li { margin-bottom: 8px; }
+.mlist li::marker { color: var(--ember-orange); font-weight: 700; }
+.mlist li.d1 { list-style: none; margin-left: -6px; opacity: 0.8; }
+
+.code-card {
+  background: var(--ink);
+  color: #f6eee2;
+  border-radius: var(--radius-md);
+  padding: var(--space-4);
+  overflow-x: auto;
+  margin: var(--space-4) 0;
+}
+.code-card code { background: none; color: inherit; }
+
+.take-module {
+  background: linear-gradient(135deg, var(--ember-orange), var(--ember-orange-dark));
+  border-top-color: var(--accent-gold);
+}
+.take-module h2 { color: var(--white); }
+.take-module .module-tab { background: var(--accent-gold); color: var(--ink); }
+.take-grid { list-style: none; padding: 0; margin: 0; display: grid; gap: 0; }
+.take-grid li {
+  display: flex; gap: 12px; align-items: flex-start;
+  padding: 14px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.25);
+  color: rgba(255, 255, 255, 0.96);
+}
+.take-grid li:first-child { border-top: none; }
+.take-grid svg { flex: none; margin-top: 5px; color: var(--accent-gold); }
+
+/* ============================== word bank =================================== */
+
+.wordbank {
+  border-radius: var(--radius-lg);
+  padding: var(--space-5);
+  background: var(--white);
+  box-shadow: var(--shadow-soft);
+  scroll-margin-top: 88px;
+}
+.rail-label {
+  font-size: var(--text-label); font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.12em;
+  color: var(--ember-orange-text);
+  margin: 0 0 var(--space-3);
+}
+.tags { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: var(--space-5); }
+.tag {
+  background: var(--tide-blue-bright);
+  color: var(--white);
+  border-radius: var(--radius-sm);
+  font-size: var(--text-label); font-weight: 600; letter-spacing: 0.03em;
+  padding: 6px 12px;
+}
+
+.lesson-nav {
+  display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-3);
+  padding-top: var(--space-4);
+  border-top: 1px solid rgba(43, 43, 43, 0.1);
+}
+.lnav {
+  display: block;
+  padding: var(--space-4);
+  background: var(--white);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-soft);
+  text-decoration: none;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.lnav:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(43, 43, 43, 0.12); }
+.lnav-dir { display: block; font-size: var(--text-label); font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: var(--ember-orange-text); margin-bottom: 6px; }
+.lnav-title { font-family: var(--font-display-ember); font-weight: 600; font-size: 15px; }
+
+/* =================== RIGHT RAIL — ReelLearn dots w/ hovers ================== */
+
+.side-nav {
+  position: fixed; right: 24px; top: 50%; transform: translateY(-50%);
+  z-index: 30;
+  display: flex; align-items: center;
+}
+.spine {
+  position: absolute; right: calc(50% - 1px); top: -18px; bottom: -18px;
+  width: 2px;
+  background: rgba(43, 43, 43, 0.12);
+  border-radius: 999px;
+}
+.spine i {
+  display: block; width: 100%; height: 0;
+  background: linear-gradient(180deg, var(--ember-orange), var(--tide-blue-bright));
+  border-radius: 999px;
+}
+
+.dots { position: relative; display: flex; flex-direction: column; gap: 26px; }
+
+.dot {
+  position: relative;
+  width: 12px; height: 12px;
+  border-radius: 50%;
+  border: none; padding: 0; cursor: pointer;
+  background: rgba(43, 43, 43, 0.28);
+  transition: background 0.15s, transform 0.15s, box-shadow 0.15s;
+}
+.dot:hover { background: var(--tide-blue-bright); transform: scale(1.25); }
+.dot.on {
+  background: var(--ember-orange);
+  transform: scale(1.35);
+  box-shadow: 0 0 0 4px rgba(217, 99, 30, 0.22);
+}
+
+.dot-hint {
+  position: absolute;
+  right: calc(100% + 14px);
+  top: 50%;
+  transform: translateY(-50%) translateX(6px);
+  background: var(--ink);
+  color: var(--white);
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.2;
+  padding: 7px 12px;
+  border-radius: var(--radius-sm);
+  white-space: nowrap;
+  max-width: 300px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.28);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.16s ease, transform 0.16s ease;
+  z-index: 35;
+}
+.dot-hint::after {
+  content: "";
+  position: absolute; right: -6px; top: 50%;
+  transform: translateY(-50%);
+  border: 6px solid transparent;
+  border-left-color: var(--ink);
+}
+.dot:hover .dot-hint,
+.dot:focus-visible .dot-hint { opacity: 1; transform: translateY(-50%) translateX(0); }
+
+/* ======================== bottom lesson pill ================================ */
+
+.pill {
+  position: fixed; bottom: 18px; left: 50%; transform: translateX(-50%);
+  z-index: 100;
+  display: flex; align-items: center; gap: 8px;
+  background: var(--ink);
+  color: var(--white);
+  border-radius: 999px;
+  padding: 8px 12px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
+}
+.plabel {
+  font-size: var(--text-label); font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.1em; opacity: 0.75; margin-right: 4px;
+}
+.slesson {
+  border: none; cursor: pointer;
+  width: 26px; height: 26px; border-radius: 50%;
+  background: rgba(255, 255, 255, 0.14);
+  color: var(--white);
+  font-size: 12px; font-weight: 700;
+}
+.slesson:hover { background: rgba(255, 255, 255, 0.28); }
+.slesson.on { background: var(--ember-orange); }
+
+/* ============================ responsive ==================================== */
+
+@media (max-width: 920px) {
+  .deck-wrap, .deck-head { max-width: none; }
+  .deck, .deck-head { padding-left: 40px; padding-right: 24px; }
+  .side-nav { right: 10px; }
+  .dots { gap: 20px; }
+  .dot-hint { max-width: 220px; }
+}
+@media (max-width: 560px) {
+  .deck, .deck-head { padding-left: 34px; padding-right: 14px; }
+  .side-nav { right: 6px; }
+  .stat { min-width: 0; padding: var(--space-2) var(--space-3); }
+}

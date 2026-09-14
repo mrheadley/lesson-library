@@ -1,0 +1,59 @@
+---
+import '../styles/tokens.css';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  subjectSlug?: string;
+  bare?: boolean;
+}
+
+const { title, description, subjectSlug, bare } = Astro.props;
+const siteName = 'Lesson Library';
+const isTide = !!subjectSlug?.toLowerCase().includes('english');
+const accent = subjectSlug ? (isTide ? 'tide' : 'ember') : undefined;
+---
+
+<!doctype html>
+<html lang="en" {...(accent ? { 'data-subject': accent } : {})}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&family=Sora:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    {accent === 'tide' && (
+      <link
+        href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&display=swap"
+        rel="stylesheet"
+      />
+    )}
+    <slot name="head" />
+  </head>
+  <body>
+    {!bare && (
+      <header class="site-header">
+        <div class="site-header-inner">
+          <a class="site-brand" href="/">{siteName}</a>
+        </div>
+      </header>
+    )}
+    <main class:list={['site-main', { 'site-main--bare': bare }]}>
+      <slot />
+    </main>
+    {!bare && (
+      <footer class="site-footer">
+        <div class="site-footer-inner">&copy; {new Date().getFullYear()} {siteName}</div>
+      </footer>
+    )}
+  </body>
+</html>

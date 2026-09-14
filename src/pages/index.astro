@@ -1,0 +1,49 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { readingMinutes } from '../lib/text';
+import ConsoleIndex from '../components/home/ConsoleIndex.astro';
+
+const siteName = 'Lesson Library';
+
+const outlines = (await getCollection('courseOutlines')).sort((a, b) =>
+  a.data.subject.localeCompare(b.data.subject),
+);
+const articles = await getCollection('articles');
+
+const courses = outlines
+  .map((o) => {
+    const own = articles.filter((a) => a.data.subjectSlug === o.data.subjectSlug);
+    return {
+      subject: o.data.subject,
+      subjectSlug: o.data.subjectSlug,
+      form: o.data.form,
+      units: [...(o.body ?? '').matchAll(/^\s*\d+\.\s+\[[^\]]+\]\([^)]+\)/gm)].length,
+      lessons: own.length,
+      minutes: own.reduce((s, a) => s + readingMinutes(a.body ?? ''), 0),
+      accent: (o.data.subjectSlug.includes('english') ? 'tide' : 'ember') as 'ember' | 'tide',
+    };
+  })
+  .sort((a, b) => a.subject.localeCompare(b.subject));
+---
+
+<Layout title={siteName} description="Browse course outlines and lessons.">
+  <Fragment slot="head">
+    <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&display=swap"
+      rel="stylesheet"
+    />
+  </Fragment>
+
+  <ConsoleIndex courses={courses} />
+
+  <script src="/pagefind/pagefind-ui.js" is:inline></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      if (document.querySelector('#search')) {
+        new PagefindUI({ element: '#search', showSubResults: false, showImages: false });
+      }
+    });
+  </script>
+</Layout>

@@ -1,0 +1,201 @@
+---
+export interface Course {
+  subject: string;
+  subjectSlug: string;
+  form: string;
+  units: number;
+  lessons: number;
+  minutes: number;
+  accent: 'ember' | 'tide';
+}
+
+interface Props {
+  courses: Course[];
+}
+
+const { courses } = Astro.props;
+const hours = (m: number) => `${Math.max(1, Math.round(m / 60))} h`;
+--- 
+
+<div class="console">
+  <header class="con-head">
+    <p class="con-kicker">Lesson Library // Index</p>
+    <h1 class="con-title">Pick a curriculum</h1>
+    <p class="con-sub">Open a course to view its outline and units.</p>
+    <div id="search" class="con-search"></div>
+  </header>
+
+  <ol class="rows">
+    {courses.map((c, i) => (
+      <li>
+        <a
+          class="row"
+          href={`/${c.subjectSlug}/`}
+          style={`--c:${c.accent === 'tide' ? 'var(--tide-accent)' : 'var(--ember-accent)'};--cs:${
+            c.accent === 'tide' ? 'var(--tide-soft)' : 'var(--ember-soft)'
+          };--cd:${c.accent === 'tide' ? 'var(--font-display-tide)' : 'var(--font-display-ember)'}`}
+        >
+          <span class="idx">{String(i + 1).padStart(2, '0')}</span>
+          <span class="copy">
+            <b class="subj">{c.subject}</b>
+            <span class="form">{c.form}</span>
+          </span>
+          <span class="pill">{c.units} units &middot; {c.lessons} lessons</span>
+          <span class="stats">≈ {hours(c.minutes)}</span>
+          <span class="dot"></span>
+        </a>
+      </li>
+    ))}
+  </ol>
+
+  <p class="con-footer">
+    All content built at build time. Three courses, colour-coded per curriculum.
+  </p>
+</div>
+
+<style>
+  .console {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: clamp(2.5rem, 7vw, 5rem) 1rem clamp(4rem, 10vw, 7rem);
+  }
+  .con-head {
+    margin-bottom: 3rem;
+  }
+  .con-search {
+    margin-top: 1.5rem;
+    max-width: 480px;
+  }
+  .con-search :global(.pagefind-ui__search-input) {
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+  }
+  .con-kicker {
+    font-size: 0.72rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--site-accent);
+    font-weight: 600;
+    margin: 0 0 1.25rem;
+  }
+  .con-title {
+    font-family: var(--site-display);
+    font-size: clamp(2.2rem, 6vw, 3.75rem);
+    letter-spacing: -0.03em;
+    margin: 0 0 0.75rem;
+    line-height: 1;
+  }
+  .con-sub {
+    color: var(--text-secondary);
+    margin: 0;
+  }
+  .rows {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .row {
+    position: relative;
+    display: grid;
+    grid-template-columns: 2.5rem 1fr auto auto 0.75rem;
+    align-items: center;
+    gap: 1.25rem;
+    padding: 1.4rem 0.5rem 1.4rem 1.25rem;
+    border-top: 1px solid var(--border-subtle);
+    color: var(--ink);
+    transition: background 0.15s;
+  }
+  .row::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 5px;
+    background: var(--c);
+    opacity: 0.15;
+    transition: opacity 0.15s;
+  }
+  .rows li:last-child .row {
+    border-bottom: 1px solid var(--border-subtle);
+  }
+  .row:hover {
+    background: var(--cs);
+    text-decoration: none;
+  }
+  .row:hover::before {
+    opacity: 1;
+  }
+  .idx {
+    display: grid;
+    place-items: center;
+    width: 40px;
+    height: 40px;
+    flex: none;
+    background: var(--c);
+    color: var(--white);
+    border-radius: var(--radius-sm);
+    font-family: var(--site-display);
+    font-weight: 700;
+    font-size: 0.95rem;
+    letter-spacing: 0.02em;
+    font-variant-numeric: tabular-nums;
+    transition: box-shadow 0.15s, transform 0.15s;
+  }
+  .row:hover .idx {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-1px);
+  }
+  .subj {
+    font-family: var(--cd);
+    font-size: clamp(1.3rem, 3.5vw, 1.7rem);
+    display: block;
+    letter-spacing: -0.01em;
+  }
+  .form {
+    display: block;
+    color: var(--text-secondary);
+    font-size: 0.8125rem;
+    margin-top: 0.25rem;
+  }
+  .pill {
+    font-size: 0.8125rem;
+    font-weight: 600;
+    color: var(--c);
+    background: var(--cs);
+    border: 1px solid var(--c);
+    border-radius: var(--radius-full);
+    padding: 0.3rem 0.9rem;
+    white-space: nowrap;
+    transition: background 0.15s, color 0.15s;
+  }
+  .row:hover .pill {
+    background: var(--white);
+  }
+  .stats {
+    font-variant-numeric: tabular-nums;
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+    font-weight: 600;
+  }
+  .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--c);
+  }
+  .con-footer {
+    margin-top: 3rem;
+    font-size: 0.8125rem;
+    color: var(--text-secondary);
+    letter-spacing: 0.04em;
+  }
+  @media (max-width: 560px) {
+    .row {
+      grid-template-columns: 2.5rem 1fr auto 0.75rem;
+    }
+    .pill {
+      display: none;
+    }
+  }
+</style>
