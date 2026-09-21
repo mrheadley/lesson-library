@@ -3,9 +3,9 @@ title: "Section 7 Review, Revenue Model Case Studies & Marketing Plan Preparatio
 subject: "Digital Media"
 subjectSlug: "digital-media-unit-2-form-6"
 form: "Form 6"
-topic: "Synthesis & Capstone"
-topicId: "synthesis-capstone"
-order: 1
+topic: "Revenue Models"
+topicId: "revenue-models"
+order: 8
 ---
 # Section 7 Review: The Whole Journey of Taking an App to Market
 

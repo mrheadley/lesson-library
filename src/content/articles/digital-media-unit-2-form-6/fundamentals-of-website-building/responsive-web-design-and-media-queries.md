@@ -1,5 +1,5 @@
 ---
-title: "Building a Complete Web Page (Workshop)"
+title: "Responsive Web Design and Media Queries"
 subject: "Digital Media"
 subjectSlug: "digital-media-unit-2-form-6"
 form: "Form 6"

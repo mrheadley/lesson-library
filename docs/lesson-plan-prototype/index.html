@@ -1,0 +1,32 @@
+<!doctype html>
+<!--
+  PROTOTYPE — throwaway, not production. Lesson-plan reading prototype.
+  Question: "what should a lesson plan look like when displayed, so it's easy to
+  read while you teach?" Three structurally different layouts, switchable via
+  ?variant=A|B|C, plus the Ember/Tide identity via ?lesson=ember|tide:
+    A — Timeline    chronological run-sheet (time is the spine)
+    B — Print       single-measure document, teach from the paper
+    C — Cockpit     interactive two-pane: tick segments, focus detail
+  Renders the two real lesson-01 plans (Ember IT + Tide English) from hand-built
+  models in app.js — sources: digital-citizenship-form-2/output/04-lesson-plans/
+  lesson-01-plan.md and english-b-form-1/output/04-lesson-plans/lesson-01-plan.md.
+  Ember and Tide design system: tokens linked live from /design-system/tokens.css.
+  Run: python3 serve_prototype.py   (from this directory)
+-->
+<html lang="en" data-subject="ember">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Lesson Plan Display — PROTOTYPE (A/B/C)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&family=Sora:wght@500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../../design-system/tokens.css">
+<link rel="stylesheet" href="style.css?v=1">
+</head>
+<body>
+<main id="root" aria-live="polite"></main>
+<script src="app.js?v=1"></script>
+</body>
+</html>

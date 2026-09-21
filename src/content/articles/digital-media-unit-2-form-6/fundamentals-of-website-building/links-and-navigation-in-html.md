@@ -1,5 +1,5 @@
 ---
-title: "HTML: Images, Multimedia & Embedding"
+title: "Links and Navigation in HTML"
 subject: "Digital Media"
 subjectSlug: "digital-media-unit-2-form-6"
 form: "Form 6"

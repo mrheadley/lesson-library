@@ -5,206 +5,200 @@ subjectSlug: "digital-media-unit-2-form-6"
 form: "Form 6"
 topic: "Visual & Interactive Design Foundations"
 topicId: "visual-interactive-design-foundations"
-order: 4
+order: 3
 ---
-# Lesson 4 — Principles of Interactive Design
+# Lesson 3 — Composition Rules, Golden Ratio, Rule of Thirds, Angles, Lighting, and Space
 
-## A Student's Guide to Designing for Interaction
+## A Student's Guide to Composition
 
-A poster is looked at. A website is **used**. The moment a design becomes interactive, a new set of rules kicks in — not about what looks good, but about what *works*. The user now has expectations, habits, and limited patience. Your job is to design something that respects all three.
+You can have the best colours, the best fonts, and the best photos — and still produce a design that feels awkward. That is almost always a **composition** problem. Composition is how the elements are arranged in space, and it is what separates a snapshot from a photograph, and a layout from a design.
 
-This article introduces the five core principles of interactive design: **Consistency, Perceivability, Learnability, Predictability, and Feedback**. Together they form the contract between the user and the interface.
-
----
-
-## 1. Why Interactive Design Is Different
-
-Static design has one job: be seen. Interactive design has many jobs — and they all happen **over time**, often within a few seconds. The user must:
-- Notice the right thing
-- Understand what to do
-- Do it
-- Know that it worked
-- Know what to do next
-
-Each of those steps can fail. The five principles below are the failure-prevention rules of interactive design.
-
-**Analogy:** A static design is a billboard. You see it once, in passing, and either it lands or it does not. An interactive design is a **conversation**. Every button click is the user speaking; every screen change is the design speaking back. A good conversation has timing, consistency, and clarity. So does a good interface.
+This article covers the major composition rules, the geometry behind them, the role of light, and how to think about space on a screen.
 
 ---
 
-## 2. The Five Core Principles
+## 1. Why Composition Matters
 
-### 2.1 Consistency
+Before any design rule: the **human eye scans in patterns**. Good composition works *with* those patterns instead of fighting them. Poor composition makes viewers work harder, feel confused, or simply look away.
 
-**What it means:** Elements and behaviours stay the same across the interface — and ideally across the entire product.
-
-Consistency has three layers:
-- **Visual consistency** — same colours, typography, spacing, and shapes used in the same way.
-- **Behavioural consistency** — the same action always produces the same result. A "Save" button always saves. A "Back" arrow always goes back.
-- **Internal consistency** — within a single product, the same patterns repeat.
-
-**Why it matters:** Every inconsistency forces the user to **stop and think**. Every "stop and think" is a small friction. Small frictions add up to a frustrating experience.
-
-**Analogy:** Consistency is **grammar** in a language. Once you learn the rules, you stop thinking about them and focus on the meaning. If a sentence randomly changes its grammar halfway through, you stumble. Same with an interface.
-
-**Worked example:** On a school portal, every primary action button should be the same colour, in the same position, with the same shape. If the "Submit Assignment" button is green on one page and blue on another, students waste time wondering if they are doing the right thing.
-
-### 2.2 Perceivability
-
-**What it means:** Information and interface elements are presented in a way users can **perceive**, regardless of their sensory abilities.
-
-Key aspects:
-- **Multiple sensory channels** — important information should not depend on one sense alone. A critical alert might use colour **and** an icon **and** a vibration.
-- **Alternative representations** — captions for video, alt text for images, transcripts for audio.
-- **Colour-blind safe palettes** — palettes that remain distinguishable for the most common forms of colour vision deficiency.
-- **Sufficient contrast** — text against its background must meet the **WCAG minimum 4.5:1 contrast ratio** for normal text.
-
-**Why it matters:** Roughly 1 in 12 people has some form of colour vision deficiency. Millions more have low vision, motor difficulties, hearing loss, or temporary impairments (a broken arm, a bright sun on a phone screen). Designing only for "the average user" excludes a huge number of people.
-
-**Analogy:** Perceivability is like **good public address announcements** at an airport. The message is delivered in writing (signs), in sound (announcements), and in pattern (consistent gate numbering). A flyer in a noisy terminal only would be useless.
-
-### 2.3 Learnability
-
-**What it means:** Users — especially first-time users — can **accomplish tasks without a manual**. They can figure it out.
-
-Tools designers use to lower the learning curve:
-- **Familiar metaphors** — the desktop, the folder, the trash can, the shopping cart. These work because users already know what they mean.
-- **Progressive disclosure** — only show what the user needs at each step. A registration form with five fields is easier than one with fifty.
-- **Clear affordances** — visual cues that signal how to interact. A button that looks raised and shaded *affords* pressing. An underlined blue word *affords* clicking.
-- **Error prevention and recovery** — design so that mistakes are hard to make, and easy to undo when they happen.
-
-**Why it matters:** A learnable interface is one a user can **pick up and use**, not one they have to study.
-
-**Analogy:** Learnability is the difference between a **self-service checkout** (scanner, screen, payment — figure it out in 30 seconds) and a complicated industrial machine (require a training course, sign a waiver). Self-service checkout is learnable because it borrows metaphors you already know from a normal checkout.
-
-### 2.4 Predictability
-
-**What it means:** The system behaves the way users **expect** based on their prior experience and the interface's cues.
-
-Predictability builds trust. Users stop second-guessing and start acting.
-
-How designers build predictability:
-- **Consistent feedback for user actions** — every click gets a response.
-- **Predictable state transitions** — clicking a dropdown shows a dropdown, every time, in the same way.
-- **Undo and redo** — especially for destructive actions. Knowing you can take it back removes fear.
-- **Clear system status** — the user can always tell what is happening (loading, success, error, offline).
-
-**Why it matters:** A predictable interface is a **trustworthy** interface. Users feel in control. An unpredictable interface feels broken or hostile, even when it is technically working as designed.
-
-**Analogy:** Predictability is **gravity**. You do not think about it, but you trust it. A world where gravity sometimes worked and sometimes did not would be terrifying. The same is true of buttons: if a button sometimes does what its label says and sometimes does something else, users stop trusting any button.
-
-### 2.5 Feedback
-
-**What it means:** The system **tells the user what is happening** in response to their actions. Feedback is the system's voice in the conversation.
-
-Feedback covers:
-- **Confirmation** — "Yes, your action was received." A button darkens when pressed. A form submit shows a success message.
-- **Progress** — "Your action is in progress." Loading bars, spinners, percentage indicators.
-- **Errors** — "Your action failed, and here is why." Inline error messages, alerts, and clear recovery steps.
-- **System status** — "Here is the current state." Online/offline indicators, sync status, "last updated" timestamps.
-
-**Why it matters:** Without feedback, the user is **left guessing**. Did my click register? Is the page loading or is it broken? Should I click again? Feedback removes every one of those questions.
-
-**Analogy:** Feedback is the **nod and "mm-hmm"** of a conversation. When you ask someone a question and they stay silent, you panic. When they nod, you relax and continue. A button that gives no feedback is a person who gives no response.
-
-**Important:** Feedback is not just visual. **Auditory feedback** (notification sounds, the click of a keyboard) and **haptic feedback** (a phone vibrating) are equally valid. The most accessible designs use **multiple senses at once** so the message gets through regardless of the user's environment or abilities.
+Composition rules are not laws — they are **heuristics** (rules of thumb) refined over centuries of painting, photography, and graphic design. Knowing them lets you break them on purpose. Not knowing them means every "break" is an accident.
 
 ---
 
-## 3. Frameworks That Operationalise the Principles
+## 2. The Core Composition Rules
 
-The five principles are the **what**. The frameworks below are the **how** — they break the principles into concrete design rules.
+### 2.1 The Rule of Thirds
+**What it is:** Imagine your frame divided into a **3×3 grid** (two vertical lines, two horizontal lines, splitting the image into nine equal rectangles). Place your key subjects along those lines or at the **four intersections**.
 
-### 3.1 Nielsen's 10 Usability Heuristics
-Jakob Nielsen's heuristics are the most widely used checklist in interaction design. They include:
-1. **Visibility of system status** — the user can always see what is happening.
-2. **Match between system and the real world** — speak the user's language, not jargon.
-3. **User control and freedom** — provide undo, redo, and clear "back" options.
-4. **Consistency and standards** — same words, same actions, same results.
-5. **Error prevention** — design so mistakes are hard to make.
-6. **Recognition rather than recall** — show options, do not make the user remember them.
-7. **Flexibility and efficiency of use** — shortcuts for experts, defaults for beginners.
-8. **Aesthetic and minimalist design** — no irrelevant information.
-9. **Help users recognise, diagnose, and recover from errors** — clear error messages in plain language.
-10. **Help and documentation** — provide easy-to-find assistance.
+**Why it works:** Centring every subject is static and predictable. The rule-of-thirds placement creates **tension and balance** — the eye moves around the frame instead of locking in the middle.
 
-If you remember only one thing about Nielsen's heuristics, make it this: **users should always know what is happening, what to do, and what just happened**.
+**Analogy:** A centred subject is a speaker standing dead-centre on a stage. A rule-of-thirds subject is the same speaker standing slightly off to one side — they look more natural, more dynamic, more like a real person in a real space.
 
-### 3.2 Gestalt Principles in Interaction
-The Gestalt principles from Lesson 1 apply here too. **Proximity** groups related controls. **Similarity** signals that buttons of the same colour do the same kind of thing. **Figure-ground** separates the active element from the background. **Closure** lets icons work even when simplified.
+**Example:** For a portrait, place the eyes along the top horizontal line rather than the middle of the frame. The eyes naturally become the focal point.
 
-### 3.3 Fitts's Law
-A foundational rule in interaction design:
+### 2.2 The Golden Ratio
+**What it is:** A mathematical proportion of approximately **1:1.618** (the Greek letter φ, "phi"). It appears in nature — nautilus shells, sunflowers, hurricanes — and produces compositions that feel **naturally pleasing**.
 
-> *The time to reach a target area is a function of the distance to the target and the size of the target.*
+**How to use it:**
+- The **golden rectangle** — a rectangle whose longer side is 1.618 times its shorter side. Crop your image to one.
+- The **Fibonacci spiral** — drawn inside a golden rectangle, the spiral guides the eye along a path from the outside of the frame into the focal point.
 
-In plain terms: **bigger and closer targets are faster to hit**.
+**Analogy:** The rule of thirds is a useful shortcut; the golden ratio is the deeper truth the rule of thirds is approximating. The rule of thirds divides the frame at roughly 33% and 67%; the golden ratio divides it at roughly 38% and 62%. They are close cousins.
 
-Practical implications:
-- Primary action buttons should be **large and easy to click** (especially on touch devices).
-- Important actions should be **near where the user's attention is** — not hidden in a corner.
-- Destructive actions should be **smaller or further away** (so they are not triggered accidentally).
+**Important:** You do not need to measure to four decimal places. **Approximating** the proportion is enough to produce the visual effect.
 
-**Analogy:** Fitts's Law is why a door handle is the size of a hand, not the size of a pinhead. The bigger the target, the easier to hit. The same is true of a "Buy Now" button on a phone screen.
+### 2.3 Leading Lines
+**What it is:** Lines within the image — a road, a fence, a row of trees, a staircase, the edge of a building — that **draw the viewer's eye toward the main subject**.
 
----
+**Why it works:** The eye follows lines. Give it a line and it will walk all the way to where that line ends.
 
-## 4. Why These Principles Matter for Form 6 Students
+**Example:** A photo of a long road with a person standing at the far end. The road is the leading line; the person is the subject.
 
-You are designing for an age group that:
-- Uses social media, messaging apps, and games daily — so they have strong opinions about what "feels right"
-- Has short attention spans — so progressive disclosure and immediate feedback matter
-- Lives on their phones — so mobile-first thinking is the default
-- Responds to gamification — badges, levels, progress bars, streaks
-- Expects feedback instantly — a 3-second loading screen is a 3-second exit
+### 2.4 Framing ("Frame Within a Frame")
+**What it is:** Using elements in the scene — a window, an arch, a doorway, overhanging tree branches — to **enclose the main subject** and separate it from the background.
 
-A 16-year-old who has used Instagram, TikTok, and Discord will notice instantly if your interface is clunky, slow, or confusing. You are not designing for beginners — you are designing for people with **high standards and low patience**. The five principles are how you meet those standards.
+**Why it works:** Framing adds depth (because the frame is closer to the camera than the subject) and focuses attention.
 
----
+**Analogy:** It is the visual equivalent of leaning in and saying "look at this." The frame is your hand cupped around your mouth.
 
-## 5. Common Misconceptions
+### 2.5 Visual Hierarchy
+**What it is:** Organising elements so the viewer sees the **most important thing first**, the second most important next, and so on.
 
-- **"Consistency means sameness everywhere."** False. Consistency should be balanced with appropriate variation. **Too much sameness** becomes monotony. Vary the surface; keep the patterns.
-- **"Predictable means boring."** False. Predictable interfaces are **trustworthy**, not boring. Innovation belongs in the content and the experience, not in the core navigation.
-- **"Feedback is just visual."** False. Feedback can be **visual, auditory, or haptic** (vibration). The most accessible designs use multiple channels at once.
-- **"Learnability is only for beginners."** False. Even expert users appreciate clear affordances, smooth onboarding, and obvious recovery paths when something goes wrong.
+**How to build it:**
+- **Size** — bigger things are read first.
+- **Contrast** — high-contrast things pop.
+- **Colour** — bright, saturated colours advance; muted colours recede.
+- **Lighting** — the brightest part of an image is what the eye finds first.
+- **Position** — top-left is read first in left-to-right languages; the centre is read first in centred layouts.
+
+**Example:** A magazine cover. The masthead is large and high-contrast at the top. The cover story is the next biggest thing. Smaller text fills in details. Your eye scans in that order, automatically.
 
 ---
 
-## 6. Worked Example: A Library Search Interface
+## 3. Space: The Two Halves of Every Composition
 
-Suppose you are designing a search interface for a school library. Apply the principles:
+Every composition has two kinds of space, and both are part of the design.
 
-1. **Consistency** — every search bar across the system looks the same. The "Search" button is the same colour, shape, and position on every page. Book cards use the same layout.
-2. **Perceivability** — text on a white background uses a 4.5:1 contrast ratio or higher. Book availability (in stock / out) is shown with both colour and an icon, not colour alone.
-3. **Learnability** — the search bar is in the same place as every other search bar the user has ever used. Book cards borrow the metaphor of a book cover with a title below. A first-time user can search in seconds.
-4. **Predictability** — clicking a book card always opens the detail page. The "Back" arrow always returns to the previous search. The "Borrow" button always opens the confirmation dialog in the same way.
-5. **Feedback** — typing shows live results. Submitting a search shows a loading indicator. Borrowing a book shows a clear success message: "You have borrowed *[Book Title]*. It is due back on [Date]." Errors (e.g., a book is already borrowed) show a clear, polite message: "Sorry, this book is currently checked out. Would you like to be notified when it is returned?"
+### 3.1 Positive Space
+**Positive space** is the **subject** — the thing you are looking at. The shape, the person, the product, the headline.
 
-This single example uses every one of the five principles.
+### 3.2 Negative Space
+**Negative space** is the **empty area around the subject**. It is the air, the background, the silence between the notes.
+
+Negative space is not "wasted space." It is a **powerful design tool** that:
+- Gives the subject room to breathe
+- Groups related elements
+- Sets a mood (lots of negative space = calm, premium, minimalist; little negative space = busy, energetic, intimate)
+- Can be used deliberately to create secondary images (the famous FedEx logo, where the negative space between the E and the X forms an arrow)
+
+**Analogy:** Positive space is the soloist. Negative space is the pause between the notes. A piece of music with no pauses is just noise. A photograph with no negative space is just clutter.
+
+### 3.3 Balance
+**Balance** is the distribution of visual weight across the composition. Two types:
+- **Symmetrical balance** — one side mirrors the other. Feels formal, stable, traditional. A wedding invitation, a government emblem, a centred logo.
+- **Asymmetrical balance** — different elements of different sizes, colours, or weights balance each other. Feels dynamic, modern, energetic. A magazine cover with a small bright object on one side and a large muted shape on the other.
+
+**Analogy:** A seesaw. Symmetrical balance is a child of equal weight on each end — stable and level. Asymmetrical balance is a heavy adult on one end and a small child with a sandbag on the other — still level, but more interesting.
 
 ---
 
-## 7. The Contract With the User
+## 4. Lighting in Composition
 
-Pulling everything together: interactive design is a **contract** between the user and the system. The user agrees to learn the interface; the system agrees to be consistent, perceivable, learnable, predictable, and to provide feedback. When either side breaks the contract, the experience suffers.
+Lighting is not just for photographers. It shapes **mood, depth, and focus** in any visual medium.
 
-- If the **system breaks it** (inconsistent, unpredictable, silent) — the user feels frustrated, distrusts the product, and leaves.
-- If the **user breaks it** (does not read instructions, ignores cues) — the system can absorb the mistake and provide recovery paths, because that is part of the contract too.
+### 4.1 Direction of Light
+- **Front light** — the light source is behind the camera, pointing at the subject. **Flattens** the subject (no shadows, no depth). Used for clarity, not drama.
+- **Side light** — the light comes from the left or right. **Emphasises texture and form** because shadows reveal the shape. Used for portraits, product photography, drama.
+- **Back light** — the light is behind the subject, pointing at the camera. Creates **silhouettes** and edge highlights. Used for atmosphere.
+- **Overhead light** — light from above (e.g., midday sun). Creates **harsh shadows** under the eyes, nose, and chin. Generally unflattering for portraits but dramatic for architecture.
 
-Good interactive design is the system keeping its side of the bargain — every time, in every screen, on every device.
+### 4.2 Quality of Light
+- **Hard light** — direct, unsoftened (a bare bulb, midday sun). Produces **strong, sharp shadows** with high contrast. Dramatic, harsh.
+- **Soft light** — diffused (a cloudy day, a softbox, light through a curtain). Produces **gentle shadows** with low contrast. Flattering for portraits, calming for scenes.
+
+### 4.3 Golden Hour
+The hour just after sunrise and the hour just before sunset. The light is **warm, low-angle, and soft**, producing long shadows and rich colour. Photographers and filmmakers prize it because it is the most flattering natural light of the day.
+
+**Analogy:** Front light is a flat photocopy. Side light is a sculpture. Back light is a shadow puppet. Each one tells a different story about the same subject.
 
 ---
 
-## 8. Key Takeaways
+## 5. Depth and Perspective
 
-- Interactive design is **conversation, not display**. The user and the system take turns.
-- The five core principles are **Consistency, Perceivability, Learnability, Predictability, and Feedback**.
-- **Nielsen's 10 heuristics** are the most widely used operational checklist — keep them in mind as a design review tool.
-- **Gestalt principles** from Lesson 1 still apply — proximity, similarity, figure-ground, and closure structure any interface.
-- **Fitts's Law** says bigger and closer targets are faster to hit. Size primary actions; push destructive ones away.
-- **Accessibility is not optional.** Contrast, multiple sensory channels, and clear error messages are minimum standards, not bonuses.
-- For Form 6 students: design for **mobile-first, short attention spans, gamification, and instant feedback**. You are designing for users with high standards and low patience.
-- All five principles are different ways of answering one question: **does the user always know what is happening, what to do, and what just happened?**
+A flat image can show depth. Two main tools do the work.
 
-These four lessons — design principles & elements, colour, composition, and interactive design — are the foundation. Every digital media project you build from here on will be working with these tools, whether you realise it or not.
+### 5.1 Depth of Field (DoF)
+**What it is:** The range of distance in a scene that is in sharp focus.
+- **Shallow DoF** — only a thin slice is in focus; everything in front or behind is blurred. Used to **isolate the subject** (a portrait, a product shot).
+- **Deep DoF** — everything from near to far is in focus. Used for **landscapes and scenes** where context matters.
+
+**What controls it:** Aperture (f-stop), focal length, and distance to the subject. A **wide aperture** (low f-number like f/1.8) gives shallow DoF. A **narrow aperture** (high f-number like f/16) gives deep DoF.
+
+### 5.2 Angles and Perspective
+- **Low angle** — camera below the subject, looking up. Makes the subject feel **powerful, towering, heroic**.
+- **High angle** — camera above the subject, looking down. Makes the subject feel **small, vulnerable, or contextualised**.
+- **Eye-level** — neutral. The most relatable perspective.
+- **Dutch angle** (tilted horizon) — adds **dynamism, unease, or energy**. Used in thrillers, music videos, action sequences. Used too much, it looks gimmicky.
+- **Ground-level** — places the viewer among ground-level details (grass, stones, feet). Immersive.
+- **High vantage** — reveals patterns (crowds, city grids, fields). Often used for establishing shots.
+
+**Analogy:** Angle is to photography what grammar is to a sentence. "The dog bit the man" and "The man bit the dog" use the same words but mean completely different things. The same subject shot from different angles tells completely different stories.
+
+---
+
+## 6. Composition for Screens
+
+A screen is not a canvas. It is a **portrait of many canvases at once** — desktop, tablet, phone, watch. Composition for digital media has special considerations.
+
+### 6.1 The Frame Is the Device
+Always consider the **frame of the device** the user is looking through. A composition that works on a 16:9 monitor may break on a 9:16 phone. Test on multiple aspect ratios.
+
+### 6.2 Grid Systems
+**CSS Grid** and **Flexbox** are the modern tools for systematic composition on the web. They let you align elements along invisible lines that respond to screen size. Grid systems are to digital composition what the rule of thirds is to photography — the underlying structure.
+
+### 6.3 Whitespace in UI
+In interface design, whitespace is **functional**, not decorative. It:
+- Makes pages readable
+- Groups related elements
+- Reduces cognitive load (a crowded interface feels overwhelming)
+- Signals importance (more whitespace around a button = "this matters")
+
+**Analogy:** A cluttered app is like a noisy classroom — students cannot focus. Whitespace is the silence that lets the important things be heard.
+
+---
+
+## 7. Common Misconceptions
+
+- **"The rule of thirds is a law."** False. It is a **guideline**. Strong centred subjects, symmetrical portraits, and other creative deviations often work better.
+- **"The golden ratio must be measured precisely."** False. Approximating the proportion is enough; the visual effect is what matters.
+- **"More negative space is always better."** False. Empty space must serve a purpose. Random empty areas feel awkward, not elegant.
+- **"Lighting only matters for video."** False. Lighting shapes mood and depth in **any** visual medium, including still photography, illustration, and even UI design (a dark-mode interface is a lighting choice).
+
+---
+
+## 8. Worked Example: A Book Cover
+
+Suppose you are designing the cover of a Caribbean novel set in a fishing village. Apply the rules:
+
+1. **Subject:** A small fishing boat on the water.
+2. **Rule of thirds:** Place the horizon on the **bottom third** (so the sky dominates — sense of openness). Place the boat at the **left intersection** (so the eye enters from the left).
+3. **Leading lines:** The **wake of the boat** draws the eye into the distance, toward the horizon.
+4. **Negative space:** The vast, mostly empty sky becomes a place for the title text, in calm, light typography.
+5. **Lighting:** Shoot at **golden hour** — the warm light suggests memory, nostalgia, and the rhythm of dawn fishing trips.
+6. **Angle:** Slightly **low angle** — the boat is on the water, the viewer is just above the waterline. Immersive.
+7. **Hierarchy:** The title is the largest text, in high contrast (white) on the muted sky. The author name is smaller. The publisher mark is smallest. Top-to-bottom scan: title, author, publisher.
+
+---
+
+## 9. Key Takeaways
+
+- Composition is **arrangement in space** — the rules that turn raw elements into a designed image.
+- The **rule of thirds** is a reliable starting point. The **golden ratio** is its more sophisticated cousin. Use either, or both, as guides.
+- **Leading lines, framing, and visual hierarchy** are the three workhorses of any composition.
+- **Negative space** is not waste — it is a tool. So is **positive space**. Both must be designed.
+- **Lighting** shapes mood, depth, and focus. Direction, quality, and time of day all matter.
+- **Angles change the story**. A low angle makes a subject powerful; a high angle makes it small.
+- For digital work, think about **the device's frame**, use **grid systems**, and treat **whitespace as functional**.
+- All of these are **heuristics, not laws**. The rules exist to be broken — but only when you know them well enough to break them on purpose.
+
+In the next lesson, we will move from **static composition** to **interactive design** — what happens when the user can click, tap, and move through the design rather than just look at it.

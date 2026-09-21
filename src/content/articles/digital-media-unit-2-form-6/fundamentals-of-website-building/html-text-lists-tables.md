@@ -1,5 +1,5 @@
 ---
-title: "HTML: Text, Lists, Tables & Links"
+title: "HTML: Text, Lists & Tables"
 subject: "Digital Media"
 subjectSlug: "digital-media-unit-2-form-6"
 form: "Form 6"

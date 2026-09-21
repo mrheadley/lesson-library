@@ -5,185 +5,251 @@ subjectSlug: "digital-media-unit-2-form-6"
 form: "Form 6"
 topic: "Fundamentals of Website Building"
 topicId: "fundamentals-of-website-building"
-order: 4
+order: 5
 ---
-# Adding Images and Multimedia
+# CSS Basics — Selectors and the Box Model
 
-## Bringing Pages to Life
+## From Structure to Style
 
-Text alone makes for a dull web page. Images, video, and audio make content engaging, explain complex ideas visually, and create emotional connections. HTML provides specific elements for embedding each type of media — and each comes with important accessibility and performance considerations.
+HTML defines what content *is*. CSS defines how it *looks*. This lesson introduces the fundamental concepts of CSS: how rules target HTML elements (selectors), how the browser resolves conflicts between competing rules (specificity and the cascade), and how every element is treated as a rectangular box with content, padding, border, and margin (the box model).
 
-## Images: The `<img>` Element
+## Writing CSS
 
-The `<img>` element embeds an image. It's a **void element** — no closing tag needed:
+CSS can be added to HTML in three ways:
 
-```html
-<img src="photo.jpg" alt="Students working in the computer lab" width="800" height="600">
-```
-
-### Essential Attributes
-
-| Attribute | Purpose | Required? |
-|-----------|---------|-----------|
-| `src` | Path to the image file | Yes |
-| `alt` | Alternative text description | Yes |
-| `width` | Image width in pixels | Recommended |
-| `height` | Image height in pixels | Recommended |
-| `loading` | `lazy` or `eager` | Optional |
-| `decoding` | `async` for performance | Optional |
-
-### Alt Text Is Not Optional
-
-The `alt` attribute describes the image for:
-- **Screen readers**: Blind or visually impaired users hear the description
-- **Broken images**: If the image fails to load, the alt text appears instead
-- **Search engines**: Google uses alt text to understand image content
-
-**Every `<img>` must have an `alt` attribute.** For decorative images (icons, borders, visual flourishes that add no informational value), use an empty alt: `alt=""`. This tells screen readers to skip the image. Omitting the `alt` attribute entirely causes screen readers to read the file path — a terrible experience.
-
-### Writing Good Alt Text
-
-**Be specific and descriptive**:
-- Bad: `alt="photo"` (too vague)
-- Bad: `alt="image of students in a room with computers and desks and chairs"` (too verbose)
-- Good: `alt="Students working in the computer lab"` (describes the content and context)
-
-**Don't start with "Image of..."** — screen readers already announce it as an image.
-
-### Width and Height
-
-Setting `width` and `height` on `<img>` allows the browser to **reserve space** before the image loads. This prevents **Cumulative Layout Shift (CLS)** — the jarring experience of content jumping around as images load. CLS is a Core Web Vital that Google uses to measure page quality.
-
-## Responsive Images
-
-Different devices need different image sizes. A phone doesn't need a 1920px-wide hero image. HTML's `srcset` attribute lets you provide multiple image files and tells the browser to choose the right one:
+### External CSS (Recommended)
+A separate `.css` file linked from the HTML `<head>`:
 
 ```html
-<img 
-    srcset="small.jpg 480w, medium.jpg 800w, large.jpg 1200w"
-    sizes="(max-width: 600px) 480px, 800px"
-    src="medium.jpg"
-    alt="School courtyard"
-    width="800"
-    height="600"
-    loading="lazy"
->
+<link rel="stylesheet" href="styles.css">
 ```
 
-- `srcset` — lists available images with their widths
-- `sizes` — tells the browser how wide the image will display at different viewport sizes
-- `src` — fallback for browsers that don't support `srcset`
+```css
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+```
 
-The browser picks the smallest image that's large enough — mobile users download less data, desktop users get sharp images.
+This is the standard approach — it keeps structure (HTML) separate from presentation (CSS), making both easier to maintain.
 
-### The `<picture>` Element for Art Direction
-
-Sometimes you don't just want a different size — you want a different **crop**. A wide landscape for desktop, a tight portrait for mobile. The `<picture>` element handles this:
+### Internal CSS
+A `<style>` block in the HTML `<head>` — acceptable for single-page projects:
 
 ```html
-<picture>
-    <source media="(min-width: 800px)" srcset="wide-crop.jpg">
-    <source media="(min-width: 400px)" srcset="medium-crop.jpg">
-    <img src="narrow-crop.jpg" alt="School courtyard" width="800" height="600">
-</picture>
+<style>
+    body { font-family: Arial, sans-serif; }
+</style>
 ```
 
-The `<img>` inside `<picture>` is required — it's the fallback and the element that actually renders.
-
-## Video: The `<video>` Element
+### Inline CSS
+A `style` attribute directly on an element — avoid this except for dynamic styles applied by JavaScript:
 
 ```html
-<video controls width="640" height="360">
-    <source src="tutorial.mp4" type="video/mp4">
-    <source src="tutorial.webm" type="video/webm">
-    Your browser does not support the video element.
-</video>
+<p style="color: red;">This text is red.</p>
 ```
 
-- `controls` — shows play/pause/volume controls (omit for autoplay, which is generally bad practice)
-- Multiple `<source>` elements — the browser uses the first format it supports
-- Fallback text inside the tags — displayed if the browser can't play video at all
+## Selectors: Targeting Elements
 
-### Hosting Video
+A **selector** determines which HTML element(s) a CSS rule applies to.
 
-Self-hosting video consumes enormous bandwidth. For most projects, upload to YouTube or Vimeo and embed via `<iframe>`:
+### Type Selector
+Targets all elements of a given type:
+
+```css
+h1 { color: navy; }          /* all h1 elements */
+p { line-height: 1.6; }      /* all paragraphs */
+```
+
+### Class Selector
+Targets all elements with a specific class:
 
 ```html
-<iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/VIDEO_ID"
-    title="Tutorial Video"
-    loading="lazy"
-    allowfullscreen>
-</iframe>
+<p class="highlight">Important text</p>
 ```
 
-Always include the `title` attribute for accessibility and `loading="lazy"` for performance.
+```css
+.highlight { background: yellow; }
+```
 
-## Audio: The `<audio>` Element
+Classes are reusable — multiple elements can share the same class. This is the most common selector.
+
+### ID Selector
+Targets the one element with a specific ID:
 
 ```html
-<audio controls>
-    <source src="podcast.mp3" type="audio/mpeg">
-    <source src="podcast.ogg" type="audio/ogg">
-    Your browser does not support the audio element.
-</audio>
+<header id="main-header">...</header>
 ```
 
-Same pattern as `<video>` — multiple sources with a fallback message.
-
-## Figures and Captions
-
-The `<figure>` and `<figcaption>` elements semantically group media with its caption:
-
-```html
-<figure>
-    <img src="chart.png" alt="Bar chart showing exam results by subject" width="600" height="400">
-    <figcaption>Figure 1: 2025 exam results by subject</figcaption>
-</figure>
+```css
+#main-header { background: #f5f5f5; }
 ```
 
-This is semantic HTML — it tells browsers and screen readers that the image and caption belong together.
+IDs are unique — only one element should have a given ID. They have higher specificity than classes, which makes them harder to override (usually a disadvantage).
 
-## SVG: Scalable Vector Graphics
+### Descendant Selector
+Targets elements inside other elements:
 
-SVG is a vector format — it uses mathematical paths rather than pixels. This means it scales to any size without losing quality, and file sizes are tiny for simple graphics.
-
-**Best for**: logos, icons, illustrations, charts, diagrams
-
-```html
-<!-- Inline SVG -->
-<svg width="24" height="24" viewBox="0 0 24 24">
-    <circle cx="12" cy="12" r="10" fill="#0066cc"/>
-</svg>
-
-<!-- SVG as an image -->
-<img src="logo.svg" alt="Company logo" width="200" height="60">
+```css
+nav a { color: white; }       /* all links inside nav */
+article p { margin-bottom: 1em; } /* all paragraphs inside article */
 ```
+
+### Child Selector
+Targets only direct children (not deeper descendants):
+
+```css
+nav > a { padding: 8px; }    /* only links directly inside nav, not nested deeper */
+```
+
+### Pseudo-class Selector
+Targets elements in a specific state:
+
+```css
+a:hover { color: #0066cc; }        /* links on mouse hover */
+li:first-child { font-weight: bold; } /* first list item */
+input:focus { border-color: #0066cc; } /* input when focused */
+```
+
+## Specificity: Which Rule Wins
+
+When multiple CSS rules target the same element, the browser needs to know which one takes precedence. This is determined by **specificity** — a weighting system:
+
+| Specificity Level | Example | Weight |
+|------------------|---------|--------|
+| Inline styles | `style="..."` | Highest |
+| ID selector | `#header` | High |
+| Class selector | `.card` | Medium |
+| Type selector | `h1` | Low |
+
+**Specificity order**: inline > ID > class > type.
+
+If two rules have the same specificity, the **last one in the stylesheet wins**. This is the "cascade" in Cascading Style Sheets.
+
+### Avoid `!important`
+The `!important` declaration overrides all specificity rules:
+
+```css
+p { color: black !important; }
+```
+
+This is a nuclear option — it makes the rule extremely hard to override. Avoid it. If you find yourself using `!important`, your specificity strategy needs rethinking.
+
+## The Box Model
+
+Every HTML element is a rectangular box. The CSS Box Model describes the four layers that make up that box:
+
+```
+┌─────────────────────┐
+│       Margin        │  ← space outside the border
+│  ┌───────────────┐  │
+│  │    Border     │  │  ← visible edge
+│  │  ┌─────────┐  │  │
+│  │  │ Padding │  │  │  ← space inside the border
+│  │  │ ┌─────┐ │  │  │
+│  │  │ │Content│ │  │  │  ← the text/image
+│  │  │ └─────┘ │  │  │
+│  │  └─────────┘  │  │
+│  └───────────────┘  │
+└─────────────────────┘
+```
+
+### Content
+The actual content — text, image, or other media. Its dimensions are set by `width` and `height`.
+
+### Padding
+Space between the content and the border. Adds breathing room inside the element:
+
+```css
+.card { padding: 20px; }
+```
+
+### Border
+The visible edge wrapping the padding:
+
+```css
+.card { border: 1px solid #ddd; }
+```
+
+### Margin
+Space outside the border — pushes the element away from its neighbours:
+
+```css
+.card { margin: 16px 0; }
+```
+
+## `box-sizing: border-box`
+
+Here's the critical detail: by default, `width` and `height` only apply to the **content** area. Padding and border are added *on top* of the specified width. This means setting `width: 200px` plus `padding: 20px` creates a box that's actually 240px wide.
+
+This breaks layouts. The fix:
+
+```css
+* {
+    box-sizing: border-box;
+}
+```
+
+With `border-box`, `width` and `height` include padding and border. A 200px-wide box with 20px padding stays 200px wide. This is the universal recommendation — always use `border-box`.
+
+## Practical Example: A Card Component
+
+```css
+.card {
+    background: #f5f5f5;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 16px 0;
+    max-width: 600px;
+}
+```
+
+- `background` — light grey fill
+- `padding` — 20px inside the border
+- `border` — thin grey border
+- `border-radius` — rounded corners
+- `margin` — 16px above and below, none on sides
+- `max-width` — won't exceed 600px, but will shrink on smaller screens
+
+## Responsive Container
+
+A common pattern for centring content:
+
+```css
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+```
+
+- `max-width: 960px` — content stays narrow on large screens
+- `margin: 0 auto` — centres the container horizontally
+- `padding: 0 16px` — breathing room on small screens
 
 ## Common Misconceptions
 
-### "Alt text is optional"
-Alt text is legally and ethically required for accessibility. It's also good for SEO. Every `<img>` needs `alt`.
+### "ID selectors are better than class selectors"
+IDs have higher specificity, which makes them **harder to override** — this is usually a disadvantage. Classes are flexible, reusable, and easier to work with. Prefer classes.
 
-### "Decorative images don't need alt"
-Decorative images should have **empty alt** (`alt=""`), not no alt. Empty alt tells screen readers to skip it. No alt at all causes screen readers to read the file path.
+### "Margin and padding are the same thing"
+Margin is space **outside** the border (between elements). Padding is space **inside** the border (between content and border). They serve different purposes and create different visual effects.
 
-### "Large images look better"
-Oversized images waste bandwidth and slow page loads. Serve images at the size they'll be displayed. A 1920px image displayed in a 500px area wastes 97% of its pixels.
+### "`box-sizing: border-box` is unnecessary"
+Without it, adding padding increases the element's total width — breaking layouts. Border-box makes sizing intuitive and is universally recommended.
 
 ## Key Terms
 
 | Term | Definition |
 |------|-----------|
-| Void element | An HTML element with no closing tag (`<img>`, `<br>`, `<hr>`) |
-| `alt` text | Alternative text describing an image for accessibility |
-| `srcset` | HTML attribute providing multiple image files for responsive delivery |
-| Art direction | Serving different image crops for different viewport sizes |
-| CLS | Cumulative Layout Shift — a performance metric for layout stability |
-| SVG | Scalable Vector Graphics — vector format for icons and illustrations |
+| Selector | The part of a CSS rule that identifies which elements to style |
+| Specificity | Weighting system determining which CSS rule takes precedence |
+| Cascade | How CSS rules combine based on specificity, order, and inheritance |
+| Box model | The four-layer model: content, padding, border, margin |
+| `border-box` | Makes width/height include padding and border |
 
 ## Summary
 
-HTML provides elements for every type of media: `<img>` for images, `<video>` for video, `<audio>` for audio, and `<iframe>` for external content. The most important attribute on `<img>` is `alt` — it's required for accessibility and provides fallback text. Responsive images (`srcset`, `<picture>`) ensure users download the right image for their device. Always set `width` and `height` to prevent layout shift.
+CSS controls visual presentation. Selectors determine which elements are styled; specificity determines which rules win when they conflict. The box model describes how every element's size and spacing are calculated — content, padding, border, margin. Always set `box-sizing: border-box` to make sizing intuitive. These fundamentals — selectors, specificity, and the box model — underpin everything else in CSS.

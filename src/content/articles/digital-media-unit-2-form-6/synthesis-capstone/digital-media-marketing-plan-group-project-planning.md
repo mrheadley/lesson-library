@@ -5,7 +5,7 @@ subjectSlug: "digital-media-unit-2-form-6"
 form: "Form 6"
 topic: "Synthesis & Capstone"
 topicId: "synthesis-capstone"
-order: 2
+order: 1
 ---
 # The Digital Media Marketing Plan: Planning a Complete, Defensible Document
 

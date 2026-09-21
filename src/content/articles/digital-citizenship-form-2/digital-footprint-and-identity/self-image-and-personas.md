@@ -1,5 +1,5 @@
 ---
-title: "Self-Image & Personas; Gender & Identity Online"
+title: "Self-Image, Personas & Identity Online"
 subject: "Information Technology"
 subjectSlug: "digital-citizenship-form-2"
 form: "Form 2"

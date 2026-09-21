@@ -5,251 +5,287 @@ subjectSlug: "digital-media-unit-2-form-6"
 form: "Form 6"
 topic: "Fundamentals of Website Building"
 topicId: "fundamentals-of-website-building"
-order: 5
+order: 6
 ---
-# CSS Basics — Selectors and the Box Model
+# CSS Layout — Flexbox and Positioning
 
-## From Structure to Style
+## Arranging Elements on the Page
 
-HTML defines what content *is*. CSS defines how it *looks*. This lesson introduces the fundamental concepts of CSS: how rules target HTML elements (selectors), how the browser resolves conflicts between competing rules (specificity and the cascade), and how every element is treated as a rectangular box with content, padding, border, and margin (the box model).
+HTML puts elements in a default flow: block elements stack vertically, inline elements flow left to right. But real designs need more control — navigation bars, card grids, sidebars, centred content, sticky headers. CSS layout tools let you arrange elements exactly where you need them.
 
-## Writing CSS
+This lesson covers two layout systems: **Flexbox** (the modern standard for one-dimensional layout) and **CSS positioning** (for precise placement of specific elements).
 
-CSS can be added to HTML in three ways:
+## Flexbox: The Layout Revolution
 
-### External CSS (Recommended)
-A separate `.css` file linked from the HTML `<head>`:
+Before Flexbox (standardised in 2017), layout required floats, positioning hacks, and clearfixes — fragile techniques that broke easily. Flexbox replaced all of that with a clean, intuitive system.
+
+### The Basics
+
+Apply `display: flex` to a container, and its children become **flex items** arranged along a single axis:
 
 ```html
-<link rel="stylesheet" href="styles.css">
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+</nav>
 ```
 
 ```css
-/* styles.css */
-body {
-    font-family: Arial, sans-serif;
-    color: #333;
+nav {
+    display: flex;
+    gap: 16px;
 }
 ```
 
-This is the standard approach — it keeps structure (HTML) separate from presentation (CSS), making both easier to maintain.
+The links sit side by side with 16px between them. No floats, no clearfix, no hacks.
 
-### Internal CSS
-A `<style>` block in the HTML `<head>` — acceptable for single-page projects:
+### Main Axis and Cross Axis
 
-```html
-<style>
-    body { font-family: Arial, sans-serif; }
-</style>
-```
+Flexbox works along two axes:
 
-### Inline CSS
-A `style` attribute directly on an element — avoid this except for dynamic styles applied by JavaScript:
-
-```html
-<p style="color: red;">This text is red.</p>
-```
-
-## Selectors: Targeting Elements
-
-A **selector** determines which HTML element(s) a CSS rule applies to.
-
-### Type Selector
-Targets all elements of a given type:
-
-```css
-h1 { color: navy; }          /* all h1 elements */
-p { line-height: 1.6; }      /* all paragraphs */
-```
-
-### Class Selector
-Targets all elements with a specific class:
-
-```html
-<p class="highlight">Important text</p>
-```
-
-```css
-.highlight { background: yellow; }
-```
-
-Classes are reusable — multiple elements can share the same class. This is the most common selector.
-
-### ID Selector
-Targets the one element with a specific ID:
-
-```html
-<header id="main-header">...</header>
-```
-
-```css
-#main-header { background: #f5f5f5; }
-```
-
-IDs are unique — only one element should have a given ID. They have higher specificity than classes, which makes them harder to override (usually a disadvantage).
-
-### Descendant Selector
-Targets elements inside other elements:
-
-```css
-nav a { color: white; }       /* all links inside nav */
-article p { margin-bottom: 1em; } /* all paragraphs inside article */
-```
-
-### Child Selector
-Targets only direct children (not deeper descendants):
-
-```css
-nav > a { padding: 8px; }    /* only links directly inside nav, not nested deeper */
-```
-
-### Pseudo-class Selector
-Targets elements in a specific state:
-
-```css
-a:hover { color: #0066cc; }        /* links on mouse hover */
-li:first-child { font-weight: bold; } /* first list item */
-input:focus { border-color: #0066cc; } /* input when focused */
-```
-
-## Specificity: Which Rule Wins
-
-When multiple CSS rules target the same element, the browser needs to know which one takes precedence. This is determined by **specificity** — a weighting system:
-
-| Specificity Level | Example | Weight |
-|------------------|---------|--------|
-| Inline styles | `style="..."` | Highest |
-| ID selector | `#header` | High |
-| Class selector | `.card` | Medium |
-| Type selector | `h1` | Low |
-
-**Specificity order**: inline > ID > class > type.
-
-If two rules have the same specificity, the **last one in the stylesheet wins**. This is the "cascade" in Cascading Style Sheets.
-
-### Avoid `!important`
-The `!important` declaration overrides all specificity rules:
-
-```css
-p { color: black !important; }
-```
-
-This is a nuclear option — it makes the rule extremely hard to override. Avoid it. If you find yourself using `!important`, your specificity strategy needs rethinking.
-
-## The Box Model
-
-Every HTML element is a rectangular box. The CSS Box Model describes the four layers that make up that box:
-
-```
-┌─────────────────────┐
-│       Margin        │  ← space outside the border
-│  ┌───────────────┐  │
-│  │    Border     │  │  ← visible edge
-│  │  ┌─────────┐  │  │
-│  │  │ Padding │  │  │  ← space inside the border
-│  │  │ ┌─────┐ │  │  │
-│  │  │ │Content│ │  │  │  ← the text/image
-│  │  │ └─────┘ │  │  │
-│  │  └─────────┘  │  │
-│  └───────────────┘  │
-└─────────────────────┘
-```
-
-### Content
-The actual content — text, image, or other media. Its dimensions are set by `width` and `height`.
-
-### Padding
-Space between the content and the border. Adds breathing room inside the element:
-
-```css
-.card { padding: 20px; }
-```
-
-### Border
-The visible edge wrapping the padding:
-
-```css
-.card { border: 1px solid #ddd; }
-```
-
-### Margin
-Space outside the border — pushes the element away from its neighbours:
-
-```css
-.card { margin: 16px 0; }
-```
-
-## `box-sizing: border-box`
-
-Here's the critical detail: by default, `width` and `height` only apply to the **content** area. Padding and border are added *on top* of the specified width. This means setting `width: 200px` plus `padding: 20px` creates a box that's actually 240px wide.
-
-This breaks layouts. The fix:
-
-```css
-* {
-    box-sizing: border-box;
-}
-```
-
-With `border-box`, `width` and `height` include padding and border. A 200px-wide box with 20px padding stays 200px wide. This is the universal recommendation — always use `border-box`.
-
-## Practical Example: A Card Component
-
-```css
-.card {
-    background: #f5f5f5;
-    padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    margin: 16px 0;
-    max-width: 600px;
-}
-```
-
-- `background` — light grey fill
-- `padding` — 20px inside the border
-- `border` — thin grey border
-- `border-radius` — rounded corners
-- `margin` — 16px above and below, none on sides
-- `max-width` — won't exceed 600px, but will shrink on smaller screens
-
-## Responsive Container
-
-A common pattern for centring content:
+- **Main axis**: The primary direction (horizontal by default, set by `flex-direction`)
+- **Cross axis**: Perpendicular to the main axis (vertical by default)
 
 ```css
 .container {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 0 16px;
+    display: flex;
+    flex-direction: row;      /* main axis is horizontal (default) */
+    /* or flex-direction: column; — main axis is vertical */
 }
 ```
 
-- `max-width: 960px` — content stays narrow on large screens
-- `margin: 0 auto` — centres the container horizontally
-- `padding: 0 16px` — breathing room on small screens
+### Alignment Properties
+
+#### Along the Main Axis: `justify-content`
+
+```css
+.container {
+    display: flex;
+    justify-content: center;          /* centres items */
+    /* justify-content: space-between; — equal space between items */
+    /* justify-content: space-around; — equal space around items */
+    /* justify-content: space-evenly; — truly equal spacing */
+    /* justify-content: flex-start; — items at the start (default) */
+}
+```
+
+#### Along the Cross Axis: `align-items`
+
+```css
+.container {
+    display: flex;
+    align-items: center;          /* centres items vertically */
+    /* align-items: stretch; — items fill the container height (default) */
+    /* align-items: flex-start; — items at the top */
+}
+```
+
+#### Centre Everything
+
+The classic "centre anything" pattern:
+
+```css
+.centred {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+```
+
+This centres content both horizontally and vertically within the full viewport height.
+
+### Flex Sizing
+
+The `flex` property on child elements controls how they share available space:
+
+```css
+.card {
+    flex: 1;               /* each card grows equally */
+    /* flex: 1 1 300px; — grow, shrink, but not below 300px */
+    /* flex: 0 0 200px; — fixed at 200px, don't grow or shrink */
+}
+```
+
+`flex: 1 1 300px` means: grow to fill space, shrink if needed, but never go below 300px. This creates responsive card grids that wrap naturally.
+
+### Flex Wrap
+
+By default, flex items try to fit on one line. `flex-wrap: wrap` lets them wrap to the next line:
+
+```css
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.card {
+    flex: 1 1 300px;
+}
+```
+
+Cards wrap responsively — three per row on wide screens, two on medium, one on narrow.
+
+### Gap
+
+The `gap` property adds consistent spacing between flex items — no margins on individual items needed:
+
+```css
+.container {
+    display: flex;
+    gap: 16px;
+}
+```
+
+### Flex Ordering
+
+The `order` property changes the visual order of flex items without changing the HTML source order:
+
+```css
+.sidebar { order: 2; }
+.main { order: 1; }
+```
+
+**Warning**: Screen readers follow the HTML source order, not the visual order. Only use `order` when the visual reordering doesn't affect accessibility.
+
+## CSS Positioning
+
+Positioning removes elements from the normal document flow or shifts them relative to their normal position. It's powerful for specific use cases but shouldn't be used for general layout.
+
+### Position Values
+
+#### `static` (Default)
+Normal document flow. No positioning applied.
+
+#### `relative`
+Shifted from its normal position, but **original space is preserved**:
+
+```css
+.badge {
+    position: relative;
+    top: -10px;     /* shifts 10px up from normal position */
+}
+```
+
+#### `absolute`
+Removed from the document flow. Positioned relative to the nearest **positioned ancestor** (an ancestor with `position` set to anything other than `static`):
+
+```css
+.parent {
+    position: relative;   /* creates positioning context */
+}
+
+.child {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+```
+
+Other elements don't know the absolute-positioned element is there — it can overlap them.
+
+#### `fixed`
+Removed from the document flow. Positioned relative to the **viewport** — it stays in place while scrolling:
+
+```css
+.sticky-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #333;
+    color: white;
+    padding: 12px;
+    z-index: 100;
+}
+```
+
+#### `sticky`
+Alternates between `relative` and `fixed` based on scroll position. It scrolls normally until it hits a threshold, then "sticks" in place:
+
+```css
+header {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 100;
+}
+```
+
+The header scrolls with the page until it reaches the top of the viewport, then stays there.
+
+### z-index
+
+Controls stacking order of positioned elements (higher = on top):
+
+```css
+.overlay { z-index: 10; }
+.modal { z-index: 100; }
+```
+
+**Important**: `z-index` only works on positioned elements (anything except `static`).
+
+### Overflow
+
+Controls what happens when content exceeds its container:
+
+```css
+.container {
+    overflow: hidden;   /* clips overflowing content */
+    overflow: scroll;   /* adds scrollbars */
+    overflow: auto;     /* adds scrollbars only when needed */
+}
+```
+
+## Flexbox vs. Positioning: When to Use Which
+
+| Use Case | Tool |
+|----------|------|
+| Navigation bar | Flexbox |
+| Card grid | Flexbox |
+| Footer layout | Flexbox |
+| Centring content | Flexbox |
+| Sticky header | `position: sticky` |
+| Fixed bottom banner | `position: fixed` |
+| Tooltip/icon overlay | `position: absolute` |
+| Sidebar that scrolls with page | Flexbox |
+
+**General rule**: Use Flexbox for layout. Reserve positioning for overlays, tooltips, sticky elements, and icons.
+
+## Flexbox vs. CSS Grid
+
+| Feature | Flexbox | Grid |
+|---------|---------|------|
+| Dimension | One axis (row OR column) | Two axes (rows AND columns) |
+| Best for | Linear layouts, navigation, cards | Complex 2D page layouts |
+| Learning curve | Lower | Slightly higher |
+
+For most everyday layout needs, Flexbox is sufficient. Use Grid when you need precise two-dimensional control (e.g. a dashboard with rows and columns of different sizes).
 
 ## Common Misconceptions
 
-### "ID selectors are better than class selectors"
-IDs have higher specificity, which makes them **harder to override** — this is usually a disadvantage. Classes are flexible, reusable, and easier to work with. Prefer classes.
+### "Flexbox is just for navigation bars"
+Flexbox is a general-purpose layout tool. It handles cards, footers, sidebars, centring, equal-height columns, and far more. Navigation is just one use case.
 
-### "Margin and padding are the same thing"
-Margin is space **outside** the border (between elements). Padding is space **inside** the border (between content and border). They serve different purposes and create different visual effects.
+### "Absolute positioning is the best way to place things"
+Absolute positioning removes elements from the document flow — other elements don't know they're there, causing overlaps and gaps. Use Flexbox or Grid for layout; reserve absolute positioning for overlays and specific exceptions.
 
-### "`box-sizing: border-box` is unnecessary"
-Without it, adding padding increases the element's total width — breaking layouts. Border-box makes sizing intuitive and is universally recommended.
+### "Float is still the main way to do layout"
+Float was designed for wrapping text around images, not for page layout. Flexbox and Grid replaced float for layout in 2017. Learning float helps understand legacy code; don't use it for new projects.
 
 ## Key Terms
 
 | Term | Definition |
 |------|-----------|
-| Selector | The part of a CSS rule that identifies which elements to style |
-| Specificity | Weighting system determining which CSS rule takes precedence |
-| Cascade | How CSS rules combine based on specificity, order, and inheritance |
-| Box model | The four-layer model: content, padding, border, margin |
-| `border-box` | Makes width/height include padding and border |
+| Flexbox | CSS layout model distributing space along a single axis |
+| Main axis | Primary axis of flex layout (horizontal by default) |
+| Cross axis | Axis perpendicular to the main axis |
+| Positioning context | Nearest positioned ancestor used by `absolute`/`fixed` elements |
+| Document flow | Default layout where elements follow HTML source order |
+| z-index | Controls stacking order of positioned elements |
 
 ## Summary
 
-CSS controls visual presentation. Selectors determine which elements are styled; specificity determines which rules win when they conflict. The box model describes how every element's size and spacing are calculated — content, padding, border, margin. Always set `box-sizing: border-box` to make sizing intuitive. These fundamentals — selectors, specificity, and the box model — underpin everything else in CSS.
+Flexbox is the modern standard for CSS layout. Apply `display: flex` to a container, use `justify-content` and `align-items` for alignment, `flex` for sizing, and `gap` for spacing. It handles navigation bars, card grids, centred content, and most everyday layouts. CSS positioning (`relative`, `absolute`, `fixed`, `sticky`) is for specific cases: sticky headers, fixed banners, and overlays. Use Flexbox for layout; use positioning sparingly.

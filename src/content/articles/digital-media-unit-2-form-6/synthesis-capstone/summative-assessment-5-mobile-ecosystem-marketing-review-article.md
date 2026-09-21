@@ -5,7 +5,7 @@ subjectSlug: "digital-media-unit-2-form-6"
 form: "Form 6"
 topic: "Synthesis & Capstone"
 topicId: "synthesis-capstone"
-order: 4
+order: 3
 isReview: true
 ---
 # Summative Assessment 5: Mobile Ecosystem & Marketing — Review Article

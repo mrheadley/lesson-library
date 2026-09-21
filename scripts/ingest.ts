@@ -1,4 +1,4 @@
-import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, readdir, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { load as loadYaml } from 'js-yaml';
@@ -95,6 +95,12 @@ async function ingestSubject(folder: string): Promise<void> {
   }
 
   const articlesDir = path.join(folder, 'output/03-articles');
+
+  // Full regenerate (ADR 0013): clear this subject's existing output before
+  // writing, so an article that moved topics or was removed from the
+  // manifest doesn't leave a stale duplicate behind in its old location.
+  const subjectOutDir = path.join(articlesOutRoot, manifest.slug);
+  await rm(subjectOutDir, { recursive: true, force: true });
 
   for (const topic of manifest.topics ?? []) {
     for (const entry of topic.articles ?? []) {

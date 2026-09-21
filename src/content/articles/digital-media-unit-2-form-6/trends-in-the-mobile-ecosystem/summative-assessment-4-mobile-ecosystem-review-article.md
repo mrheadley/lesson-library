@@ -3,9 +3,9 @@ title: "Summative Assessment 4: Mobile Ecosystem — Review Article"
 subject: "Digital Media"
 subjectSlug: "digital-media-unit-2-form-6"
 form: "Form 6"
-topic: "Marketing Strategies"
-topicId: "marketing-strategies"
-order: 6
+topic: "Trends in the Mobile Ecosystem"
+topicId: "trends-in-the-mobile-ecosystem"
+order: 10
 isReview: true
 ---
 # Summative Assessment 4: Mobile Ecosystem — Review Article

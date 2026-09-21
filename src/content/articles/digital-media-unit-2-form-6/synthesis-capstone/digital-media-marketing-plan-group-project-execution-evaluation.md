@@ -5,7 +5,7 @@ subjectSlug: "digital-media-unit-2-form-6"
 form: "Form 6"
 topic: "Synthesis & Capstone"
 topicId: "synthesis-capstone"
-order: 3
+order: 2
 ---
 # Presenting and Evaluating the Marketing Plan: Defence, Feedback, and Reflection
 
