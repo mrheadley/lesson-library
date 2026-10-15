@@ -24,8 +24,8 @@ Test 2 (Week 9, Lesson 9.3 — slot 27) covers all of Unit 2's five stories:
 5. **King Midas** — the biased judgement, the golden touch, the idiom.
 
 The test wants the same two things Test 1 wanted: **the facts cold** and **the evidence habit**
-(back every claim with a quote). The running theme you must be able to articulate: *the gods act
-on temper and pride, punish the same flaws in humans, and keep a small mercy (or a regret)
+(back every claim with a quote). The running theme you must be able to say clearly: *the gods
+act on temper and pride, punish the same flaws in humans, and keep a small mercy (or a regret)
 tucked into every punishment.*
 
 ---
@@ -48,7 +48,7 @@ Run these as flashcards until they snap:
   of feathers → wings of feathers + blanket-wool + candle-wax → the warning ("don't fly too
   high, don't fly too close to the sun") → Icarus climbs for fun, jeers at the sun → wax
   melts, feathers shed, he falls into the sea → father buries the feathers. **Lesson:
-  disobedience costs; obedience keeps safe; over-ambition/hubris.**
+  disobedience costs; obedience keeps safe; over-ambition (hubris).**
 - **Arachne:** best needlewoman → boast ("Gods? Bodkins!") → Athene (wisdom + household
   crafts) tests her in disguise → challenge declared → Athene weaves flattery, Arachne weaves
   satire → verdict: Arachne's hand more skilful, her subject an outrage → rage + "Weave your
@@ -56,22 +56,23 @@ Run these as flashcards until they snap:
 - **Midas:** "almost as stupid as he was greedy" → Apollo vs. Pan, golden trumpet vs. tin
   whistle → biased verdict ("Pan was the better!") → ass's ears → tall-hat fashion → barber
   whispers in a riverside hole → reeds whisper the secret → one wish (centaur *or* satyr — both
-  retellings) → everything turns to gold → food, servant-statue, son ("Papa! Papa!") → river
+  versions) → everything turns to gold → food, servant-statue, son ("Papa! Papa!") → river
   cure → son restored, wet and crying → "never wish for wealth again." **Idiom: the Midas
   touch.**
 
 ## 2. The three reasons you will lose marks on Test 2
 
-- **Variant panic.** The unit deliberately *kept* three variant details. Do not freeze on them —
-  the rubric expects you to know both sides, not to pick a "winner":
+- **Variant panic.** The unit deliberately *kept* three details where the versions disagree. Do
+  not freeze on them — the marking guide expects you to know both sides, not to pick a
+  "winner":
   - **Hope** inside Pandora's box (Unit 1) — already handled at Test 1.
   - **Centaur vs. satyr** as Midas's wish-granter: course text = centaur; slides = "the lost
     satyr." Know both as name + halves.
   - **Son vs. daughter** in gold: main text + outline = **son**; one summary sheet = daughter.
     For class and the test, use **son**.
-- **Facts, not fluency.** "Icarus flew too high" is true but thin — the test wants the *chain*:
-  climbed to show off → jeered the sun → wax softened → feathers shed → hands parted → fell
-  head first. Retell in order, then draw the lesson.
+- **Facts, not just a general idea.** "Icarus flew too high" is true but thin — the test wants
+  the *chain*: climbed to show off → jeered the sun → wax softened → feathers shed → hands
+  parted → fell head first. Retell in order, then draw the lesson.
 - **Opinion without a quote.** "Athene is cruel" is not an answer; "Athene, shutting one eye
   in horrible pity, cursed her — *weave your tapestries for ever!* — which is cruel and merciful,
   so she is complicated" is an answer.
@@ -91,13 +92,13 @@ thing you have seen five times. Build your answer from this spine:
 Each of those three moves can be supplied with a **Claim → Quote → Explain** from any story in
 the unit.
 
-## 4. The three modern words/idioms (a slam-dunk section)
+## 4. The three modern words/idioms (an easy-marks section)
 
 The test frequently asks about the language the myths passed down. Know all three in one line:
 
-- **Narcissism / narcissist** — excessive self-love — from **Narcissus**.
+- **Narcissism / narcissist** — loving yourself too much — from **Narcissus**.
 - **Echo chamber** — hearing only your own opinions echoed back — from **Echo**.
-- **The Midas touch** — everything you touch succeeds financially — from **Midas**.
+- **The Midas touch** — everything you touch succeeds, especially with money — from **Midas**.
 - (Bonus from Unit 2 lore: **arachnid** = the class of spiders, from **Arachne**.)
 
 ## 5. The one-question self-test (do this tonight)
@@ -114,7 +115,8 @@ but complicated, feeling beings — Explain.*
 
 ---
 
-*This review article synthesises Lessons 14–26: the facts, the evidence habit, the three
+*This review article was rewritten in plainer, age-appropriate language for Form 1 students
+(ages 11–13). It brings together Lessons 14–26: the facts, the evidence habit, the three
 variant-notes the class should know both sides of, the unit theme, and the name-loans. Read it
 with your notes; then use the three self-study resources suggested alongside it.*
 

@@ -14,12 +14,13 @@ order: 3
 
 ## The story so far
 
-Your final exam sits two lessons away. You have read eleven myths, seven journal reflections,
-and one genuine arc from creation to unchaining. This lesson turns all of it into a game —
-your last rehearsal before the real paper.
+Your final exam sits two lessons away. You have read eleven myths, written seven journal
+reflections, and followed one real arc from creation to unchaining. This lesson turns all of
+it into a game — your last rehearsal before the real paper.
 
-Here is everything the review needs you to carry: the eleven stories, the character shelf, the
-idioms with modern footprints — and the exact shape of the exam you're walking into.
+Here is everything the review needs you to carry: the eleven stories, the collection of
+characters, the idioms with modern footprints — and the exact shape of the exam you're walking
+into.
 
 ---
 
@@ -55,25 +56,25 @@ Paper 1 will ask.
 
 ---
 
-## 2. Idioms with modern footprints (Paper 2 gold)
+## 2. Idioms with modern footprints (easy marks on Paper 2)
 
 The exam's second paper loves these — the Greek phrases that walked straight into English:
 
 | Idiom | Meaning | Born from |
 | :-- | :-- | :-- |
-| **Midas touch** | a golden knack for profit — with a hidden cost | King Midas |
+| **Midas touch** | a golden talent for profit — with a hidden cost | King Midas |
 | **Herculean task** | an enormous, almost impossible job | Heracles's labours |
-| **Trojan Horse** | a deceptive trap that looks like a gift | the wooden horse of Troy |
+| **Trojan Horse** | a trap that looks like a gift | the wooden horse of Troy |
 | **Beware of Greeks bearing gifts** | don't trust an enemy's kindness | the old man's warning at Troy |
 | **Echo chamber** | a space where you only hear your own words back | poor Echo |
 | **Narcissist** | someone in love with their own reflection | Narcissus |
-| **Arachnid** | the spider family science calls it | Arachne's curse |
+| **Arachnid** | the spider family, as science calls it | Arachne's curse |
 | **Opening Pandora's box** | unleashing a flood of problems | the box of the nine evils |
 | **Achilles' heel** | a single fatal weakness | the invincible Greek's one flaw |
 
 Keep your wording tight: a "Herculean task" is *a huge hard job*, not "a famous thing"; a
-"Trojan Horse" is *a deceptive trap*, not just "a big statue." The exam will test edge-slippage
-like that.
+"Trojan Horse" is *a trap that looks like a gift*, not just "a big statue." The exam will test
+mistakes like that.
 
 ---
 
@@ -101,8 +102,8 @@ The course has shown you that no myth has one fixed text. Before the exam, know 
 - **Pluto / Hades**, **Hermes / Mercury** — same gods, Greek vs. Roman names.
 - **Helen** — stolen (course text) or willing (old legend); the class text says Paris "stole
   Helen's love."
-- **The satyr / centaur** — the battle of donkey-ears vs. the half-man half-horse; the course's
-  Midas tells you which.
+- **The satyr / centaur** — the two versions of Midas's magic helper; the course's Midas tells
+  you which.
 - **The freeing of Prometheus** — Heracles' arrow in the standard myth; **the older, wiser Zeus
   with pliers of lightning in this course's text.** The course version wins on the paper.
 
@@ -117,11 +118,11 @@ The outline's Week 14 structure:
 
 - **Paper 1 — writing:** character, plot, and theme. Rehearse the habit: "hero in a sentence,
   plot in order, theme in one sentence" for all eleven.
-- **Paper 2 — closed questions:** multiple choice, vocabulary, idioms, spelling. The Kahoot
+- **Paper 2 — closed questions:** multiple choice, vocabulary, idioms, spelling. The Kahoot!
   format of this lesson is its mirror image — the drill *is* the rehearsal.
 
-No item counts are published; prepare for the *shape*, not a fixed number. Anything you can
-do in this review game, you can do on the paper.
+No item counts are published; prepare for the *shape*, not a fixed number. Anything you can do
+in this review game, you can do on the paper.
 
 ---
 
@@ -148,9 +149,10 @@ get the moral. Master the timeline, and Paper 1 and Paper 2 nearly take care of 
 - Spelling list: Ariadne, Acrisius, Eurystheus, Augean, Persephone, Andromeda, Minotaur.
 - Settle the variants with the course text: Heracles-not-Hercules, Zeus-frees-Prometheus,
   Helen-stolen.
-- Exam = Paper 1 (analysis writing) + Paper 2 (MC / vocabulary / idioms / spelling).
+- Exam = Paper 1 (analysis writing) + Paper 2 (multiple choice / vocabulary / idioms / spelling).
 
 ---
 
-*This article covers the full-term review game (course outline Week 13, Lesson 13.3) and is
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It covers the full-term review game (course outline Week 13, Lesson 13.3) and is
 written for direct student use. The end-of-term exam follows in Week 14.*

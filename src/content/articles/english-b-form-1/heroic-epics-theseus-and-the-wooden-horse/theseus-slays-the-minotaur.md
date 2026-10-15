@@ -15,12 +15,12 @@ order: 1
 ## The story so far
 
 Way back in Week 7 (Lesson 19), you met the same King Minos who built a twisted underground
-maze — and a monster it was built to feed. Daedalus built the labyrinth, and Minos fed the
-**Minotaur** on men and women.
+maze — and a monster the maze was built to feed. Daedalus built the labyrinth, and Minos fed
+the **Minotaur** on men and women.
 
 Now the course brings you back to Crete for the payoff: a young prince who volunteers to enter
-the maze himself, kill the monster, and — in the same story — do the most careless, most
-human thing a hero ever did.
+the maze himself, kill the monster, and — in the same story — do the most careless, most human
+thing a hero ever did.
 
 ---
 
@@ -40,14 +40,14 @@ a specific price, revealed by the story's first question:
 
 Read that exchange closely. Seven men and seven women from Athens — fourteen human beings —
 are sent to Crete every year **as food**. The Minotaur does not raid Athens; Athens *delivers*
-the meals. That detail matters: the king of Athens has been quietly paying a human toll.
+the meals. That detail matters: the king of Athens has been quietly paying a toll in people.
 
 Prince Theseus vows to end it:
 
 > "This year I'll go as one of the fourteen, and kill this Minotaur!"
 
 His father can't talk him out of it. So the old king walks him to the docks with a promise and
-a signal, climactic for the whole story:
+a signal that matters for the whole story:
 
 > "I shall keep watch on the clifftop every day. If you succeed, raise a **new white sail**. If
 > you fail, raise this **black one**."
@@ -62,20 +62,20 @@ king sends the boasting prince straight into the maze.
 But behind the throne sits **Ariadne**, the king's own daughter: "ashamed of her father's
 cruelty," and horrified that brave, handsome Theseus is being dragged off to the monster.
 
-Her aid is the story's turning tool — a ball of string:
+Her help is the thing that turns the story — a ball of string:
 
 > "Even if you can kill the Minotaur, you won't ever find your way back to the entrance unless
 > you use this."
 
-Theseus ties one end to the entrance and **unwinds the thread as he descends** — his trail home
-through corridors indistinguishable in the dark.
+Theseus ties one end to the entrance and **unwinds the thread as he goes** — his trail home
+through passageways that all look the same in the dark.
 
 ---
 
 ## 3. The fight in utter darkness
 
 The text refuses to give the hero a heroic stage. The labyrinth is **utter darkness**, and the
-Minotaur is halfling — half-man, half-bull. Theseus feels his way with his hands:
+Minotaur is half-man, half-bull. Theseus feels his way with his hands:
 
 > Suddenly, his fingers brushed warm, wiry hair, then the bony curve of a horn. The Minotaur
 > bellowed in his ear and flung him through the darkness.
@@ -95,18 +95,18 @@ string did.**
 ## 4. Ariadne, and the promise that was never made
 
 At the door, Ariadne waits. She frees the thirteen other prisoners and begs to flee with him —
-her father would kill her for helping. Theseus agrees, they board, and the black sail is raised
+her father would kill her for helping. Theseus agrees, they board, the black sail is raised
 and fills, and they're at sea before anyone knows.
 
-And now the story's second, softer tragedy begins. Ariadne assumes marriage. This is the beat
-the course wants you to notice — how Theseus's mind actually works:
+And now the story's second, softer tragedy begins. Ariadne expects to marry him. This is the
+moment the course wants you to notice — how Theseus's mind actually works:
 
 > "Married?" said Theseus, turning rather pale. He suddenly realised that just because Ariadne
 > had saved his life, she expected to marry him! He studied her face. That nose was very big.
 > And those eyebrows were very thick.
 
-He hasn't promised her anything. But he has *owed her his life*. And the moment the help stop
-being free, the hero starts looking for the exit sign.
+He hasn't promised her anything. But he has *owed her his life*. And the moment her help stops
+looking free, the hero starts wanting to get away.
 
 > On the way home, the ship put in at an island for supplies. Theseus sent Ariadne ashore to buy
 > wine and bread. While she was gone, he set sail and hurried away, breathing a sigh of relief.
@@ -117,8 +117,8 @@ being free, the hero starts looking for the exit sign.
 
 ## 5. The black sail — and the sea that took a name
 
-Then comes the detail that turns thoughtlessness into tragedy. In his hurry to get away from
-the island, "he quite forgot to change the black sail for a white one."
+Then comes the detail that turns a careless moment into a tragedy. In his hurry to get away
+from the island, "he quite forgot to change the black sail for a white one."
 
 King Aegeus, watching day after day from the cliff below Athens, sees the black sail full of
 wind — and believes his son has been eaten by the Minotaur.
@@ -141,10 +141,10 @@ The slides put the lesson's big question right up front:
 
 > **Theseus: hero or not?**
 
-What made him a hero: bold and confident, filial affection, courage, sacrificial, cunning and
-clever.
+What made him a hero: brave and sure of himself, loving to his father, full of courage, ready
+to risk his own life, clever and cunning.
 
-What undoes him: his **selfishness and thoughtlessness** — abandoning Ariadne alone on an
+What ruins him: his **selfishness and thoughtlessness** — abandoning Ariadne alone on an
 island, and missing the sail change that killed his father.
 
 The course's moral, stamped at the bottom of the lesson:
@@ -152,7 +152,7 @@ The course's moral, stamped at the bottom of the lesson:
 > **Dishonest ways lead to destruction.** True heroism requires more than physical courage —
 > it requires *responsibility*.
 
-That is the Unit 3 twist on the hero: **the monster was killed, and the story is still a
+That is Unit 3's twist on what a hero is: **the monster was killed, and the story is still a
 tragedy.** Physical courage alone never made anyone a safe hero.
 
 ---
@@ -189,5 +189,6 @@ other thread — the promise to his father, which he never even had to keep *wil
 
 ---
 
-*This article covers *Theseus and the Minotaur* (course outline Week 12, Lesson 12.1),
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It covers *Theseus and the Minotaur* (course outline Week 12, Lesson 12.1),
 reconnecting to the labyrinth built in Lesson 19, and is written for direct student use.*

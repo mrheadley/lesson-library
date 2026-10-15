@@ -14,11 +14,10 @@ order: 3
 
 ## What is the Reading Journal?
 
-The Reading Journal is a **term-long writing companion** to the stories we study. After each key
-story, you will write a **reflection**: at least **100 words** of your own thinking anchored to
-the text you just read. By the end of the term you will have written **seven** reflections. Then
-— and only then — do you choose your **best three**, and *those* three get graded against the
-rubric.
+The Reading Journal is a **writing companion you keep all term**. After each key story, you will
+write a **reflection**: at least **100 words** of your own thinking tied to the text you just
+read. By the end of the term you will have written **seven** reflections. Then — and only then —
+do you choose your **best three**, and *those* three get graded.
 
 That last sentence is the single most important thing to understand about the journal:
 
@@ -36,18 +35,18 @@ A reflection is **not**:
 
 A reflection **is**:
 - **your own thought** about the story in your own words,
-- **anchored to the text** — you point at a character, a scene, a line,
+- **tied to the text** — you point at a character, a scene, or a line,
 - **honest and specific** — not "the story teaches us to hope" but "hope is interesting to me
   because the smallest, most fragile creature is the one that saves everyone."
 
-Think of it as *having an intelligent argument with a friend about a story you both just read.*
-The journal is where you practise having that argument in writing.
+Think of it as *having a clever discussion with a friend about a story you both just read.* The
+journal is where you practise having that discussion in writing.
 
 ---
 
 ## 2. The reflection formula (3 moves)
 
-You do not need to follow it robotically, but every strong reflection makes these three moves:
+You do not have to follow it robotically, but every strong reflection makes these three moves:
 
 | Move | What it looks like | Example |
 | :-- | :-- | :-- |
@@ -62,15 +61,14 @@ Three moves. Point. Evidence. So what? That is a reflection.
 ## 3. The 100-word rule
 
 - **Minimum 100 words** — that is about half a page of ordinary handwriting. If you write less,
-  you haven't done the third move yet.
-- **There is no maximum, but** padding is not the goal. Precision beats length.
-- Note: "professional, free-flowing voice" is the target. That sounds like a contradiction. It
-  isn't.
-  - **Free-flowing** means *demand your real thought* — your honest response, your own
-    sentences, your own vocabulary.
+  you have not done the third move yet.
+- **There is no maximum**, but padding is not the goal. Clear and specific beats long.
+- The aim is a "professional, free-flowing voice." That sounds like a contradiction. It isn't.
+  - **Free-flowing** means *give your real thought* — your honest response, your own sentences,
+    your own words.
   - **Professional** means *presentation* — your name and date, clear handwriting, one idea per
     paragraph, sentences that actually end.
-  - Free-flowing *content* dressed in professional *presentation*. That's the whole secret.
+  - Free-flowing *content* dressed in professional *presentation*. That is the whole secret.
 
 ---
 
@@ -79,20 +77,20 @@ Three moves. Point. Evidence. So what? That is a reflection.
 At the end of term you select your **top three** reflections. They are graded on roughly these
 questions:
 
-1. **Text-anchored** — Does the reflection clearly connect to the story (characters, scenes,
+1. **Tied to the text** — Does the reflection clearly connect to the story (characters, scenes,
    words)?
 2. **Thoughtful voice** — Is this *your* thinking, in your own words?
 3. **Structure & care** — Is it organised, readable, and well-presented?
-4. **Development over the term** — Do your later reflections show the habits of your earlier
-   ones (growth counts)?
+4. **Growth over the term** — Do your later reflections show what you learned from your earlier
+   ones (improving counts)?
 
-Because the whole term's journal is a single marked assignment (one of only two this term), the
-weekly entries are **safe practice**. Every weekly entry is your rehearsal. The three you choose
-at the end are your performance.
+Because the whole term's journal is a single marked assignment, the weekly entries are **safe
+practice**. Every weekly entry is your rehearsal. The three you choose at the end are your
+performance.
 
 ---
 
-## 5. Logistics that matter (so you never lose work)
+## 5. Practical rules (so you never lose work)
 
 Follow the course's simple rules for handing work in:
 
@@ -109,15 +107,16 @@ Follow the course's simple rules for handing work in:
 
 Your first reflection (Journal check 1) is on **Pandora's Box and the concept of Hope**, due at
 the end of Lesson 09. You don't have to write it yet — but keep this lesson's three moves in
-your pocket. When the box is opened and the butterfly-flicker of Hope flutters out, that is
-your Point. Your Evidence. And your So what?
+your pocket. When the box is opened and the small flicker of Hope flutters out, that is your
+Point. Your Evidence. And your So what?
 
 ---
 
 ### Key terms for this lesson
-- **Reflection** — your own text-anchored thought about a story (Point → Evidence → So what?).
+- **Reflection** — your own thought about a story, tied to the text (Point → Evidence →
+  So what?).
 - **Rubric** — the marking guide that says what a great entry looks like.
-- **Low-stakes** — safe to get wrong; the weekly entries don't carry the term grade.
+- **Low-stakes** — safe to get wrong; the weekly entries do not decide your term grade.
 - **Portfolio** — the "best-three" selection that actually gets graded.
 
 ### Things to remember
@@ -127,4 +126,8 @@ your Point. Your Evidence. And your So what?
 
 ---
 
-*This article is written to be handed directly to students in Lesson 03. It reflects the course outline's Reading Journal requirements (7 reflections, ≥100 words, top-3 graded) and the course's submission logistics. The teacher's own Journal Guidelines handout supplies the exact rubric wording where this article uses the plain-language version.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It reflects the course outline's Reading Journal requirements (7 reflections, ≥100
+words, top-3 graded) and the course's submission logistics. The teacher's own Journal
+Guidelines handout supplies the exact rubric wording where this article uses the plain-language
+version.*

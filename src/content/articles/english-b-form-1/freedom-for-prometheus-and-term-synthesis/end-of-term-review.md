@@ -15,7 +15,7 @@ isReview: true
 
 ## What the exam covers
 
-The end-of-term exam (Week 14, Lessons 14.1–14.2 — slots 40–41) is **comprehensive**: every
+The end-of-term exam (Week 14, Lessons 14.1–14.2 — slots 40–41) **covers everything**: every
 story from Week 1 to Week 13, in two papers:
 
 - **Paper 1 — writing:** character, plot, and theme; essays and analysis across all eleven
@@ -55,7 +55,7 @@ reflections alongside it.
 11. **Freedom for Prometheus** — "Even the gods grow wiser as they grow older"; the pliers of
     lightning; the eagles spun away; free "to champion the little people"; the cycle broken.
 
-## 2. The four term themes (Paper 1's essay bank)
+## 2. The four term themes (where Paper 1's essay questions come from)
 
 Every Paper 1 question that works is a variation of these four, and each can be answered with
 **Claim → Quote → Explain** using any story:
@@ -67,21 +67,22 @@ Every Paper 1 question that works is a variation of these four, and each can be 
    merciful (Hope remains; Hera regrets; Zeus grows). Compare against Unit 1's "fundamentally
    good" God (Genesis, **Jeremiah 29:11**).
 3. **Heroes win by cleverness, and pay for their flaws.** Perseus's mirror, Heracles's fire
-   and river, Theseus's thread, Odysseus's horse — all brains over brawn — and all four cost
-   something: Fate's discus, a lifelong sorrow, a father's suicide, a burned city.
-4. **The cycle of justice breaks when the punisher grows.** Every punishment in the term bred
-   more punishment — until the older, wiser Zeus clipped the chains. The whole syllabus is one
-   arc: creation → fire → chaining → Pandora → Hope → hero-era → unchaining.
+   and river, Theseus's thread, Odysseus's horse — all using their heads instead of just
+   muscle — and all four cost something: Fate's discus, a lifelong sorrow, a father's death,
+   a burned city.
+4. **The cycle of justice breaks when the punisher grows up.** Every punishment in the term
+   caused more punishment — until the older, wiser Zeus clipped the chains. The whole syllabus
+   is one arc: creation → fire → chaining → Pandora → Hope → hero-era → unchaining.
 
-## 3. The idioms and name-loans (Paper 2's engine room)
+## 3. The idioms and name-loans (Paper 2's core section)
 
 - **Opening Pandora's box** — unleashing a flood of trouble.
-- **Narcissist / narcissism** — excessive self-love (from Narcissus).
+- **Narcissist / narcissism** — loving yourself too much (from Narcissus).
 - **Echo chamber** — hearing only your own opinions back (from Echo).
-- **The Midas touch** — everything you touch succeeds financially.
-- **A Herculean task** — a gigantic, near-impossible job.
+- **The Midas touch** — everything you touch succeeds, especially with money.
+- **A Herculean task** — a huge, almost impossible job.
 - **Achilles' heel** — a single fatal weakness.
-- **Trojan Horse** — a deceptive trap disguised as a gift (and the computer malware).
+- **Trojan Horse** — a trap that looks like a gift (and the computer malware).
 - **"Beware of Greeks bearing gifts"** — don't trust an enemy's kindness.
 - *(Extras worth a word: arachnid; "heroes and heroines among those men and women.")*
 
@@ -90,12 +91,12 @@ Every Paper 1 question that works is a variation of these four, and each can be 
 - **Heracles / Hercules** — Greek vs. Roman name. Course: Heracles.
 - **Pluto / Hades**, **Hermes / Mercury** — same gods, two names.
 - **Helen** — stolen (course text) vs. willing (older legend). Course: theft.
-- **Midas's ears and wish** — satyr/centaur variant; the course's Midas is the ass-eared,
+- **Midas's ears and wish** — the satyr/centaur variant; the course's Midas is the ass-eared,
   golden-touched one.
 - **Who frees Prometheus** — Heracles' arrow (standard myth) vs. **the older, wiser Zeus**
   with pliers of lightning (course text). Course: Zeus.
-- **Colouring of Zeus's character** — PPT named him impulsive/jealous/vengeful *and* merciful;
-  the closing story is where the "merciful" wins.
+- **How Zeus's character is drawn** — the PPT named him impulsive/jealous/vengeful *and*
+  merciful; the closing story is where the "merciful" wins.
 
 ## 5. The Paper-1 formula that never fails
 
@@ -117,14 +118,15 @@ Answer in three sentences, using the **Claim → Quote → Explain** spine:
 teach?"**
 
 A strong answer runs: *I'd choose Freedom for Prometheus, because it holds the whole term's
-arc in one frame — Claim — the story's key line is "even the gods grow wiser as they grow
-older," and its hero pinions are the pliers of lightning that clip the chains — Quote. It
-teaches that power, flawed at first, can become merciful — and that love for the little people
-outlasts punishment — Explain.*
+arc in one frame — Claim — its key line is "even the gods grow wiser as they grow older," and
+its key image is the pliers of lightning that clip the chains — Quote. It teaches that power,
+flawed at first, can become merciful — and that love for the little people outlasts punishment
+— Explain.*
 
 ---
 
-*This review article synthesises the full term: the eleven stories, the four themes, the
+*This review article was rewritten in plainer, age-appropriate language for Form 1 students
+(ages 11–13). It brings together the full term: the eleven stories, the four themes, the
 idioms, the variants, and the two-paper exam shape. Read it with your lesson articles and
 journal; then use the three self-study resources suggested alongside it.*
 

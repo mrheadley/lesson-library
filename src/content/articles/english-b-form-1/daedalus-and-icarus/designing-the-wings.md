@@ -24,7 +24,7 @@ Now the plot becomes an engineering project.
 
 ## 1. One feather at a time
 
-Daedalus's escape plan starts as the quietest conspiracy in all of mythology — a year of tiny,
+Daedalus's escape plan starts as the quietest secret plot in all of mythology — a year of tiny,
 repeated acts:
 
 - Every morning, Daedalus puts seed on the window sill.
@@ -52,21 +52,21 @@ Break that into parts:
 
 | Material | What it is for |
 | :-- | :-- |
-| **Feathers** (from the birds) | The flight surface — what catches the air |
+| **Feathers** (from the birds) | The flying surface — what catches the air |
 | **Blanket-wool** | The thread — sewing the feathers together |
 | **Melting candle-wax** | The glue — fixing the wings to their shoulders |
 
 Nothing supernatural. You have seen all three things: feathers, a blanket, a candle. The myth
-tells you the wings are built from ordinary pieces of a prison — the clothing on their backs
-and the wax from the candles they read by at night. That is what makes the tragedy (Lesson 21)
-so much harder to take.
+tells you the wings are built from ordinary pieces of a prison — the clothing on their backs and
+the wax from the candles they read by at night. That is what makes the tragedy (Lesson 21) so
+much harder to take.
 
 ---
 
 ## 3. The warning — the most important lines in the story
 
 Before the first flight, Daedalus gives Icarus the one instruction that will decide everything.
-The story doubles the warning, twice:
+The story repeats the warning, twice:
 
 > "Courage, son! Keep your arms out wide and fly close to me. **Above all — are you listening,
 > Icarus? — don't fly too high! Don't fly too close to the sun!**"
@@ -76,7 +76,7 @@ There it is. The whole story in one sentence:
 - Keep your arms out wide → flight is a skill.
 - Fly close to me → stay near the one who knows.
 - **Don't fly too high** → the rule.
-- **Don't fly too close to the sun** → the reason (Lesson 21 explains the physics).
+- **Don't fly too close to the sun** → the reason (Lesson 21 explains what happens).
 
 Warned once, Icarus nods. We will see if the warning holds.
 
@@ -84,7 +84,7 @@ Warned once, Icarus nods. We will see if the warning holds.
 
 ## 4. The launch
 
-Now the moment pulls the breath in. Icarus stands on the window ledge, looking down at the
+Now the moment takes your breath away. Icarus stands on the window ledge, looking down at the
 drop —
 
 - His **knees are knocking**.
@@ -112,7 +112,7 @@ Never let go of this pair of details:
 
 1. **Daedalus warned clearly.** The instruction was specific, repeated, and practical: don't fly
    too high.
-2. **Icarus is already violating it for fun.** He flies up to escape a few seagulls — and likes
+2. **Icarus is already breaking it for fun.** He flies up to escape a few seagulls — and likes
    how it feels.
 
 Readers of this myth are always told "Icarus disobeyed." Look closer: the disobedience begins
@@ -122,11 +122,11 @@ the end of a climb he was warned not to begin.
 ---
 
 ### Key terms for this lesson
-- **Ingenuity** — clever, practical invention (Daedalus's trademark).
-- **Feathers** — the flight surface of the wings.
-- **Wool / wax** — the "thread" (blanket wool) and "glue" (melted candle) of the construction.
+- **Ingenuity** — clever, practical inventing (Daedalus's trademark).
+- **Feathers** — the flying surface of the wings.
+- **Wool / wax** — the "thread" (blanket wool) and "glue" (melted candle) of the building work.
 - **Warning** — a clear, protective instruction; the story's flashpoint.
-- **Glide / soar** — flight vocabulary for the miracle in the air.
+- **Glide / soar** — words for flying, for the miracle in the air.
 
 ### Things to remember
 - The escape plan takes a year — one feather begged per bird, mornings and nights.
@@ -137,5 +137,6 @@ the end of a climb he was warned not to begin.
 
 ---
 
-*This article covers the middle of *Daedalus and Icarus* (course outline Week 7, Lesson 7.2)
-and is written for direct student use.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It covers the middle of *Daedalus and Icarus* (course outline Week 7, Lesson 7.2) and
+is written for direct student use.*

@@ -38,8 +38,8 @@ Into this perfect, silent world bursts **Echo**.
 
 ## 2. Echo — the nymph who must have the last word
 
-Echo is a **wood nymph** — a spirit of nature. And she has exactly one flaw, but it is the
-flaw that will wreck her life:
+Echo is a **wood nymph** — a nature spirit. And she has exactly one flaw, but it is the flaw
+that will wreck her life:
 
 > **She always has to have the last word.**
 
@@ -72,10 +72,10 @@ She turns on Echo, points a **magic finger** — and pronounces the curse:
 
 Echo opens her mouth to argue — and no sound comes out.
 
-Not mute exactly — worse. From that moment, Echo can **only repeat the last
-words she hears**. She can never start a sentence of her own again. The chatty nymph is sealed
-inside the very habit that got her cursed: whatever anyone says to her, the only words she can
-ever say back are their own.
+Not exactly mute — worse. From that moment, Echo can **only repeat the last words she hears**.
+She can never start a sentence of her own again. The chatty nymph is locked inside the very
+habit that got her cursed: whatever anyone says to her, the only words she can ever say back
+are their own.
 
 ---
 
@@ -87,8 +87,8 @@ you have all heard — in a gym, a stairwell, a tunnel, a big empty room:
 > **The echo.**
 
 Say "Hello!" down a long corridor and the place answers your last words back to you. Stand in
-a canyon and shout — the cliffs call your ending back. The ancient Greeks had to explain this
-weird trick of sound, and so they told the story of a nymph condemned to repeat other people's
+a canyon and shout — the cliffs throw your ending back. The ancient Greeks had to explain this
+weird trick of sound, and so they told the story of a nymph sentenced to repeat other people's
 words forever. The voice you hear bouncing back at you? That is **Echo**, still stuck with her
 curse.
 
@@ -107,9 +107,9 @@ Hera is the goddess of marriage and family. Her curse is delivered in a single f
 She does not warn, she does not cool down — she just strikes. It feels great for about three
 seconds... and then it cannot be taken back.
 
-That is the whole of it: **hasty anger makes permanent mistakes.** Hera has just made one.
-The story will not let her forget it — the goddesses who walk her woods will now listen to her
-regret carried back on their own words.
+That is the whole of it: **hasty anger makes permanent mistakes.** Hera has just made one. The
+story will not let her forget it — the goddesses who walk her woods will now hear her regret
+carried back on their own words.
 
 ---
 
@@ -117,7 +117,7 @@ regret carried back on their own words.
 
 Before this lesson ends, notice one more fold in the story's design:
 
-- Echo is cursed by a goddess acting in a furious blink.
+- Echo is cursed by a goddess acting in a furious flash.
 - But Echo's **fatal flaw** is not annoying Hera — it is the last-word habit itself.
 - The curse does not remove the flaw. It *keeps* it forever: she will always be responding, but
   never speaking.
@@ -133,8 +133,8 @@ with — and be unable to tell.
 - **Hera** — queen of the gods, goddess of marriage and family.
 - **Echo** — the chatty wood nymph who can only repeat the last words she hears.
 - **Wood nymph** — a spirit of nature (woods, rivers, trees).
-- **Curse** — a magical punishment imposed by a god.
-- **"To have the last word"** — to insist on the final say in an argument.
+- **Curse** — a magical punishment given by a god.
+- **"To have the last word"** — to insist on having the final say in an argument.
 
 ### Things to remember
 - Echo's flaw: she must always have the last word.
@@ -145,5 +145,6 @@ with — and be unable to tell.
 
 ---
 
-*This article covers the opening of *Echo and Narcissus* (course outline Week 6, Lesson 6.1)
-and is written for direct student use.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It covers the opening of *Echo and Narcissus* (course outline Week 6, Lesson 6.1) and
+is written for direct student use.*

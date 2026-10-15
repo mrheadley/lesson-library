@@ -14,8 +14,8 @@ order: 3
 
 ## The story so far
 
-The verdict is out: Arachne's hand is the more skilful, but her subject-matter is an outrage.
-She has beaten a goddess at weaving and mocked her gods at the same time. The crowd holds its
+The verdict is out: Arachne's hand is the more skilful, but her subject is an outrage.
+She has beaten a goddess at weaving and mocked the gods at the same time. The crowd holds its
 breath.
 
 Now the goddess gets to move.
@@ -24,8 +24,8 @@ Now the goddess gets to move.
 
 ## 1. The rage
 
-Athene is galled. The honest verdict — "the more skilful" — is not comfort to her; it is the
-burn. A mortal has won the contest and laughed at heaven, and an audience just watched.
+Athene is stung. The honest verdict — "the more skilful" — is not comfort to her; it burns. A
+mortal has won the contest and laughed at heaven, and an audience just watched.
 
 > She rends the tapestry in two with a blow.
 
@@ -55,7 +55,7 @@ Read the punishment carefully. It is the most cunning curse in the unit:
 - And she will **never stop weaving**.
 
 The girl who used her gift to mock heaven gets exactly what she asked for — skill, forever —
-turned, forever, into a sentence she cannot serve.
+turned, forever, into a sentence she cannot escape.
 
 ---
 
@@ -67,14 +67,14 @@ The spell takes. Watch Arachne shrink —
 > She grows **eight legs**.
 > And she begins to spin her **thread**.
 
-The story gives the image with one breathless line:
+The story gives the image in one breathless line:
 
 > And that was how **the first spider** came into the world.
 
 Read those two statements together — the curse and its result:
 
-- "Weave your tapestries for ever!" = the eternal, inescapable work.
-- The first spider = the natural thing that now hangs webs in every corner of the world.
+- "Weave your tapestries for ever!" = the endless, inescapable work.
+- The first spider = the natural creature that now hangs webs in every corner of the world.
 
 The myth is an *explainer* doing its job: every spider's web, from the kitchen window to the
 barn eaves, is Arachne — still weaving, still perfect, still a prisoner of what she won.
@@ -86,8 +86,8 @@ barn eaves, is Arachne — still weaving, still perfect, still a prisoner of wha
 Here is where the story earns its place in Unit 2's "the gods are complicated" theme. Look at
 what Athene's curse manages to be at the same time:
 
-- **Cruel:** A proud mortal's glory becomes a forever-punishment; she is shrunk, blackened, made
-  monstrous.
+- **Cruel:** a proud mortal's glory becomes an endless punishment; she is shrunk, blackened,
+  made monstrous.
 - **Merciful:** Arachne lives. The finest weaver on earth is allowed to keep the one thing she
   valued — her craft, forever.
 
@@ -105,7 +105,7 @@ Unit 2:
 
 | Character | Flaw | The cost | The mercy |
 | :-- | :-- | :-- | :-- |
-| **Hera** | Hasty temper | A curse she regrets | Never undone — but she regrets |
+| **Hera** | Fast temper | A curse she regrets | Never undone — but she regrets |
 | **Narcissus** | Vanity | Becomes a flower | A beautiful flower remains |
 | **Icarus** | Disobedience | Falls into the sea | His father grieves — no mercy, but love |
 | **Arachne** | Pride / mocking the gods | Shrunk to a spider, weaving forever | Lives; still weaves — one eye shut in pity |
@@ -123,8 +123,8 @@ the same kind the test likes to ask:
 
 **Was the punishment fair?**
 
-- **Yes:** she mocked the gods themselves, in public, in permanent form. Arrogance of that size
-  deserves a check.
+- **Yes:** she mocked the gods themselves, in public, in a permanent form. Arrogance of that
+  size deserves a check.
 - **No:** the gods had already given her the gift she used; pride in your own gift is a hard
   trap; and a lifetime of being a small, black, weaving creature is out of proportion to a
   boast — however loud.
@@ -148,16 +148,17 @@ explain how the evidence proves it.
 - **Horrible pity** — the goddess's one shut eye: punishment and mercy together.
 
 ### Things to remember
-- Athene shreds the winning tapestry in a rage.
+- Athene tears up the winning tapestry in a rage.
 - Arachne tries to end her life; Athene stops her with the curse — "Weave your tapestries for
   ever!"
 - She shrinks, darkens, grows legs, spins thread — and that was how the first spider came into
   the world.
 - The curse is double-sided: cruel and merciful at once (horrible pity).
-- Every spider's web is Arachne's eternal work — the myth explains spiders.
+- Every spider's web is Arachne's endless work — the myth explains spiders.
 - The punishment's fairness is a class debate ready-made; answer in Claim → Quote → Explain.
 
 ---
 
-*This article completes *Arachne* (course outline Week 8, Lesson 8.3) and is written for
-direct student use. Reading Journal checkpoint 5 is collected this lesson.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It completes *Arachne* (course outline Week 8, Lesson 8.3) and is written for direct
+student use. Reading Journal checkpoint 5 is collected this lesson.*

@@ -12,15 +12,15 @@ order: 1
 
 ---
 
-## Open with a familly tree
+## Open with a family tree
 
-Before the gods of Olympus, before humans, before fire — there was a family argument. The story
-of how the cosmos began is, in Greek myth, the story of a divine family that kept doing the same
+Before the gods of Olympus, before humans, before fire — there was a family argument. In Greek
+myth, the story of how the world began is the story of a divine family that kept doing the same
 terrible thing to each other: **the children rising up against the parents.**
 
-This lesson reads the supplemental text *Mother Earth and Her Children* and charts the
-generations. It is a *creation myth* — an origin story — but you can read it like a royal-family
-drama, because that is exactly how the Greeks told it.
+This lesson reads the text *Mother Earth and Her Children* and charts the generations. It is a
+*creation myth* — an origin story — but you can read it like a royal-family drama, because that
+is exactly how the Greeks told it.
 
 ---
 
@@ -38,18 +38,18 @@ were lovers, and the gods are their children.*
 
 ## 2. The first villain: Father Heaven
 
-Here the drama begins. **Father Heaven does a terrible thing: he hides his children away.**
-Why? Because he does not want them to grow up and challenge him. He is afraid of his own
-children.
+Here the drama begins. **Father Heaven does a terrible thing: he hides his children away.** Why?
+Because he does not want them to grow up and challenge him. He is afraid of his own children.
 
 Remember this pattern — a ruler who is so afraid of being overthrown that he behaves cruelly to
-his own family. It is not just a myth detail. It is the engine of the entire creation story.
+his own family. It is not just a detail of the myth. It is the engine that drives the whole
+creation story.
 
 ---
 
 ## 3. The first rebellion: Cronus
 
-**Cronus**, a Titan (one of the giant divine beings of this early generation), rises up against
+**Cronus**, a Titan (one of the huge divine beings of this early generation), rises up against
 his father. He overthrows Father Heaven and takes power.
 
 Now watch what happens — frame by frame, because the story wants you to notice it:
@@ -58,8 +58,8 @@ Now watch what happens — frame by frame, because the story wants you to notice
 2. Cronus overthrows Father Heaven.
 3. **How did power change Cronus?** He becomes exactly what he overthrew.
 
-Power, the story says, repeats the mistakes of power. The new ruler, once safe, becomes as
-distrusting and cruel as the old one. Cronus — who punished his father for hiding *his*
+Power, the story says, repeats the mistakes of power. The new ruler, once he feels safe, becomes
+as distrusting and cruel as the old one. Cronus — who punished his father for hiding *his*
 children — now does a version of the same thing to **his own children**.
 
 This is the Greek myth's core lesson about power: **every new king starts out as the hero and
@@ -84,7 +84,7 @@ scratch. They **divide the world among themselves** into three great realms:
 
 So the king of the gods, Zeus, is not the first ruler in heaven. He is the latest — and
 successful — link in a chain that began with Mother Earth. He got the biggest share (the sky),
-and he inherited the throne by being the one who finally broke the cycle.
+and he won the throne by being the one who finally broke the cycle.
 
 ---
 
@@ -109,7 +109,7 @@ learning that victory without wisdom defeats itself.
 
 Notice what is *missing* in this creation story. Nobody here is "fundamentally good." The gods
 do not create out of love — they create, fight, cheat, and divide out of family spite and a
-thirst for power.
+hunger for power.
 
 Compare that to the Biblical book of Genesis (next lesson): one God who is good, who creates in
 an ordered, loving way. Same question — *how did the world begin?* — entirely different answer.
@@ -120,21 +120,22 @@ part of this story surprise you? Which part? Why?
 
 ### Key terms for this lesson
 - **Mother Earth (Gaia)** — the first being; the earth herself.
-- **Father Heaven (Ouranos)** — the sky's personification; the first tyrant of creation.
-- **Titan** — one of the giant divine beings of the generation before the gods (the root of
+- **Father Heaven (Ouranos)** — the sky; the first tyrant of creation.
+- **Titan** — one of the huge divine beings of the generation before the gods (the root of
   *titanic*).
 - **Cronus** — the Titan who overthrows his father and repeats his crimes.
 - **The three realms** — Underworld (Hades), Sea (Poseidon), Heaven (Zeus).
 
 ### Things to remember
-- Creation in Greek myth is a **family fight**, not a divine act of love.
+- Creation in Greek myth is a **family fight**, not a loving act of creation.
 - Every ruler (Ouranos, Cronus) becomes the tyrant they overthrew — until Zeus breaks the cycle.
 - Zeus is the *latest* ruler, not the first; his brothers take the sea and the underworld.
 
 ---
 
-*This article synthesises the course lesson deck (the Mother Earth guided-reading questions),
-the course outline, and the standard Greek theogony (Gaia → Ouranos → Titans → Olympians). It is
-written to be handed directly to students after Lesson 04. Where the class's own supplemental
-text gives scene detail, use the teacher's copy of *Mother Earth and Her Children* as the
-primary reading.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It draws on the course lesson deck (the Mother Earth guided-reading questions), the
+course outline, and the standard Greek theogony (Gaia → Ouranos → Titans → Olympians), and is
+written to be handed directly to students after Lesson 04. Where the class's own text gives
+scene detail, use the teacher's copy of *Mother Earth and Her Children* as the primary
+reading.*

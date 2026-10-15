@@ -30,8 +30,8 @@ that powers the debate next lesson, the weekly journal, and Test 1.
 
 | Move | What you do | What it looks like |
 | :-- | :-- | :-- |
-| **Claim** | State your point in one arguable sentence | "Zeus acts more like a jealous school bully than a wise king." |
-| **Quote** | Put your finger on the *shortest* phrase in the text that proves it | e.g. Zeus jealously complaining that the mud-men "look like us gods" |
+| **Claim** | State your point in one sentence you can argue for | "Zeus acts more like a jealous school bully than a wise king." |
+| **Quote** | Point at the *shortest* phrase in the text that proves it | e.g. Zeus jealously complaining that the mud-men "look like us gods" |
 | **Explain** | Connect the quote to the claim in one or two sentences | "If he were simply a law-giver, he would not care what shape his creations took. The quote shows he feels *threatened* — which is the behaviour of a jealous bully, not a secure ruler." |
 
 That is the whole engine. Nothing fancy. Now the practice.
@@ -45,8 +45,8 @@ point. A few rules:
 
 - **Short beats long.** The sharpest quote is the shortest phrase that carries the point. A
   twelve-word sentence beats a whole paragraph.
-- **Attribution matters.** Name the speaker and the moment: "When Zeus says…", "Early in the
-  story, the narrator tells us…"
+- **Name the speaker and the moment.** Say "When Zeus says…", "Early in the story, the narrator
+  tells us…". It makes your evidence clear.
 - **Paraphrase is not evidence.** Restating the idea in your own words ("Zeus was jealous about
   the mud-men") shows understanding — but it is not *proof*. Only a direct quote, in quotation
   marks, is evidence.
@@ -79,27 +79,27 @@ the backbone of every strong answer in this unit and every journal entry.
 
 ---
 
-## 4. The Reading Journal connection (your marking rubric, in plain English)
+## 4. The Reading Journal connection (your marking guide, in plain English)
 
 The journal entry you wrote in Lesson 09 (and the six to come) is graded on exactly these
-nerves:
+points:
 
-1. **Text-anchored** — does it point at the story (characters, scenes, words)?
+1. **Tied to the text** — does it point at the story (characters, scenes, words)?
 2. **Thoughtful voice** — is it *your* thinking, in your own words?
 3. **Structure & care** — readable, organised, well-presented?
 4. **Bound to the claim** — does everything in the paragraph serve one idea?
 
 A reflection that quotes "I am Hope. Without me the world won't be able to bear all the
-unhappiness you have turned loose!" and then explains *why that quote changes the meaning of
-the whole myth* is going to score higher than a reflection that only says "the box had lots of
-bad stuff in it and also hope." Claim → quote → explain is how you turn "recognising the story"
-into "analysing the story."
+unhappiness you have turned loose!" and then explains *why that quote changes the meaning of the
+whole myth* is going to score higher than a reflection that only says "the box had lots of bad
+stuff in it and also hope." Claim → quote → explain is how you turn "recognising the story" into
+"analysing the story."
 
 ---
 
 ## 5. A trap to avoid: the "paragraph of summary"
 
-The most common failure in evidence-based writing is not weak quoting — it is **summary
+The most common problem in evidence-based writing is not weak quoting — it is **summary
 disguised as analysis**. Compare:
 
 - **Summary:** "First Prometheus made the animals, then he made man, then he stole fire, then
@@ -107,9 +107,9 @@ disguised as analysis**. Compare:
 - **Analysis:** "Zeus punishes *the whole race* for one thief's act — crafting a weapon and
   calling it a gift. The text wants us to be uncomfortable with that scale of punishment."
 
-Same story. One recites; the other *argues*. Every P-E-E paragraph you write should pass one
-test: **if I deleted the quote and the explanation, would my teacher still know my claim?** If
-yes, you are describing. If no, you are analysing.
+Same story. One just retells it; the other *argues*. Every P-E-E paragraph you write should pass
+one test: **if I deleted the quote and the explanation, would my teacher still know my claim?**
+If yes, you are describing. If no, you are analysing.
 
 ---
 
@@ -133,12 +133,13 @@ Master these three and the unit's debate (next lesson), its journal, and its tes
 - **Paraphrase** — restating in your own words (useful, but not proof).
 
 ### Things to remember
-- No claim without a quote; no quote without an explanation; no explanation without text.
+- No claim without a quote; no quote without an explanation.
 - Short quotes beat long ones.
 - Summary is not analysis — argue, don't recite.
-- The journal rubric values the same P-E-E skill as the debate and the test.
+- The journal marking guide values the same P-E-E skill as the debate and the test.
 
 ---
 
-*This article supports Lesson 10 and is written for direct student use. It turns the course's
-"no claim without evidence" norm into a reusable three-move scaffold.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It supports Lesson 10 and is written for direct student use. It turns the course's "no
+claim without evidence" norm into a reusable three-move scaffold.*

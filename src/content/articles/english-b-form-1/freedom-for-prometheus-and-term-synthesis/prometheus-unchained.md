@@ -14,7 +14,7 @@ order: 1
 
 ## The story so far
 
-The course opened in Week 3 with a **cliff and a crime**: wise Prometheus stole fire for the
+The course opened in Week 3 with **a cliff and a crime**: wise Prometheus stole fire for the
 humans he loved, and the young, furious Zeus chained him to a rock where eagles tore at him
 every day. "The pain would never end," the text said. Hope fluttered past as a butterfly and
 stayed with him.
@@ -31,8 +31,8 @@ The story re-opens with Zeus looking down one day from Olympus at Prometheus, "s
 to his rock, condemned for ever to be tortured by eagles."
 
 Remember the Zeus who made that sentence in Week 3 — the PPT's portrait: **impulsive,
-jealous, vengeful, childish.** That Zeus punished. But the text's very first line now names the
-whole point of the lesson:
+jealous, vengeful, childish.** That Zeus punished. But the text's very first line now names
+the whole point of the lesson:
 
 > **"Even the gods grow wiser as they grow older."**
 
@@ -45,16 +45,16 @@ felt:
 - **A kind of admiration** — not just for Prometheus enduring, but for the creatures Prometheus
   made: "the little men and women Prometheus had made out of water and mud."
 
-That third one is the emotional engine of the whole term. Zeus looks at the mud-people through
+That third one is the feeling that powers the whole term. Zeus looks at the mud-people through
 his own eyes for once — and notices the fires on their altars, the "holy, sweet-scented smoke
 to heaven" that could not exist if Prometheus hadn't broken the rules to steal fire for them.
 
-And then the text's most human verdict on humanity:
+And then the text's most human judgement of human beings:
 
 > For all they were cheeky and ugly and caught cold and grew old and stole and quarrelled and
 > made mistakes and died, **there were heroes and heroines among those men and women.**
 
-Flawed, quarrelsome, die early — and also heroic. The beings Zeus once loathed as "mud-men"
+Flawed, quarrelsome, die early — and also heroic. The beings Zeus once hated as "mud-men"
 (McCaughrean, "In the Beginning") have earned the father's love that Prometheus always had for
 them.
 
@@ -62,17 +62,17 @@ them.
 
 ## 2. The rains of justice and the pliers of lightning
 
-Now the action — and it is wonderfully, deliberately small.
+Now the action — and it is wonderfully small on purpose.
 
 > So Zeus broke Prometheus's chains **with pliers of lightning**, and wrapped the eagles in
 > whirlwinds and spun them away to the four corners of the world.
 
-Read that tool carefully: **pliers.** Not a thunderbolt. Not a blast. A precision instrument —
-you grip the chain-link, you clip, the god is free. The contrast is the lesson: Zeus's own
-element, lightning, which once delivered punishment, is now used as a careful key. The course
-notes flag this exact image: "the instrument of unchaining — Zeus's own element, turned to
-mercy." The god who punished *with* the sky now frees *through* the same element, used
-differently.
+Read that tool carefully: **pliers.** Not a thunderbolt. Not a blast. A careful, exact tool —
+you grip the link of the chain, you clip it, the god is free. The contrast is the lesson:
+Zeus's own element, lightning, which once brought punishment, is now used as a careful key.
+The course notes flag this exact image: "the instrument of unchaining — Zeus's own element,
+turned to mercy." The god who punished *with* the sky now frees *through* the same element,
+used differently.
 
 The eagles — the torture — get removed the same way: wrapped in whirlwinds and spun "away to
 the four corners of the world." Even the instruments of punishment are dismantled, not
@@ -82,32 +82,32 @@ destroyed: spun away, far enough never to return.
 
 ## 3. Free — to champion the little people
 
-And the final line, which the outline's ref 289 names as the story's heart:
+And the final line, which the outline flags as the story's heart:
 
 > And Prometheus was free once more **to champion the little people of the world**, whom he had
 > made out of water and mud.
 
-The story ends where Prometheus's love always was. He isn't freed *to* rule, or to take
+The story ends where Prometheus's love always was. He isn't freed so he can rule, or take
 revenge. He is freed *to champion* — to stand up for the mud-people, the same creatures for
-whom he stole fire in Week 3. The punishment is over because the punisher became worthy of
-Prometheus's forgiveness.
+whom he stole fire in Week 3. The punishment is over because the punisher grew up enough to be
+forgiven.
 
 ---
 
 ## 4. A myth in two tellings — the Heracles variant
 
 Now, honesty in myth: the *standard* Greek version (Aeschylus, Apollodorus, most myth books)
-has Prometheus freed by **Heracles** — the hero shoots the eagle, breaks the chains, and another
-creature (the centaur Chiron) takes Prometheus's place in death.
+has Prometheus freed by **Heracles** — the hero shoots the eagle, breaks the chains, and
+another creature (the centaur Chiron) offers to die in Prometheus's place.
 
 **Not in this book.** In this course's McCaughrean telling, it is the **older, wiser Zeus
 himself** who performs the unchaining, alone, with pliers of lightning.
 
-This is the one place in the term where the course text deliberately differs from the common
-myth — and it's a perfect instance of the phrase you've heard all term: **"myths change in the
-telling."** Both versions agree on the *point* (release, reconciliation, the breaking of the
-cycle). They disagree on *who breaks it*. The course teaches the Zeus version; name the
-Heracles version as the famous other telling, and you know more than most adults do.
+This is the one story in the term where the course text deliberately differs from the common
+myth — and it's a perfect example of the phrase you've heard all term: **"myths change in the
+telling."** Both versions agree on the *point* (freedom, making peace, breaking the cycle).
+They disagree on *who breaks it*. The course teaches the Zeus version; if you can name the
+Heracles version as the other famous telling, you know more than most adults do.
 
 ---
 
@@ -117,14 +117,14 @@ The outline teaches this final tale as the answer to a problem the whole term ha
 
 Pandora's box punished the innocent. Echo's curse punished speech itself. Arachne's curse
 punished skill. Midas's hunger punished love. The labyrinths punished and bred cruelty. Every
-lesson ended with **punishment that made more punishment.**
+lesson ended with **punishment that caused more punishment.**
 
-> The cycle of justice *spirals* until someone stops it.
+> The cycle of justice *keeps going around* until someone stops it.
 
-In "Freedom for Prometheus," the spiral stops — **not because Prometheus apologised** (he
-doesn't), **not because anyone deserved mercy**, but because **the punisher matured.** That is
-the beat Lesson 38 will complete: justice resolving through the *growth of the ruler*, not the
-grovel of the victim.
+In "Freedom for Prometheus," the cycle stops — **not because Prometheus apologised** (he
+doesn't), **not because anyone deserved mercy**, but because **the punisher grew up.** That is
+the beat Lesson 38 will complete: justice ends because the *ruler* grew up, not because the
+victim begged.
 
 ---
 
@@ -135,17 +135,17 @@ of lightning to clip the link, because he has finally understood that the strong
 bully the weak.**
 
 It is the rarest image in Greek myth: power, used gently. And it is the image that turns the
-entire course's story arc into a circle — the cliff of Week 3 and the free man of Week 13 at
-last connected.
+entire course's story into a circle — the cliff of Week 3 and the free man of Week 13 at last
+connected.
 
 ---
 
 ### Key terms for this lesson
-- **Unchaining** — the reversal of the Week 3 punishment; the story's literal and symbolic core.
-- **Pliers of lightning** — the outline's image of Zeus's mercy: precision and care, not a blast.
-- **Shame / pity / admiration** — the three new emotions that mark Zeus's growth.
-- **Cycle of justice** — punishment breeding punishment; broken when the *punisher* changes.
-- **Reconciliation** — making peace between enemies; the ending's emotional payoff.
+- **Unchaining** — undoing the Week 3 punishment; the story's real and symbolic core.
+- **Pliers of lightning** — the outline's image of Zeus's mercy: care and precision, not a blast.
+- **Shame / pity / admiration** — the three new emotions that show Zeus growing up.
+- **Cycle of justice** — punishment causing more punishment; broken when the *punisher* changes.
+- **Reconciliation** — enemies making peace; the emotional payoff at the ending.
 - **Variant** — an alternative version of a myth; the Heracles freeing vs. the Zeus freeing.
 
 ### Things to remember
@@ -153,15 +153,16 @@ last connected.
 - "Even the gods grow wiser as they grow older."
 - Zeus feels shame (bullying the weak), pity (a father kept from his children), and admiration
   (for the mud-people — "there were heroes and heroines among those men and women").
-- Zeus uncashains Prometheus **with pliers of lightning** and spins the eagles away in
+- Zeus unchains Prometheus **with pliers of lightning** and spins the eagles away in
   whirlwinds to the four corners of the world.
 - Prometheus is free "to champion the little people of the world."
 - The standard myth gives the freeing to Heracles; this course's text gives it to the older,
   wiser Zeus. Both are "true Greek myth" — myths change in the telling.
-- The cycle of justice breaks because the *punisher* grows, not because the victim apologises.
+- The cycle of justice breaks because the *punisher* grows up, not because the victim begs.
 
 ---
 
-*This article covers the penultimate reading of the course (course outline Week 13, Lesson
-13.1), drawing directly on the *Freedom for Prometheus* class text, and is written for direct
-student use. Lesson 38 completes the thematic argument.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It covers the final reading of the course before the review lesson (course outline
+Week 13, Lesson 13.1), drawing directly on the *Freedom for Prometheus* class text, and is written for direct student
+use. Lesson 38 completes the thematic argument.*

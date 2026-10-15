@@ -7,152 +7,130 @@ topic: "Relationships, Communication & Cyberbullying"
 topicId: "relationships-communication-cyberbullying"
 order: 2
 ---
-# Lesson 10 — Trolling, Flaming, and the Vocabulary of Harassment
+# Lesson 10 — Roles in Online Drama: Bystander, Upstander, Crowd, and Ally
 
 *Reference article for Form 2 (ages 11–13) · Digital Citizenship*
 
-Have you ever thrown a pebble into a pond just to watch the ripples? Trolls are like that — except the pebble is a cruel comment, and the ripples are your emotions.
+Picture a playground. Someone is being picked on. A ring of kids stands around watching. Now picture a group chat, or a comment section, or a game lobby where the same thing is happening. The stage is different — but look closely, and the same crowd is there. Watching. Scrolling. Watching.
 
-This lesson is about names. Not names you call people — names for *behaviors*. When you have the right words, you can see what's happening before it hurts you, and you can decide what to do instead of being carried along.
-
----
-
-## Meet the behaviors
-
-### Trolling
-**Deliberately posting or commenting to provoke a reaction.** The troll's goal is not to win an argument or make a point — it's to get you *worked up*. They bait you into arguments or emotional responses, sometimes saying things they don't even believe. The reaction *is* the reward.
-
-> Someone comments "this is stupid, the earth is flat" under a school project post, purely to start an argument. That's trolling. The comment isn't a genuine belief; it's bait.
-
-### Flaming
-**Sending hostile, aggressive, insulting, or mocking messages aimed at another person.** It's sometimes called "shouting" online.
-
-> In a group chat, a player replies to a mistake with "wow, are you actually brain-dead?" That's flaming — a personal attack.
-
-Here's a handy distinction some researchers use: **trolling targets the conversation; flaming targets a person.** Trolling wants to derail the discussion; flaming wants to wound the human being. (More on this below — not every expert draws the line in the same place.)
-
-### Pile-on / cyber-mob attack
-**When many people join in to attack one person at once.** A troll stirs the pot; then others pile in. The target suddenly faces a crowd, not a single voice.
-
-### Harassment
-**Repeated unwanted, offensive, or abusive conduct directed at someone.** It's a broader umbrella term than bullying — it doesn't require a power imbalance or a prior relationship. This is the serious end of the spectrum.
-
-> Someone keeps DMing a classmate with nasty messages after the classmate asked them to stop. That has crossed into harassment — and it should be reported to a trusted adult and the platform.
+Here's the uncomfortable truth we're going to sit with today: **watching is a choice.** And it's not a neutral one.
 
 ---
 
-## Why does it get so ugly so fast?
+## The cast of characters
 
-The online world takes away the things that keep us human to each other in person:
+Researchers who study bullying have mapped out the roles people play when harmful behavior happens online. Here's the lineup.
 
-- No tone of voice
-- No body language
-- No face to see the hurt in
+### The target
+The person being hurt, insulted, excluded, or attacked. They deserve safety and support — never blame.
 
-This is called **online disinhibition** — the way anonymity and the lack of face-to-face feedback make people type things they would never say out loud. In person, your friend's face stops you. Online, there's no face. So people say things they'd be ashamed to say aloud — and arguments escalate much faster than they ever would at the dinner table.
+### The bully (perpetrator)
+The person or people doing the hurtful behavior. Bullying is a choice. It can be one person, or it can be many.
 
-This is also how small things spiral:
+### The bystander
+Anyone who sees or knows about bullying happening — in person or online. Here's the catch with cyberbullying: **even strangers who see a post are bystanders.** If you've ever scrolled past a mean post, you've been one.
 
-**The escalation pattern:**
-1. A small disagreement gets public.
-2. Others join in.
-3. Messages get angrier.
-4. Threats appear.
-5. It moves to other platforms (a "pile-on").
-6. Someone creates fake accounts to keep it going.
+### The passive bystander
+A bystander who does nothing. It's the most common role, and the most misunderstood. Doing nothing is still a choice — and targets often read it as "they agree with the bully" or "they don't care." Silence can look like approval. It makes the target feel more alone.
 
-Know the pattern and you can spot the first two steps — before the fire, when you can still walk away.
+### The reinforcer
+A bystander who joins in — laughing, liking, sharing, encouraging the bully. This isn't neutrality; it's fuel. Every "like" is a cheer.
 
----
+### The crowd
+The group of people watching or joining in. In online spaces, the crowd can grow very fast. A single mean comment can turn into a pile-on when others join in. Crowds don't have to be large to make someone feel outnumbered.
 
-## The troll's favorite trick
+### The upstander
+Someone who steps in to help — by supporting the target, speaking up, or telling a trusted adult. The word matters: an upstander *stands up*. Even one supportive person makes a huge difference to how a bullied person copes.
 
-Trolls have a playbook, and one move stands out: **downplaying the harm.**
-
-- "It was just a joke."
-- "You're overreacting."
-- "Can't you take a joke?"
-
-This does two nasty things at once: it makes the target feel worse (as if their hurt is silly), and it tries to escape consequences (as if nothing really happened). When someone tells you you're "overreacting," pause. That sentence is a troll's signature. Real cruelty loves to dress up as a joke.
+### The ally
+One specific form of upstanding — someone who supports the target directly: checking in, sitting with them, being a friend. Small, quiet, and often the most powerful of all.
 
 ---
 
-## The single most important rule: don't feed the troll
+## Why does it matter what you do?
 
-Here's the trap: when someone flames you, every instinct says *respond in kind*. Win the argument. Land the comeback.
+Two findings from the research worth sitting with:
 
-**The comeback is exactly what the troll wants.**
+- **Support helps.** A bullied person who has even one person on their side feels less anxious and less alone.
+- **Watching hurts the watcher too.** Witnessing bullying can upset the bystander themselves.
 
-The troll's goal is the reaction, not the argument. When you argue back, you hand them the very thing they're fishing for. You're the pebble *and* the ripple.
-
-So the rule, repeated across every credible source: **do not feed the troll.** Don't argue. Don't respond in kind. Instead:
-
-1. **Step away.** Walk away from the keyboard. Breathe. The fire dies when you stop adding fuel.
-2. **Collect evidence.** Screenshot the messages and posts. This isn't paranoia — it's record-keeping. Evidence helps adults and platforms understand what happened.
-3. **Report.** Use the platform's report function. This is not "telling on" someone; it's using the safety system that exists.
-4. **Block.** Blocking isn't giving up. It's building a wall. Blocking protects you and removes the troll's access to you.
+And here's the scale of the problem: most cyberbullying happens where others can see it, so most young people witness it at some point, even if they are never the target. Roughly a quarter of teens report having tried to help someone being cyberbullied. That means three out of four haven't — yet.
 
 ---
 
-## Worked example: following the escalation
+## Why do people stay silent?
 
-Watch how a spark becomes a fire:
+It's never laziness. It's usually one of these:
 
-**Step 1.** Two people argue about a game update in a group chat. A little heated, but mostly fine — a disagreement.
+- **Fear of becoming the next target.** "If I speak up, they'll come after me."
+- **Worry about social consequences.** "What will my friends think?"
+- **Not knowing what to do.** "I'd help if I knew how, but I genuinely don't."
+- **Assuming someone else will.** "Someone will handle it."
 
-**Step 2.** Someone jumps in and calls one of them a name. That's flaming now — a personal attack, not a debate about the game.
-
-**Step 3.** Several others start tagging the target. It's becoming a pile-on.
-
-**Step 4.** The target, hurt and embarrassed, fires back — and now they're "part of it."
-
-Here's what de-escalation looks like instead of Step 4: the target — or anyone else in the chat — can **lower the heat instead of adding to it.** De-escalation means actions that reduce tension and stop the conflict from spiraling. And here's the key point: **de-escalating is not giving in.** You can set a boundary and walk away without agreeing with anyone. "I'm not doing this in a group chat — let's talk about it another time" is not surrender; it's a boundary.
+That last one has a name: the **bystander effect**. It's the tendency to freeze when other people are also watching, because we tell ourselves someone else will act. But if everyone thinks that, *no one* acts. Think about it — "someone else will handle it" is a thought that only works if you're the someone else. You can be the first, or the second, or the third person to speak up.
 
 ---
 
-## What about *your* behavior?
+## The myth of the "neutral" bystander
 
-Here's the part that requires honesty. Anyone can slip into trolling behavior — when they're angry, when they feel anonymous, when they're caught in a bad mood. The myth is that only "bad people" troll. The truth is that ordinary people, feeling anonymous and provoked, can type things they'd never say aloud.
+Some of us believe that if we don't participate, we're not part of it. Like we're watching a movie.
 
-So ask yourself:
+But there's no "pause" button on real life. When you scroll past a classmate being mocked in a group post, you can't see the classmate's face — but they can see that you saw. Here's the sentence researchers use: **silence signals approval.** Doing nothing gives the bully a free pass, and it tells the target they're on their own.
 
-- *Am I posting this to make a point, or to make someone upset?*
-- *Would I say this to their face?*
-- *If they screenshot this and showed a teacher, would I be proud of it?*
-
-Recognizing the behavior in yourself isn't about guilt — it's about noticing the first spark before it becomes a fire. That's the whole game.
+You don't have to be loud to be seen. You just have to choose.
 
 ---
 
-## More myths, smashed
+## The STAND framework
 
-- **"It's just trolling, it's harmless fun."** — Trolling and flaming cause real distress, and trolling is a recognized form of online abuse. "It was a joke" is a classic downplaying tactic.
-- **"If I argue back with a good comeback, I win."** — Responding gives the troll exactly the reaction they want, and it often escalates the situation. The troll's goal is the reaction, not the argument.
-- **"Flaming is just being honest."** — Honesty doesn't require insults. Hostile, mocking delivery is a personal attack, not honest feedback.
-- **"Anonymity means no one can be held accountable."** — Platforms can trace and block accounts, and serious threats and harassment can be reported to authorities. People have been excluded from school, lost opportunities, and faced legal consequences.
-- **"De-escalating means giving in."** — No. De-escalation means lowering the heat so the conflict doesn't spiral. You can set boundaries and walk away without agreeing.
+Different programs teach different acronyms. One of the clearest is **STAND** — and it's designed so that there's a safe option at every comfort level. You do not have to be a superhero; you just have to take one step.
 
----
+- **S — Speak up.** Say something, kindly. "That's not cool." "Leave them alone, let's play." It doesn't have to be a speech. Even "this isn't funny" shifts the room.
+- **T — Tell a trusted adult.** A parent, teacher, counselor, coach. You don't need to resolve it yourself. Adults exist for exactly this.
+- **A — Alert the platform.** Report the post, the account, the chat. Reports are private, and they work.
+- **N — Never retaliate.** Fighting back or attacking the bully usually feeds the cycle and can make you look like part of the problem.
+- **D — Defend / support the target.** The quiet moves: message them privately, sit with them, check in. "Hey, you okay? That was not cool."
 
-## A note from the research
-
-The vocabulary here isn't perfectly tidy, even for experts. Some researchers treat trolling as an umbrella term that includes cyberbullying; others treat them as separate. Some define trolling as targeting the conversation and flaming as targeting a person; others flip it and treat flaming as the broad category with trolling as one kind. Even the word "flame" means slightly different things in different studies.
-
-So if you ever feel confused about which word to use — that's not you being lost. That's the field still arguing. What you can hold onto without any research debate:
-
-- **Baiting someone to provoke a reaction is trolling.**
-- **Attacking a person with hostile, mocking messages is flaming.**
-- **Many people joining to attack one person is a pile-on.**
-- **Repeated unwanted abuse is harassment — and it's serious.**
-
-The label matters less than the question: *is this behavior hurting someone?* If yes, step away, save evidence, report, and block.
+Notice what's NOT on this list: *argue loudly, get into a fight, risk your safety.* Being an upstander does **not** mean confronting the bully. Support, reporting, and presence are just as powerful — and usually safer.
 
 ---
 
-## Hold on to this
+## What upstanding actually looks like
 
-You now have a vocabulary most adults don't have. You can name what's happening — trolling, flaming, pile-on, harassment — and naming is power. You can see the escalation pattern on its first or second step. And you know the one move that outsmarts the troll every time:
+Let's practice with real scenarios.
 
-**Don't feed the troll.**
+**Scenario A.** A classmate is getting nasty comments on a group post.
 
-Walk away. Save the evidence. Report. Block. That's not running away — that's refusing to play a rigged game. And the person who refuses to play can't lose.
+- Passive bystander: scroll past.
+- Upstander: privately message them — *"Hey, you okay? That was not cool."*
+
+**Scenario B.** Someone posts a mean picture of a kid in your grade.
+
+- Reinforcer: like it.
+- Upstander: report the picture and check in with the target privately.
+
+**Scenario C.** Players in a game lobby are mocking a teammate.
+
+- You don't have to argue loudly. Say *"Leave them alone, let's play"* — or report the chat abuse. Either is upstanding.
+
+**Scenario D.** A friend shows you screenshots of nasty messages they got and asks you not to tell anyone.
+
+- This one is hard, because it involves a secret. But here's the rule: **keeping them safe matters more than keeping the secret.** Go *with* them to tell a trusted adult. You don't have to break their trust alone — you can stand beside them.
+
+**Scenario E.** A classmate has gone quiet and is avoiding school.
+
+- You don't need the full story to act. Check in with them, or mention your worry to a teacher. Noticing someone is a gift in itself.
+
+---
+
+## Myths about roles
+
+- **"Doing nothing is neutral."** — It is not. Targets read silence as approval or indifference. Doing nothing signals the bully has a free pass.
+- **"Being an upstander means confronting the bully."** — Not necessarily. Support, reporting, and being present are just as powerful and usually safer.
+- **"Only one person can make a difference."** — False. Even one supportive voice can change how alone a target feels. And when one person speaks up, others often find the courage to join them.
+
+---
+
+## Key takeaway
+
+You can choose your role in online drama. You don't have to join the crowd. You don't have to be a passive bystander. You can be an **upstander** or an **ally** — and even the smallest safe action can make all the difference.

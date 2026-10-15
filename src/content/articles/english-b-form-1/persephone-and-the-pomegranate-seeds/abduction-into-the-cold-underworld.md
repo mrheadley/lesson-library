@@ -24,7 +24,7 @@ Now Unit 2 begins — and it starts under the ground.
 
 ## 1. The two worlds of Persephone
 
-The ancient Greeks believed the world had halves people should never mix: the **bright world
+The ancient Greeks believed the world had two halves people should never mix: the **bright world
 above** and the **cold world below**.
 
 - **Above:** sunlight, rivers, meadows, spring flowers. This is where **Persephone** lives —
@@ -42,11 +42,11 @@ no queen. He lives in a palace of shadows, and nobody comes to visit.
 Before the story gets dramatic, meet Demeter properly. Look at her job — because everything
 that goes wrong in this myth happens when she stops doing it:
 
-**Demeter is the goddess of agriculture.** She is the one who makes the corn grow, the
-fields ripen, and the trees fruit. When she is happy, the world is green and full.
+**Demeter is the goddess of farming.** She is the one who makes the corn grow, the fields
+ripen, and the trees bear fruit. When she is happy, the world is green and full.
 
 The ancient Greeks knew the world depends on her. If Demeter turned her face away, nothing
-would grow. That fact — her power over the harvest — is the secret engine of the whole story.
+would grow. That fact — her power over the harvest — is the engine of the whole story.
 
 ---
 
@@ -62,10 +62,10 @@ He comes up out of the earth in his dark chariot, scoops her up, and carries her
 
 Details the text wants you to notice:
 
-- He rides a **chariot** — the same chariot that, in the explanation-layer, is said to make
-  the ground tremble as it passes (Lesson 15's surprise about earthquakes).
+- He rides a **chariot** — the same chariot that, in the explanation layer, is said to make the
+  ground tremble as it passes (Lesson 15's surprise about earthquakes).
 - As he carries her off, he throws a **belt** into the water of the Styx — the river of the
-  dead — which is a trick detail to understand later (Lesson 15).
+  dead — which is a detail to understand later (Lesson 15).
 - She is taken to the **Underworld palace**, where Pluto begins to behave like a hopeful host.
 
 Persephone has vanished. And no god can tell her mother what happened — because the only
@@ -90,7 +90,7 @@ not just personal — it is the first winter the world has ever known.
 
 The people who wrote this story lived in a world where winter really did mean their harvest
 could fail — and famine could follow. This is the myth explaining their deepest fear with a
-single image: *the earth fails because the goddess of growth is grieving.*
+single picture: *the earth fails because the goddess of growth is grieving.*
 
 ---
 
@@ -122,7 +122,7 @@ the world of grief, and winter was born.
 
 ### Key terms for this lesson
 - **Persephone** — daughter of Demeter, goddess of spring; taken to the Underworld.
-- **Demeter** — goddess of agriculture, the harvest, and growth; Persephone's mother.
+- **Demeter** — goddess of farming, the harvest, and growth; Persephone's mother.
 - **Pluto / Hades** — ruler of the Underworld; the god who takes Persephone.
 - **Underworld** — the dark, cold kingdom of the dead, ruled by Pluto.
 - **Abduction** — being taken away by force.
@@ -131,9 +131,10 @@ the world of grief, and winter was born.
 - The world has two halves: bright above, cold below.
 - Demeter's mood controls the harvest — her grief stops the world growing.
 - Pluto acts from loneliness, not cruelty.
-- The abduction is the myth's way of explaining why the world has a dead season.
+- The taking of Persephone is the myth's way of explaining why the world has a dead season.
 
 ---
 
-*This article covers the opening of *Persephone and the Pomegranate Seeds* (course outline
-Week 5, Lesson 5.2) and is written for direct student use.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It covers the opening of *Persephone and the Pomegranate Seeds* (course outline Week 5,
+Lesson 5.2) and is written for direct student use.*

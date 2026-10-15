@@ -14,9 +14,9 @@ order: 2
 
 ## The story so far
 
-Persephone is trapped in the cold Underworld. Earth is frozen because her mother, Demeter,
-is frozen with grief. Pluto is lonely and wants a queen. Zeus, in the middle, wants crops to
-grow again — mostly because he misses the offerings humans make when harvests go well.
+Persephone is trapped in the cold Underworld. Earth is frozen because her mother, Demeter, is
+frozen with grief. Pluto is lonely and wants a queen. Zeus, in the middle, wants crops to grow
+again — mostly because he misses the offerings humans make when harvests go well.
 
 Somebody has to fix this. Zeus sends the one god fast enough to do it: **Hermes**, the
 messenger, the fastest flyer of all the gods.
@@ -63,7 +63,7 @@ And that is the exact moment Hermes arrives.
 
 ## 3. The six-seed mathematics of the myth
 
-Here is where the story does something brilliant — it counts.
+Here is where the story does something clever — it counts.
 
 - Pluto sprinkles **twelve** seeds into Persephone's hand.
 - She lifts them to her mouth — and **six** little seeds fall from her palm.
@@ -72,9 +72,9 @@ Here is where the story does something brilliant — it counts.
 Hermes sees the seeds on the ground and speaks the terrible words: "**You have accepted
 Pluto's hospitality — eaten his food.** So now you must stay here for ever."
 
-Read that carefully. Persephone did not eat voluntarily, in the way of a guest choosing
-seconds. She was starving, tricked, and about to be rescued. And yet the rule is the rule.
-Her six seeds bind her to the dead.
+Read that carefully. Persephone did not eat in the way of a guest choosing seconds. She was
+starving, tricked, and about to be rescued. And yet the rule is the rule. Her six seeds tie her
+to the dead.
 
 Throw these two thoughts up in the air and watch them land:
 
@@ -90,13 +90,13 @@ Pluto one of its most surprising lines — the god who seems coldest turns pale 
 
 ## 4. The belt in the Styx — the detail that was waiting
 
-Remember the belt Pluto threw into the river Styx in Lesson 14? Here is what it was for:
-the water of the Styx is the river of sacred oaths, the one promise even the gods cannot
-break. By carrying his **belt across the Styx**, Pluto had already sealed his claim in the
-only way a god cannot undo.
+Remember the belt Pluto threw into the river Styx in Lesson 14? Here is what it was for: the
+water of the Styx is the river of sacred promises, the one promise even the gods cannot break.
+By carrying his **belt across the Styx**, Pluto had already sealed his claim in the only way a
+god cannot undo.
 
-The detail was planted in the abduction scene so that the trap would click shut at the
-dinner table. That is how tightly Greek myth is woven.
+The detail was planted in the taking scene so that the trap would click shut at the dinner
+table. That is how tightly Greek myth is woven.
 
 ---
 
@@ -109,8 +109,8 @@ world cannot stay frozen forever. So Zeus — king of the gods — hands down hi
 > months** of every year in the Kingdom of the Dead. For the **other six months**, let her
 > live with her mother, on the earth. And let no one argue with the judgement of Zeus!"
 
-Six seeds. Six months. It is the neatest piece of arithmetic in the whole unit — and it is
-the myth's answer to a question every child of that era asked in winter:
+Six seeds. Six months. It is the neatest piece of counting in the whole unit — and it is the
+myth's answer to a question every child of that era asked in winter:
 
 **"Where has the green gone?"**
 
@@ -130,8 +130,8 @@ Match the year to the myth and the myth becomes the calendar:
 The Greeks noticed that autumn comes *before* winter, and so their myth has it too — the
 trees flush red "calling Persephone's name" before they drop their leaves.
 
-And there is one more "explains this" gift in the same myth: the ground trembles in
-earthquakes because **Pluto's chariot is thundering underneath**, dragging the seasons with it.
+And there is one more "explains this" gift in the same myth: the ground trembles in earthquakes
+because **Pluto's chariot is thundering underneath**, dragging the seasons with it.
 
 ---
 
@@ -144,12 +144,11 @@ She was stolen. She was tricked. And yet, in her six months below:
 - First she **pitied** Pluto.
 - Then she **loved** him.
 
-Now, the story says, the Underworld is "much brighter and warmer" during her six winter
-months there — because the queen of the dead is not a prisoner of the dark anymore. She is
-its light.
+Now, the story says, the Underworld is "much brighter and warmer" during her six winter months
+there — because the queen of the dead is not a prisoner of the dark anymore. She is its light.
 
-A myth about why we have winter turns out to be a myth about something else too: that even
-the coldest story can warm, once you understand the loneliness inside it.
+A myth about why we have winter turns out to be a myth about something else too: that even the
+coldest story can warm, once you understand the loneliness inside it.
 
 ---
 
@@ -158,10 +157,10 @@ the coldest story can warm, once you understand the loneliness inside it.
 Zeus's compromise is famous, but is it *fair*? The test likes this question, so be ready to
 argue **both sides**:
 
-- **Fair** — no one gets everything; the mother gets a daughter, the god gets a queen, the
-  world gets its harvest back; each person give something.
-- **Unfair** — the daughter is treated like property to be divided; nobody asked Persephone
-  what *she* wanted; and the one who was tricked still pays.
+- **Fair** — nobody gets everything; the mother gets a daughter, the god gets a queen, the
+  world gets its harvest back; each person gives something.
+- **Unfair** — the daughter is treated like property to be divided; nobody asked Persephone what
+  *she* wanted; and the one who was tricked still pays.
 
 Your own answer needs the three-part spine you already know: **Claim → Quote → Explain.** Give
 a claim ("The judgement is fair / unfair"), quote a reason from the story, and explain how the
@@ -182,7 +181,7 @@ evidence proves it.
 - **Compromise** — where both sides give something to settle a conflict.
 
 ### Things to remember
-- Twelve seeds offered, six eaten, six dropped — six fall, six months, the whole myth is counted.
+- Twelve seeds offered, six eaten, six dropped — six seeds, six months, the whole myth is counted.
 - Actions have consequences, even unintended ones; rules are rules.
 - Autumn and winter are the grieving half of the year in the myth.
 - Persephone's hatred of Pluto slowly becomes pity, then love.
@@ -190,6 +189,7 @@ evidence proves it.
 
 ---
 
-*This article covers the middle of *Persephone and the Pomegranate Seeds* (course outline Week
-5, Lesson 5.3) and is written for direct student use. Reading Journal checkpoint 2 is collected
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It covers the middle of *Persephone and the Pomegranate Seeds* (course outline Week 5,
+Lesson 5.3) and is written for direct student use. Reading Journal checkpoint 2 is collected
 this lesson.*

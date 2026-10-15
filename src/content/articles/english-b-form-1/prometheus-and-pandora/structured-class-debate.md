@@ -20,14 +20,14 @@ Today you argue, with evidence:
 
 The two sides will be assigned: **Government** argues *for* the motion (Zeus is cruel and
 vindictive); **Opposition** argues *against* it (Zeus is a just king). You may not personally
-believe your side. That is normal — and it is the point. Debate is a sport of *evidence*, not
-a test of sincerity.
+believe your side. That is normal — and it is the point. Debate is a sport of *evidence*, not a
+test of sincerity.
 
 ---
 
 ## 1. The evidence you have already collected
 
-Everything this unit taught you is now admissible as evidence. Your weapons are the quotes you
+Everything this unit taught you is now allowed as evidence. Your weapons are the quotes you
 mined in Lesson 10.
 
 **For "cruel, vindictive":**
@@ -44,8 +44,8 @@ mined in Lesson 10.
 - He did not wipe humanity out entirely — Prometheus and Man survive.
 - Hope survives the box — in the course's wording, kept inside to comfort humans and even
   Prometheus on his cliff.
-- The reason the "mercy" evidence is weak is the *tension itself* — a god who is genuinely and
-  simultaneously both.
+- The best reason this "mercy" evidence exists is the *tension itself* — a god who is genuinely
+  and at the same time both cruel and kind.
 
 **The character card (one line from the unit's own slides):** Zeus is *impulsive, jealous,
 vengeful and childish — and merciful.* Note: the *same* source gives both sides. That is the
@@ -62,13 +62,13 @@ For a class of ~19 per group:
 2. **Floor debate** — the argument opens up. Speakers follow the **talking-token rule**: hold
    the token to speak; safe pass if you need think-time; everyone whose hand is up gets a turn.
 3. **Rebuttals** — 30–60 seconds per side: attack the *weakest* point the other side made.
-   "Quote or concede" applies: if Opposition quotes a mercy scene, Government must meet it, not
+   "Quote or concede" applies: if Opposition quotes a mercy scene, Government must answer it, not
    dodge it.
 4. **Closing statements** — 30 seconds each side, summarising the *one* point that survived.
 
 **Judging:** the teacher is the judge, helped by two student **evidence checkers** — their whole
 job is tracking whether each claim was backed by a quote. If a speaker makes a claim without
-evidence, the checker can ring them on it. (This job suits high-fliers; it is the same skill as
+evidence, the checker can stop them on it. (This job suits high-fliers; it is the same skill as
 Lesson 10's.)
 
 ---
@@ -105,8 +105,9 @@ If you are opening or closing, build your speech with the P-E-E spine:
 
 Win or lose, by the end of the period you will have done the unit's core work out loud:
 
-- Made claims and defended them with quotes (**claim → quote → explain** in oral form).
-- Heard the *same* evidence used for opposite purposes and seen how framing decides cases.
+- Made claims and defended them with quotes (**claim → quote → explain** in spoken form).
+- Heard the *same* evidence used for opposite purposes and seen how the way you frame it
+  decides the case.
 - Practised the respect rule: unkindness forfeits a point. Disagree with the *argument*, never
   the person.
 
@@ -129,5 +130,6 @@ debate you have with yourself, on paper, with quotes on both sides of the page.
 
 ---
 
-*This article accompanies Lesson 11 and is written for direct student use, following the
-outline's Week 4.2 debate (Zeus: just king vs. cruel, vindictive ruler).*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It accompanies Lesson 11 and is written for direct student use, following the outline's
+Week 4.2 debate (Zeus: just king vs. cruel, vindictive ruler).*

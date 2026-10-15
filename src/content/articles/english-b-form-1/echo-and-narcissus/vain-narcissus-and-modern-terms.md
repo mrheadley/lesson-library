@@ -32,7 +32,7 @@ loves him instantly. And that is exactly the problem:
 
 He is vain. He is cold. He treats the people who adore him with careless cruelty. Echo sees
 him and falls hopelessly, silently in love — and her curse means she can do nothing about it.
-She can only dog his footsteps in silence, hoping, watching, waiting.
+She can only follow his footsteps in silence, hoping, watching, waiting.
 
 ---
 
@@ -56,7 +56,7 @@ her to a stick-insect and telling her to look at herself.
 
 ---
 
-## 3. Echo's vanishing — and her wicked, wordless wish
+## 3. Echo's fading — and her wicked, wordless wish
 
 Echo's heart breaks. She grows thin and pale. She wanders into the forest to be alone.
 
@@ -66,7 +66,7 @@ no words, the wish is shaped not from her mouth but from her pain:
 > She wished that Narcissus should one day love as she loved him — and suffer for it as she was
 > suffering.
 
-Then Echo fades. The text is precise about it: she grows thinner and thinner, paler and paler,
+Then Echo fades. The text is careful about it: she grows thinner and thinner, paler and paler,
 until at last her **body fades away altogether. Only her voice is left**, blowing about with
 the leaves.
 
@@ -81,16 +81,17 @@ Here is why *Echo and Narcissus* is one of the most useful stories you will meet
 The Greeks gave the two ruined characters' names to ordinary modern English — as words we use
 almost every day:
 
-> **Narcissist / narcissism** — excessive self-love; a person so absorbed in themselves they
-> cannot see anyone else. Psychologists still use the word today, named after this very story.
+> **Narcissist / narcissism** — too much self-love; a person so caught up in themselves that
+> they cannot see anyone else. Psychologists still use the word today, named after this very
+> story.
 
 > **Echo chamber** — a situation (especially online) where you only ever hear your own opinions
 > repeated back to you. Scroll a social-media feed that only shows you things you already agree
 > with: that is an echo chamber, named for the nymph who could only repeat other people's words.
 
-Put them together and a strange thing appears: the two victims of the myth are walking around
-in our heads every day — one as an insult to self-absorption, the other as a warning about the
-spaces we build around our own opinions.
+Put them together and a strange thing appears: the two victims of the myth walk around in our
+heads every day — one as a word for self-absorption, the other as a warning about the spaces we
+build around our own opinions.
 
 ---
 
@@ -107,7 +108,7 @@ One story, and you have two modern words for the price of one myth.
 
 ---
 
-## 6. The trap of the story so far
+## 6. The shape of the story so far
 
 Notice the shape this is taking — it is the shape the gods keep drawing in Unit 2:
 
@@ -127,7 +128,7 @@ and will it destroy him?*
 - **Vain / vanity** — proud and self-absorbed, especially about looks.
 - **Unrequited love** — love that is not returned; love for someone who does not love you back.
 - **Pine away** — waste away from longing or sadness.
-- **Narcissist / narcissism** — excessive self-love (named after the myth).
+- **Narcissist / narcissism** — too much self-love (named after the myth).
 - **Echo chamber** — hearing only your own opinions echoed back (named after the myth).
 
 ### Things to remember
@@ -135,9 +136,10 @@ and will it destroy him?*
 - Echo fades away until only her voice remains.
 - Her "wicked, wordless wish": that Narcissus love and suffer as she did.
 - The myth's names have become modern words: narcissist and echo chamber.
-- The story has set the trap for Narcissus — Lesson 18 spring it.
+- The story has set the trap for Narcissus — Lesson 18 springs it.
 
 ---
 
-*This article covers the middle of *Echo and Narcissus* (course outline Week 6, Lesson 6.2)
-and is written for direct student use.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It covers the middle of *Echo and Narcissus* (course outline Week 6, Lesson 6.2) and is
+written for direct student use.*

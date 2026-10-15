@@ -18,8 +18,8 @@ Perseus holds the Gorgon's head in a bag, invisible and winged and shield-bright
 just beat the unbeatable monster by changing the rules. He is flying home, victorious, carrying
 a weapon too dangerous to show.
 
-As he flies, the story sets one more trap for him — and, in traffic he cannot see, for everyone
-he loves.
+As he flies, the story sets one more trap for him — and, in a situation he knows nothing about,
+for everyone he loves.
 
 ---
 
@@ -35,8 +35,9 @@ angry, and the only offering that will do is the king's **most precious possessi
 daughter, **Andromeda**.
 
 Chained to a ledge on the cliff, left as bait for the serpent, Andromeda catches sight of her
-supposed fiancé, **Phineas**, among the crowd — and begs him to save her. His reply is a classic
-study in cowardice dressed up as duty:
+supposed fiancé (the man she was supposed to marry), **Phineas**, among the crowd — and begs
+him to save her. His reply is a perfect example of being a coward while pretending to be
+responsible:
 
 > "They say nothing else will work. Do you want us all to be eaten in our beds, you selfish
 > girl? You ought to be proud to do this for your country."
@@ -62,8 +63,8 @@ sky." The fight is not clean or easy:
   monster's slimy neck** — and stabs again and again until the beast rolls over, dead.
 
 When Perseus drags himself wearily out of the water, the people on the clifftops cheer. The king
-is overwhelmed with gratitude. And Perseus — who beat Medusa with clever tricks — asks for the
-one reward a hero's heart can settle on:
+is full of gratitude. And Perseus — who beat Medusa with clever tricks — asks for the one
+reward a hero's heart can settle on:
 
 > "She is so beautiful. The best reward I could ever think of is to have Andromeda for my
 > wife."
@@ -92,8 +93,9 @@ And drags out the Gorgon's head.
 > Fifty spears clattered to the floor, dropped by hands that had turned to stone. His attackers
 > stood about like ugly statues, doomed to stand for ever with one arm lifted.
 
-Fifty wedding-crashers, frozen mid-throw in his wedding hall. The lesson fires the exact image
-from Lesson 29 home: the still-dangerous head, used exactly once, at exactly the right moment.
+Fifty wedding-crashers, frozen mid-throw in his wedding hall. The lesson reminds you of exactly
+the picture from Lesson 29: the still-dangerous head, used exactly once, at exactly the right
+moment.
 
 ---
 
@@ -114,7 +116,7 @@ So Perseus shows him. And the lesson repeats two numbers you should keep separat
 > are staring still, still standing as they stood in that moment when the Gorgon Medusa's head
 > turned them all to stone.
 
-The tyrant who plotted Perseus's death ends as a permanent display. And the kind fisherman
+The cruel king who planned Perseus's death ends as a permanent display. And the kind fisherman
 Dictys — first to shelter the baby in the chest — becomes king in his place, and marries Danaë
 at last.
 
@@ -122,7 +124,7 @@ at last.
 
 ## 5. The discus — and the prophecy the king forgot
 
-Now the myth delivers its deepest card. At the wedding celebrations, a sports day is held:
+Now the myth plays its deepest card. At the wedding celebrations, a sports day is held:
 running, jumping, wrestling, javelin — and **discus-throwing**. Perseus enters.
 
 > He threw the brass discus much higher and harder and further than any other competitor. But
@@ -138,11 +140,11 @@ in the whole story:
 
 Read that again. **King Acrisius — the man who locked a baby in a chest and pushed it out to
 sea to escape a prophecy — was killed after all, by the same grandson, by pure accident, at a
-celebration.** Every attempt to dodge Fate just rearranged the furniture on the path to it.
-The prophecy said the boy would kill him; and the boy, grown and unknowing, did.
+celebration.** Every attempt to dodge Fate just rearranged things on the path to it. The
+prophecy said the boy would kill him; and the boy, grown and unknowing, did.
 
 Perseus refuses to rule Acrisius's kingdom — too sad to take a crown bought with his own
-grandfather's life. Instead he travels to an empty land with Andromeda and founds what the text
+grandfather's life. Instead he travels to an empty land with Andromeda and starts what the text
 calls "the noblest kingdom in all the world."
 
 ---
@@ -184,5 +186,6 @@ Unit 2: no matter how you plan, **what is written lands anyway.**
 
 ---
 
-*This article completes *Perseus* (course outline Week 10, Lesson 10.3) and is written for
-direct student use.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It completes *Perseus* (course outline Week 10, Lesson 10.3) and is written for direct
+student use.*

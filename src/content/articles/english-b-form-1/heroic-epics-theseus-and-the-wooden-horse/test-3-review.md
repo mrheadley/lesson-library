@@ -23,7 +23,7 @@ Test 3 (Week 12, Lesson 12.3 — slot 36) covers the hero-era of Unit 3:
 4. **The Wooden Horse of Troy** — the theft of Helen, the ten-year siege, the gift-trap.
 
 The test wants what Tests 1 and 2 wanted: **the facts cold**, **the evidence habit** (every
-claim backed by a quote), and the new thread of this unit articulated: **Greek heroes win by
+claim backed by a quote), and the new idea of this unit, put clearly: **Greek heroes win by
 cleverness, not just strength — and even then, their flaws and carelessness cost them.**
 
 ---
@@ -44,7 +44,7 @@ Run these as flashcards until they snap:
   Atlas and the apples (the pad-for-the-shoulders trick) → free, but never free of the sorrow →
   set among the stars. **Idiom: "a Herculean task."**
 - **Theseus:** Athens's tribute of 14 to feed the Minotaur → Theseus volunteers → white sail /
-  black sail promise → Ariadne's thread → the fight in utter darkness → wounded, string
+  black sail promise → Ariadne's thread → the fight in utter darkness → wound to the string
   knocked away → kills the beast, finds the thread → abandons Ariadne on the island →
   forgets the sail → Aegeus throws himself into the sea → the **Aegean Sea**. **Question:
   "Hero or not?"**
@@ -57,16 +57,16 @@ Run these as flashcards until they snap:
 
 ## 2. The three reasons you will lose marks on Test 3
 
-- **Variants.** The unit again kept deliberate variant details. Know both sides — the rubric
-  rewards naming the version, not choosing a "winner":
+- **Variants.** The unit again kept deliberate details where the versions disagree. Know both
+  sides — the marking guide rewards naming the version, not choosing a "winner":
   - **Heracles vs. Hercules** — Greek vs. Roman name; the course uses Heracles.
-  - **Ted: the wedding / the palace counts** — 50 spearmen frozen at the wedding vs. *five
-    hundred* soldiers at Polydectes's court. Keep the numbers separate.
+  - **The two numbers — 50 vs. 500** — 50 spearmen frozen at the wedding vs. *five hundred*
+    soldiers at Polydectes's court. Keep the numbers separate.
   - **Helen** — the course text says Paris "stole Helen's love" (theft); an older legend has
     her going willingly. Course version = theft.
-- **Facts, not fluency.** "Perseus used a shield" is thin; the chain is: flew *backwards*,
-   holding Athene's shield up as a mirror, so he could *see her reflected without meeting her
-  gaze*, then struck while she slept. Retell in order.
+- **Facts, not just a general idea.** "Perseus used a shield" is thin; the chain is: flew
+  *backwards*, holding Athene's shield up as a mirror, so he could *see her reflected without
+  meeting her gaze*, then struck while she slept. Retell in order.
 - **Opinion without a quote.** "Theseus is careless" is not an answer; "Theseus forgot the
   faith of the black sail — *'he quite forgot to change the black sail for a white one'* — and
   his father died for it, so yes, careless" is an answer.
@@ -87,12 +87,12 @@ the thread that runs through all four stories:
 
 Each of those three moves can be supplied with a **Claim → Quote → Explain** from any story.
 
-## 4. The modern words and idioms (a slam-dunk section)
+## 4. The modern words and idioms (an easy-marks section)
 
-Slam-dunk, but keep the *exact* meanings:
+Easy marks, but keep the *exact* meanings:
 
 - **A Herculean task** — an enormously difficult job (from Heracles's labours).
-- **Trojan Horse** — a deceptive trap that looks like a gift (also the computer malware).
+- **Trojan Horse** — a trap that looks like a gift (also the computer malware).
 - **"Beware of Greeks bearing gifts"** — don't trust an enemy's kindness.
 - **(Bonus, carry from the term) the Midas touch, narcissist, echo chamber, arachnid, opening
   Pandora's box, Achilles' heel.**
@@ -110,9 +110,10 @@ feeds the Hydra; fire beats it — Explain.*
 
 ---
 
-*This review article synthesises Lessons 28–35: the facts, the evidence habit, the variant
-notes for the unit, the hero-theme spine, and the name-loans. Read it with your notes, then use
-the three self-study resources suggested alongside it.*
+*This review article was rewritten in plainer, age-appropriate language for Form 1 students
+(ages 11–13). It brings together Lessons 28–35: the facts, the evidence habit, the variant notes
+for the unit, the hero-theme spine, and the name-loans. Read it with your notes, then use the
+three self-study resources suggested alongside it.*
 
 ---
 

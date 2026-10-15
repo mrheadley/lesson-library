@@ -53,9 +53,9 @@ each ruler repeats the cruelty he overthrew.)
 
 ---
 
-## 3. The Pandora arc (the narrative spine)
+## 3. The Pandora arc (the story in five beats)
 
-The story moves in five beats. Re-sequence these from memory:
+The story moves in five beats. Put these in order from memory:
 
 1. **Creation & gifts** — Epimetheus makes the animals; Prometheus moulds First Man from mud so
    he looks up at the stars; Prometheus steals a sliver of fire from the sun's chariot.
@@ -65,8 +65,8 @@ The story moves in five beats. Re-sequence these from memory:
    is an iron-bound chest they must not open.
 4. **The opening** — curiosity wins; the nine evils are released (Disease, Cruelty, Pain, Old
    Age, Disappointment, Hate, Jealousy, War, Death).
-5. **Hope survives** — one white, butterfly-like flicker remains (outline wording) / is
-   released (core-text wording), to keep humans — and even Prometheus — going.
+5. **Hope survives** — one white, butterfly-like flicker remains (outline wording) / is released
+   (core-text wording), to keep humans — and even Prometheus — going.
 
 **Revision question:** Which stage of the arc does the quote "what harm can that do?" belong to,
 and what is dangerous about it? (Stage 4 — the moment curiosity is talked into opening the chest.)
@@ -91,7 +91,7 @@ and what is dangerous about it? (Stage 4 — the moment curiosity is talked into
 
 For any character question tomorrow, run the three moves:
 
-1. **Claim** — one arguable sentence.
+1. **Claim** — one sentence you can argue for.
 2. **Quote** — the shortest phrase that proves it.
 3. **Explain** — why the quote proves the claim.
 
@@ -106,7 +106,7 @@ quotes for **both** — that reflex is worth marks.
   punishment.
 - **Prometheus** — "forethought"; Titan; moulded First Man; stole fire; chained to a cliff.
 - **Epimetheus** — "afterthought"; made the animals; accepted Pandora; never suspects tricks.
-- **Pandora** — first woman; assembled by the gods; opened the forbidden chest.
+- **Pandora** — first woman; built by the gods; opened the forbidden chest.
 - **Venus / Aphrodite** — goddess of love and beauty; gave Pandora beauty.
 - **Mercury / Hermes** — clever messenger god; gave Pandora her clever tongue.
 - **Apollo** — god of music and light; taught Pandora sweet music.
@@ -138,5 +138,6 @@ Check every box and you walk into Test 1 already winning.
 
 ---
 
-*This article consolidates Unit 1 for Test 1 (outline Week 4.3 → Week 5.1) and is written for
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It consolidates Unit 1 for Test 1 (outline Week 4.3 → Week 5.1) and is written for
 direct student use as a revision sheet.*

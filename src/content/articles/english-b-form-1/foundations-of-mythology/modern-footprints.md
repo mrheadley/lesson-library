@@ -14,23 +14,25 @@ order: 2
 
 ## Open with a challenge
 
-I am going to name six things you see every week: a piece of gum, a grocery delivery website, a pair of running shoes, a cartoon dog in a red collar, an Olympic medal, and a seafood restaurant on a beach. All of them are actually named after Greek mythology.
+I am going to name six things you see every week: a piece of gum, a grocery delivery website, a
+pair of running shoes, a cartoon dog in a red collar, an Olympic medal, and a seafood restaurant
+on a beach. All of them are actually named after Greek mythology.
 
-By the end of this lesson you will be able to "read" these footprints — to see a simple
-brand name and hear the ancient story behind it.
+By the end of this lesson you will be able to "read" these footprints — to look at a simple brand
+name and hear the ancient story behind it.
 
 ---
 
 ## 1. The rule of footprints
 
 Civilisations leave footprints. The Greeks never won the whole world with armies — but their
-**stories** did. Those stories stuck to the languages, the sciences, and even the shopping
-aisles of the cultures that followed them. A modern footprint is any place where an ancient god, hero, story, or word still shows up in daily life.
+**stories** did. Those stories stuck to the languages, the sciences, and even the shopping aisles
+of the cultures that followed them. A modern footprint is any place where an ancient god, hero,
+story, or word still shows up in daily life.
 
 Learning to spot footprints is a superpower in English class, because **mythology is the
-storeroom that modern English borrows from.** Every time you meet a new word in this unit —
-*arachnid, herculean, narcissist, titanic, panic* — you are really meeting a myth that moved
-in.
+storehouse that modern English borrows from.** Every time you meet a new word in this unit —
+*arachnid, herculean, narcissist, titanic, panic* — you are really meeting a myth that moved in.
 
 ---
 
@@ -38,17 +40,17 @@ in.
 
 ### 2.1 The Little Mermaid's father — Triton
 King Triton from Disney's *The Little Mermaid* is not an original character. He is a real Greek
-deity: **Triton**, son of Poseidon (god of the sea), the first-ever merman — half-fish,
+deity: **Triton**, son of Poseidon (god of the sea), and the first-ever merman — half-fish,
 half-man.
 
 ### 2.2 Your chewing gum — Trident
 The gum brand is named after the **trident**: the three-pronged spear that is the weapon of
-Poseidon (Neptune in Roman tradition), the god of the sea. Sea-god's weapon → gum. That is a
-footprint of the strangest kind.
+Poseidon (Neptune in Roman tradition), the god of the sea. A sea-god's weapon → chewing gum.
+That is a footprint of the strangest kind.
 
 ### 2.3 The dog, the planet, and the god — Pluto
 The course calls the ruler of the Underworld **Pluto** (not Hades). Both the Disney dog and the
-dwarf planet borrow his name. Here is the important detail ancient Greeks wanted you to know:
+dwarf planet borrow his name. Here is the important detail the ancient Greeks wanted you to know:
 **people in the Underworld did not "burn in hell."** The real sorrow of the dead was
 *separation* — loneliness, being cut off from everyone they loved.
 
@@ -64,7 +66,7 @@ for the fighting women of *Wonder Woman*.
 ### 2.6 Your running shoes — Nike
 In Greek myth **Nike** is the winged goddess of victory, who brings a laurel wreath to the
 winner of a contest or battle. Later, the Christian church adopted Nike's wing-and-wreath image
-as the model for an *angel*. One goddess, two cultures, three pairs of sneakers.
+as the model for an *angel*. One goddess, two cultures, and a pair of sneakers named after her.
 
 ---
 
@@ -73,11 +75,11 @@ as the model for an *angel*. One goddess, two cultures, three pairs of sneakers.
 | Word / name you know | Ancient source | The link |
 | :-- | :-- | :-- |
 | **Titanic** | The **Titans** — the giants who ruled before the gods | Something enormous and powerful |
-| **Panic** | **Pan**, the goat-god who could start sudden fear | Sudden, irrational fright |
-| **Aegean** | **Aegeus**, the king who drowned in the sea | A whole sea named after a grief-stricken father |
-| **Narcissism** | **Narcissus**, who loved his own reflection | Excessive self-love (Lesson 06) |
-| **Arachnid** | **Arachne**, the boastful weaver turned spider (Lesson 08) | The entire family of spiders |
-| **Herculean** | **Heracles** (Hercules), of the twelve labours | A task needing superhuman effort (Lesson 11) |
+| **Panic** | **Pan**, the goat-god who could cause sudden fear | Sudden, unreasonable fright |
+| **Aegean** | **Aegeus**, the king who drowned in the sea | A whole sea named after a heartbroken father |
+| **Narcissism** | **Narcissus**, who loved his own reflection | Too much self-love (Lesson 06) |
+| **Arachnid** | **Arachne**, the boastful weaver turned spider (Lesson 08) | The whole family of spiders |
+| **Herculean** | **Heracles** (Hercules), of the twelve labours | A task needing huge effort (Lesson 11) |
 
 ---
 
@@ -108,7 +110,7 @@ inside the modern word, and you have already begun to analyse literature.**
 
 ### Key terms for this lesson
 - **Deity** — a god or goddess.
-- **Etymology** — the study of where a word comes from; the footprint-tracing skill.
+- **Etymology** — where a word comes from; the skill of tracing footprints.
 - **Underworld** — the realm of the dead, ruled by Pluto; sorrow = separation from loved ones.
 - **God vs. goddess** — a male vs. a female divine being.
 
@@ -120,5 +122,6 @@ inside the modern word, and you have already begun to analyse literature.**
 
 ---
 
-*This article synthesises the course lesson deck (intro material) and the course outline. It may
-be handed directly to students after Lesson 02.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It draws on the course lesson deck (intro material) and the course outline, and may be
+handed directly to students after Lesson 02.*

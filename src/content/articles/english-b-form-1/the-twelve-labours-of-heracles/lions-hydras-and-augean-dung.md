@@ -14,10 +14,10 @@ order: 2
 
 ## The story so far
 
-Heracles is seven years into a slavery-laden sentence: every labour King Eurystheus sets is
-another impossible task designed, hopefully, to kill him. Lesson 31 built the engine (the broken
-promise, the penance). Now the labours themselves arrive — and quickly teach the unit's surprise:
-**strength alone wins nothing. Wit wins everything.**
+Heracles is seven years into a sentence of serving as a slave: every labour King Eurystheus
+sets is another impossible task, meant to kill him. Lesson 31 built the engine (the broken
+promise, the penance). Now the labours themselves arrive — and quickly teach the unit's
+surprise: **strength alone wins nothing. Cleverness (wit) wins everything.**
 
 ---
 
@@ -38,21 +38,21 @@ his bare hands**. When the beast springs, Heracles:
 
 ...until it is dead. Then, in the story's most memorable image, he skins it and **wears the
 lion skin as a tunic**, knotting the paws around his waist and shoulders. He literally wears
-the boss he just defeated as armour — the strongest "gear unlock" in the unit.
+the boss he just defeated as armour — the most impressive piece of armour in the whole unit.
 
 ---
 
 ## 2. Labour Two — the Hydra (the heads that multiply)
 
-The next command is designed to humiliate as much as kill. The **Hydra** is a water serpent at
-the heart of a swamp:
+The next command is designed to embarrass him as much as to kill him. The **Hydra** is a water
+serpent at the heart of a swamp:
 
 > When it was born, it had nine heads. But each time one was cut off, **two new heads grew** to
 > replace it.
 
-By the time Heracles arrives, it has **fifty heads**, all gnashing. And here is the trap the
-myth springs on a hero who thinks strength is the answer: **if he attacks the Hydra like a
-slasher, every swing makes the enemy twice as powerful.**
+By the time Heracles arrives, it has **fifty heads**, all snapping their teeth. And here is the
+trap the myth springs on a hero who thinks strength is the answer: **if he attacks the Hydra
+like someone just hacking away, every swing makes the enemy twice as powerful.**
 
 - He cuts through many necks without being bitten — but the struggle only gets worse.
 - The heads multiply. Swords make the monster stronger.
@@ -64,44 +64,46 @@ wooden club red-hot**:
 > the head did not regrow.
 
 The fire is the solution — not the sword. At last the Hydra is nothing but "a knobbly tree
-stump." The lesson sits right on the surface: **cutting the Hydra was feeding it; burning the
-wound was beating it.** Real enemies are often like that — you don't defeat them by hitting
-harder, you defeat them by *closing the source of the regrowth*.
+stump." The lesson is easy to see: **cutting the Hydra was feeding it; burning the wound was
+beating it.** Real enemies are often like that — you don't defeat them by hitting harder, you
+defeat them by *closing the source of the regrowth*.
 
 ---
 
 ## 3. Labours Three and Four (the quick ones)
 
-The text breezes past the next two in a single line, and the course treats them the same way:
+The text rushes past the next two in a single line, and the course treats them the same way:
 
 - **Labour Three:** capture the stag with **golden antlers**.
 - **Labour Four:** kill a huge wild **boar**.
 
-Know their names and numbers for the test, but the drama lives in Labours One, Two, and Five.
+Know their names and numbers for the test, but the exciting parts live in Labours One, Two,
+and Five.
 
 ---
 
 ## 4. Labour Five — the Augean stables
 
-Now the myth drops into comedy — and then turns it into another lesson about brains over brawn.
+Now the myth drops into comedy — and then turns it into another lesson about brains over brawn
+(using your head instead of your muscles).
 
 Lord **Augeas** owns **one thousand animals** penned in sties and stables "the length of a foul
-valley." He is too idle to clean them and too mean to hire farmhands:
+valley." He is too lazy to clean them and too stingy to hire helpers:
 
 > The wretched beasts stood up to their bellies in dung. People for miles around complained
 > about the smell.
 
 Heracles' command: **clean the stables.**
 
-A man with a shovel and centuries would whimper. But Heracles stands on a hilltop, holds his
-nose, and *uses his eyes*. There is a river bubbling nearby.
+A man with a shovel would take ages and ages. But Heracles stands on a hilltop, holds his nose,
+and *uses his eyes*. There is a river bubbling nearby.
 
 > Moving boulders as easily as if they were feather pillows, he built a dam, so that the river
 > flowed out of its course and down the valley instead.
 
-The torrent scours the dung away (the startled animals survive the rush). Then one blow of his
-club demolishes the dam, the river returns to its old bed — and the valley is suddenly "green
-and clean."
+The rushing water sweeps the muck away (the startled animals survive the rush). Then one blow
+of his club demolishes the dam, the river returns to its old bed — and the valley is suddenly
+"green and clean."
 
 Now find the pattern across the three narrated labours:
 
@@ -112,8 +114,8 @@ Now find the pattern across the three narrated labours:
 | Augean stables | A mountain of filth | Divert a river — don't shovel |
 
 None of those wins came from sheer muscle alone. **Hydra = fire, stables = water, lion = grit.**
-The hero is not just strong; he is *resourceful* — which is exactly the trait the course's
-essays reward.
+The hero is not just strong; he is *resourceful* (good at finding clever ways out of trouble) —
+which is exactly the skill the course's essays reward.
 
 ---
 
@@ -124,9 +126,9 @@ The course files this lesson's language legacy under one phrase, marked in your 
 > **"A Herculean task"** — an enormously difficult job requiring immense effort and strength.
 
 You can now give the full answer when asked to define it: not merely "a big job," but a job
-*whose solution demanded a person with unbelievable strength — and the wit to know when not to
-use it.* (Bonus for the evidence habit: you can quote the Hydra and the stables as the reasons
-"strength alone" is the wrong answer.)
+*whose solution demanded a person with unbelievable strength — and the cleverness to know when
+not to use it.* (Bonus for the evidence habit: you can quote the Hydra and the stables as the
+reasons "strength alone" is the wrong answer.)
 
 ---
 
@@ -143,9 +145,9 @@ bring fire, bring water, bring your head — before you bring your fist.
 
 ### Key terms for this lesson
 - **Nemean Lion** — the first labour's monster, killed bare-handed, worn as a skin.
-- **Hydra** — the many-headed serpent; decapitation grows two new heads unless the wound is
-  singed with fire.
-- **Cauterise / singe** — burn a wound closed so it cannot regrow (Heracles's trick).
+- **Hydra** — the many-headed serpent; cutting off a head grows two new ones unless the wound
+  is singed with fire.
+- **Cauterise / singe** — burn a wound closed so it cannot grow back (Heracles's trick).
 - **Augean stables** — one thousand animals' worth of filth; cleaned by damming a river.
 - **Herculean task** — idiom for an enormous, seemingly impossible job — from Heracles.
 - **Labour** — a hard, required task (from the Latin for 'toil').
@@ -155,10 +157,11 @@ bring fire, bring water, bring your head — before you bring your fist.
 - Labour 2: the Hydra's two-heads-for-one trick; the answer is red-hot fire, not more sword.
 - Labours 3–4 (know the names): the golden-antlered stag and the huge wild boar.
 - Labour 5: the Augean stables — a river dam beats a shovel.
-- The pattern: strength plus wit; change the rules, don't out-slug the problem.
+- The pattern: strength plus cleverness; change the rules, don't just slug the problem.
 - "A Herculean task" = an immense job needing enormous effort.
 
 ---
 
-*This article covers the middle of *The Twelve Labours of Heracles* (course outline Week 11,
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It covers the middle of *The Twelve Labours of Heracles* (course outline Week 11,
 Lesson 11.2) and is written for direct student use.*

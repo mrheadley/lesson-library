@@ -17,7 +17,7 @@ order: 2
 You have now met two accounts of the beginning of the world:
 
 1. **The Greek story** — *Mother Earth and Her Children* and *In the Beginning and Pandora's
-   Box*: a quarrelling family of flawed gods, mud-moulded humans, and a box that releases evil.
+   Box*: a quarrelling family of flawed gods, mud-made humans, and a box that releases evil.
 2. **The Biblical story** — *Genesis 1, 2, 3*: one fundamentally good God, an ordered creation,
    and suffering that enters the world through human choice.
 
@@ -32,7 +32,7 @@ comparison means.**
 
 ## 1. A caution before we compare
 
-Two rules keep comparison honest:
+Two rules keep comparison fair and honest:
 
 1. **We compare, we do not judge.** Saying "the Greek gods are more flawed than the Biblical
    God" is a description, not a verdict. Each story is doing its own job inside its own culture.
@@ -48,12 +48,12 @@ Two rules keep comparison honest:
 | :-- | :-- | :-- |
 | **Who creates?** | A large, arguing family of gods — Gaia, then the Titans, then Zeus's rule | One God |
 | **Is the creator good?** | The gods are powerful but flawed — vain, jealous, impulsive, sometimes cruel | God is fundamentally good |
-| **How are humans made?** | Prometheus moulds First Man from mud, upright "like us gods" | God forms man from dust and breathes life into him |
+| **How are humans made?** | Prometheus moulds First Man from mud, standing upright "like us gods" | God forms man from dust and breathes life into him |
 | **How does evil/suffering come in?** | A box (made as a punishment by Zeus) is opened and releases evils — disease, cruelty, war, death | Human disobedience in a garden brings sin and suffering into the world |
 | **What happens afterwards?** | Hope remains (or is released) so humans can endure | A story of judgement, promise, and eventual redemption runs on |
 
-Both answers to the same five questions. The details differ; the *job* — explaining why the
-world is beautiful *and* hard — is the same.
+Both answer the same five questions. The details differ; the *job* — explaining why the world is
+beautiful *and* hard — is the same.
 
 ---
 
@@ -67,7 +67,7 @@ suffering and death now exist.
 
 Note the beautiful echo between the two traditions: Prometheus's mud-men and the Biblical
 "formed from dust" both picture humans as **made of the earth itself**, shaped by a divine
-hand. Different gods, same humility about where we come from.
+hand. Different gods, same humble idea about where we come from.
 
 ---
 
@@ -75,14 +75,14 @@ hand. Different gods, same humility about where we come from.
 
 This is the question on the course's own slides — and it needs a careful answer.
 
-If the question means *which is presented first in our curriculum*, the answer is: the Greek
-story comes first in our scheme of work, and the Biblical story is the comparison text.
+If the question means *which is taught first in our course*, the answer is: the Greek story
+comes first in our scheme of work, and the Biblical story is the comparison text.
 
-If the question means *which is historically older* — both traditions are thousands of years
-old, and ancient cultures were in contact with each other. Scholars debate borrowing and
-influence; the honest classroom answer is that **both are ancient, both are important, and
-neither needs to win a race.** The stories are not competing; they are evidence of a universal
-human habit: *we explain our origins in story form.*
+If the question means *which is historically older*, the honest answer is that **both are
+ancient, both are important, and neither needs to win a race.** Both traditions are thousands of
+years old, and ancient cultures were in contact with each other. Scholars still debate which
+borrowed from which. The stories are not competing; they are proof of a universal human habit:
+*we explain our origins in story form.*
 
 The question for *you* is not "which is real?" — it is **"what do the two stories teach us
 about the two cultures that told them?"**
@@ -94,7 +94,7 @@ about the two cultures that told them?"**
 **Task:** Compare how each tradition explains *why the world has suffering.*
 
 **Greek answer:** Suffering is deliberate — Zeus, angry at humans for accepting fire, builds
-Pandora as a punishment and the box does the rest. Suffering is *inflicted from above.*
+Pandora as a punishment and the box does the rest. Suffering is *sent down from above.*
 
 **Biblical answer:** Suffering enters through *human choice* — the first humans disobey, and
 consequences follow. Suffering is *earned through choice.*
@@ -112,16 +112,17 @@ Creation Stories" homework wants.
 
 If God is good but the Greek gods are flawed, the natural next question jumps out: **is there a
 "good" god in Greek mythology at all, or are these stories about power, not goodness?** That
-ethical question belongs to Lesson 06 — where you will have your first proper argument about the
-*moral character* of the Greek gods, using evidence from the text.
+question belongs to Lesson 06 — where you will have your first proper argument about the *moral
+character* of the Greek gods, using evidence from the text.
 
 ---
 
 ### Key terms for this lesson
 - **Origin story / creation myth** — a story explaining how the world and humanity began.
 - **Compare** — notice similarities. **Contrast** — notice differences.
-- **Monotheism** — belief in one God (the Greeks were **polytheistic** — many gods).
-- **Genesis** — the Biblical book of beginnings, chapters 1–3 the key text here.
+- **Monotheism** — belief in one God (the Greeks were **polytheistic** — they believed in many
+  gods).
+- **Genesis** — the Biblical book of beginnings; chapters 1–3 are the key text here.
 
 ### Things to remember
 - Both stories explain the same mystery; they answer it differently.
@@ -131,6 +132,6 @@ ethical question belongs to Lesson 06 — where you will have your first proper 
 
 ---
 
-*This article is written for students after Lesson 05. It presents the outline's nominal
-Greek-vs.-Genesis comparison in a respectful, descriptive way and prepares the A1 homework:
-Comparison of Creation Stories.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It presents the outline's Greek-vs.-Genesis comparison in a respectful, descriptive way
+and prepares the A1 homework: Comparison of Creation Stories.*

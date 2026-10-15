@@ -18,8 +18,8 @@ You made it. Eleven myths, seven journal reflections, a term of claim–quote–
 exam that is already behind you. This last lesson is not a test.
 
 It is the moment where *your* voice gets graded: you will pick your three best journal entries,
-send them in, and then — in a roundtable nobody is marking — tell each other why Greek myths
-became yours.
+send them in, and then — in a roundtable discussion that nobody is marking — tell each other
+why Greek myths became yours.
 
 ---
 
@@ -27,10 +27,10 @@ became yours.
 
 The Reading Journal is **10% of your term grade** — a dedicated notebook of exactly **seven
 scheduled reflections of at least 100 words each.** All term you've written them. Today, the
-rule that's been running since Lesson 1.3 finally lands:
+rule you've heard since Lesson 1.3 finally lands:
 
 > You do **not** submit all seven. You select your **top three** to be graded against the
-> rubric.
+> rubric (the scoring grid).
 
 The other four still matter — they built the habit — but the *mark* lives on the three you
 choose. Everyone's already written enough to pick from.
@@ -40,7 +40,7 @@ choose. Everyone's already written enough to pick from.
 ## 2. The seven reflections you have (your selection menu)
 
 1. **3.3** — Pandora's Box and the concept of **Hope**.
-2. **5.3** — Zeus's seasonal compromise, or Demeter's maternal grief (*Persephone*).
+2. **5.3** — Zeus's seasonal compromise, or Demeter's grief as a mother (*Persephone*).
 3. **6.3** — vanity and Narcissus's punishment (*Echo and Narcissus*).
 4. **7.3** — the limits of human ambition and the tragedy of Icarus (*Daedalus and Icarus*).
 5. **8.3** — whether Arachne deserved Athene's spider curse.
@@ -57,15 +57,16 @@ All seven use the same rubric you've been drilled on since Lessons 1.3 and 4.1:
 ## 3. Choosing — the self-audit (don't trust memory, score it)
 
 Before you pick, run each of your seven entries through the rubric columns — **claim, quote,
-explanation, voice, 100-word minimum** — one judgment per column. The entry with the most ticks
-wins; don't pick from the gut.
+explanation, voice, 100-word minimum** — one tick per column. The entry with the most ticks
+wins; don't just pick the ones you remember best.
 
-Then apply the course's two guardrails:
+Then follow the course's two rules to guide you:
 
 - **The anti-regret rule:** make at least ONE pick you wouldn't reach for first — not "the
-  three I wrote on a good day," but evidence you might be proudest of in a year.
+  three I wrote on a good day," but the ones you might be proudest of in a year.
 - **The spread option:** if your teacher uses it, reward *variety* — three entries from three
-  different stories show breadth, and breadth is what a term-long portfolio should prove.
+  different stories show that you wrote across many topics, and that's what a term-long
+  portfolio should prove.
 
 ---
 
@@ -81,13 +82,13 @@ After you submit, the class closes the term around tables, sharing aloud — for
 - Optional, warm close: **a letter to your Week-1 self** — three sentences of advice to the
   student who hadn't yet met Persephone or Medusa.
 
-The point of the roundtable is the unit's OBJ-VOICE beat done right: **oral, informal, and
-free.** Nobody's score scales with how brave a sharing they do — but the term's whole ambition
+The point of the roundtable is the unit's speaking goal done right: **oral, informal, and
+free.** No one's score goes up just because they share bravely — but the term's whole ambition
 was to make that voice easy by now.
 
 ---
 
-## 5. Two misconceptions to <b>not</b> carry out of the exam room
+## 5. Two wrong ideas to leave behind
 
 - "All seven entries get graded." **No** — only your selected top three become the mark.
 - "Today decides my journal grade." **No** — the *selection* happens here; the teacher grades
@@ -100,7 +101,7 @@ was to make that voice easy by now.
 **A small stack of seven pages on a desk — and a student putting three of them on top.**
 
 Which three you *choose* proves what you've learned about writing. Which three you *wanted* to
-choose proves what the myths did to you. Both counts at the end of the term.
+choose proves what the myths did to you. Both things matter at the end of the term.
 
 ---
 
@@ -126,6 +127,7 @@ choose proves what the myths did to you. Both counts at the end of the term.
 
 ---
 
-*This article closes the course (course outline Week 14, Lesson 14.3) and is written for
-direct student use. You are now officially out of Greek myths form — until the exam results
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It closes the course (course outline Week 14, Lesson 14.3) and is written for direct
+student use. You are now officially out of Greek myths form — enjoy it until the exam results
 arrive.*

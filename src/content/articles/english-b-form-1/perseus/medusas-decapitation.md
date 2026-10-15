@@ -15,9 +15,9 @@ order: 2
 ## The story so far
 
 Polydectes has lost patience. He cannot make Danaë his wife while her son stands guard, so he
-gives Perseus a dare built to be a death sentence: **fetch the head of the Gorgon Medusa.**
+gives Perseus a dare meant to get him killed: **fetch the head of the Gorgon Medusa.**
 
-Perseus, brave and a little reckless, accepts at once — which is exactly what the king hoped.
+Perseus, brave and a little careless, accepts at once — which is exactly what the king hoped.
 
 But the gods are watching. And the gods *like* brave boys.
 
@@ -29,10 +29,10 @@ Polydectes declares his challenge before his court:
 
 > "I dare you to fetch me the head of the Gorgon Medusa."
 
-"Gorgon" is a word the lesson must unpack: Medusa, the slides tell you, **was once a beautiful
-woman** who made the mistake of boasting — in the gods' hearing — that not even a goddess was
-more beautiful than she. For that vanity, she was transformed into a monster: **snakes for
-hair**, glaring eyes, and a gaze that **turns anyone who looks at her to stone**.
+"Gorgon" is a word the lesson must explain: Medusa, the slides tell you, **was once a beautiful
+woman** who made the mistake of boasting — where the gods could hear her — that not even a
+goddess was more beautiful than she. For that vanity, she was changed into a monster: **snakes
+for hair**, glaring eyes, and a stare that **turns anyone who looks at her to stone**.
 
 Way too dangerous to kill, the king figures. So, a perfect trap.
 
@@ -45,7 +45,7 @@ gods are delighted.
 
 ---
 
-## 2. Divine equipment — the four gifts
+## 2. The gods' equipment — the four gifts
 
 The gods choose an interesting way to help. They do **not** fly down and hold Perseus's hand.
 Instead, Perseus finds, one by one, four objects "lying in the road" — as if planted for him:
@@ -55,12 +55,12 @@ Instead, Perseus finds, one by one, four objects "lying in the road" — as if p
 - **Pluto's helmet of invisibility** — put it on and even the helmet itself disappears.
 - **A thick bag** from Pluto — for carrying Medusa's head *safely*.
 
-Notice who gives what, because the gifts are personal: the messenger god (who flies) lends
+Notice who gives what, because the gifts fit the god: the messenger god (who flies) lends
 wings; the goddess of wisdom (who plans) lends a mirror; the god of the Underworld (who knows
 about the dead) lends a bag for a severed head. **Each god lends the tool that matches their
 own skill.**
 
-And Zeus? Zeus says the most telling line of all:
+And Zeus? Zeus says the most meaningful line of all:
 
 > "I shall watch, but not help. Perseus must match his brave words with brave deeds."
 
@@ -95,8 +95,8 @@ Gorgon herself:
 One eye. One rotten tooth. They take turns, squabbling over whose turn it is — and when one
 sister drops the eye to pass it, invisible Perseus snatches it out of the air.
 
-Their wailing is comic, but their choice is real: they beg for the eye back, and Perseus makes
-a fair, monstrous exchange:
+Their crying is funny, but their choice is real: they beg for the eye back, and Perseus makes
+a deal:
 
 > "…as soon as you tell me how to find the Gorgon Medusa."
 
@@ -105,7 +105,7 @@ Perseus tosses the eye back. But listen to their whispered threat as he leaves:
 
 > "One glimpse of the Gorgon Medusa will turn that thief to stone!"
 
-Even the sisters, beat, are banking on the monster.
+Even the sisters, beaten, are counting on the monster.
 
 ---
 
@@ -113,9 +113,9 @@ Even the sisters, beat, are banking on the monster.
 
 Medusa's island lies below Perseus "like a single grey eye in the face of the sea." He does not
 search by sight — one sight kills. Instead he finds her **by the sound of her hair**: the
-writhing, hissing snakes tell him where she is. Around her sleep the proof of her power: a
-hundred petrified figures, "turned to stone in the very moment that they had first glimpsed
-Medusa."
+coiling, hissing snakes tell him where she is. Around her sleep the proof of her power: a
+hundred people turned to stone, "turned to stone in the very moment that they had first
+glimpsed Medusa."
 
 Then the careful, almost surgical kill:
 
@@ -144,7 +144,7 @@ is to **change the rules** — use a mirror, not a stare; use the bag, not the b
 
 ### Key terms for this lesson
 - **Gorgon** — a monstrous female creature; Medusa is the Gorgon of this story.
-- **Medusa** — once a vain beauty, transformed into a snake-haired monster whose gaze turns
+- **Medusa** — once a vain beauty, changed into a snake-haired monster whose stare turns
   people to stone.
 - **Decapitation** — cutting off the head; the act Perseus performs.
 - **Grey Sisters (Graeae)** — three sisters sharing one eye (and one tooth) between them.
@@ -163,6 +163,7 @@ is to **change the rules** — use a mirror, not a stare; use the bag, not the b
 
 ---
 
-*This article covers the middle of *Perseus* (course outline Week 10, Lesson 10.2) and is
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It covers the middle of *Perseus* (course outline Week 10, Lesson 10.2) and is
 written for direct student use. Reading Journal Reflection 7 is due at the end of this unit
 arc (Lesson 30).*

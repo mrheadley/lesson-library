@@ -14,11 +14,11 @@ order: 1
 
 ## The story so far
 
-Unit 2 ended with a warning stamped on a king: **greed leads to unhappiness** (Midas), and a
-promise of consequences for anyone who boasts before the gods (Arachne). The human world was
-full of flawed people getting exactly what they deserved — and sometimes what they didn't.
+Unit 2 ended with a warning printed on a king: **greed leads to unhappiness** (Midas), and a
+promise that people who boast before the gods will face the results (Arachne). The human world
+was full of flawed people getting exactly what they deserved — and sometimes what they didn't.
 
-Now Unit 3 turns to a new kind of character: the **hero**. But do not expect perfect people
+Now Unit 3 turns to a new kind of character: the **hero**. But don't expect perfect people
 marching out of Mount Olympus. The course's own rules for heroes say it plainly:
 
 > Heroes are mortals with incredible strength and talents. Sometimes they are half-god — these
@@ -41,8 +41,8 @@ fortune-teller.
 One sentence, and the king's whole life bends around it. Right away, notice two things:
 
 1. The prophecy does **not** say the boy is wicked. It just says he will kill Acrisius — by
-   accident or design, the words never say. The king never thinks to ask.
-2. The king's first instinct is not to confront the danger. It is to **run from it**.
+   accident or on purpose, the words never say. The king never thinks to ask.
+2. The king's first thought is not to face the danger. It is to **run from it**.
 
 That second instinct is the engine of the whole story. Because in the world of Greek myth,
 there is one law even kings cannot break: **you cannot cheat Fate**.
@@ -61,10 +61,10 @@ thinks:
 
 > "They're bound to drown. **But I didn't kill them, did I? Nobody can say I killed them.**"
 
-Read that carefully — it is the king trying to have it both ways. He has *arranged* for them to
-die. But as long as he does not touch them, he tells himself, his hands are clean. The myth
-wants you to notice how silly this is: you can drown a person by refusing to save them. You can
-kill someone from a safe distance.
+Read that carefully — it is the king trying to have things both ways. He has *arranged* for
+them to die. But as long as he does not touch them, he tells himself, his hands are clean. The
+myth wants you to notice how silly this is: you can drown a person by refusing to save them.
+You can kill someone from a safe distance.
 
 And the sea has its own opinion. The chest does not sink.
 
@@ -74,11 +74,11 @@ And the sea has its own opinion. The chest does not sink.
 
 For days the chest drifts, until it is caught in the nets of a young fisherman, **Dictys**, on
 the shore of a faraway kingdom. Dictys shows Danaë and baby Perseus real kindness — a home, a
-meal, a welcome. The myth quietly introduces a person with no crown at all who behaves more
-nobly than a king.
+meal, a welcome. The myth quietly introduces a person with no crown at all who behaves with
+more honour than a king.
 
 But the king of *that* country is another matter. His name is **Polydectes**, and the text gives
-him a deliciously modern description:
+him a description that sounds like it could be about someone today:
 
 > King Polydectes liked to collect wives, as other people collect pictures.
 
@@ -101,12 +101,12 @@ give Perseus a dare so impossible it can only end in death.
 ## 4. The three sisters who hold the thread
 
 Before the dare lands (that is Lesson 29), one more idea must be planted in your head, because
-it is this lesson's deep current: **Fate**.
+it is this lesson's biggest idea: **Fate**.
 
 The course's slides introduce the **Fates** — three sisters with a single, terrifying task
 between them:
 
-- One **spins the thread** of a human life (she controls the hour of birth).
+- One **spins the thread** of a human life (she controls the moment you are born).
 - One **measures the thread** (she spins out the events of your life).
 - One **cuts the thread** (she decides the moment of death).
 
@@ -115,15 +115,15 @@ second, snipped by the third. Nobody gets to choose the length. Even Zeus, king 
 does not decide how long your thread is.
 
 That is the Greek idea of **blind Fate**: not a fair judge, not a reward system — just an
-unstoppable design. Acrisius is not evil for trying to escape it; he is *foolish* for believing
-he has any say.
+unstoppable plan that nothing can change. Acrisius is not evil for trying to escape it; he is
+*foolish* for believing he has any say.
 
 ---
 
 ## 5. The question this lesson asks (and the next one answers)
 
-Here is where Unit 3 connects to Unit 1. In the Biblical account you studied in Weeks 2–3, God
-is **good by nature** and has a *personal plan*: the course's slides quote it —
+Here is where Unit 3 connects to Unit 1. In the Bible story you studied in Weeks 2–3, God is
+**good by nature** and has a *personal plan*: the course's slides quote it —
 
 > "For I know the plans I have for you, plans to prosper you and not to harm you, to give you a
 > hope and a future." (Jeremiah 29:11)
@@ -145,12 +145,12 @@ Remember this picture from Lesson 28: **a king on a beach, waving goodbye to a l
 containing his own daughter and grandson, telling himself his hands are clean.**
 
 Every consequence of the next three lessons is already inside that chest — bobbing on the sea
-of a fate the king never buys into and never escapes.
+of a fate the king never believes in and never escapes.
 
 ---
 
 ### Key terms for this lesson
-- **Fate / destiny** — the fixed, unavoidable future; in Greek myth, even the gods cannot change it.
+- **Fate / destiny** — the fixed, unchangeable future; in Greek myth, even the gods cannot change it.
 - **Prophecy / fortune-teller** — a true prediction of the future; this world's fortune-tellers
   tell the truth.
 - **Demigod** — half-god, half-mortal ('demi' = 'half'); many Greek heroes are demigods.
@@ -172,5 +172,6 @@ of a fate the king never buys into and never escapes.
 
 ---
 
-*This article covers the opening of *Perseus* (course outline Week 10, Lesson 10.1) and is
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It covers the opening of *Perseus* (course outline Week 10, Lesson 10.1) and is
 written for direct student use.*

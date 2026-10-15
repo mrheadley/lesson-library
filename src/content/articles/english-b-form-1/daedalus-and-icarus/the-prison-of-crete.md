@@ -23,7 +23,7 @@ their lessons in a messy, human way. Now the course turns to a different kind of
 ## 1. Enter Daedalus — the greatest inventor there ever was
 
 **Daedalus** is not a god, a king, or a hero with a sword. He is the ancient world's answer to a
-modern inventor: he makes things, brilliant things, out of wood, wool, and ingenuity.
+modern inventor: he makes things, brilliant things, out of wood, wool, and cleverness.
 
 A man with a brain like Daedalus is a prize. And prizes attract kings who want to own them.
 
@@ -37,11 +37,11 @@ Daedalus builds it. And then the real job begins.
 
 ## 2. The labyrinth in the cellars
 
-Minos has another assignment for his pet inventor — this one under the palace. In the cellars,
-Daedalus is ordered to construct a **labyrinth**: a maze of corridors so twisting and dark that
-anyone who walks in will never find their way out again.
+Minos has another job for his pet inventor — this one under the palace. In the cellars, Daedalus
+is ordered to build a **labyrinth**: a maze of corridors so twisting and dark that anyone who
+walks in will never find their way out again.
 
-Even Daedalus, the man who built it, is not entirely comfortable. He asks what it is for.
+Even Daedalus, the man who built it, is not comfortable. He asks what it is for.
 
 Minos's reply is one of the coldest lines in the whole unit:
 
@@ -51,13 +51,13 @@ And the truth of what the maze is for arrives soon enough. At the heart of the l
 houses a **monster** — called the **Minotaur** — and he feeds it on men and women.
 
 Read that sentence again. The maze is a feeding pen. The inventor has built the monster's
-cafeteria.
+dinner room.
 
 ---
 
-## 3. The murder-machine that came back to bite the builder
+## 3. The trap that came back to bite the builder
 
-Here is the twist the story slides in: **the one person who knows the maze's secret is the man
+Here is the twist the story slips in: **the one person who knows the maze's secret is the man
 who built it.**
 
 Daedalus decides he wants to leave Crete and forget both maze and Minotaur. He asks to go.
@@ -101,8 +101,8 @@ is happy:
 
 > "I like it here. The king gives us gold and this tall tower to live in."
 
-He cannot see that they are trapped. He knows they left home, but blind, soft captivity feels
-like a treat to him. Daedalus answers him with a wince of a lesson:
+He cannot see that they are trapped. He knows they left home, but soft, comfortable captivity
+feels like a treat to him. Daedalus answers him with a wince of a lesson:
 
 > "But to work for such a wicked man, Icarus! And to be prisoners all our days… We shan't stay.
 > We shan't!"
@@ -117,11 +117,11 @@ And Daedalus says nothing in reply. Because Daedalus has just begun to think.
 
 ---
 
-## 6. The birds and the seed — the first sketch of an idea
+## 6. The birds and the seed — the first spark of an idea
 
 One detail the story plants for the next lesson: Daedalus has begun feeding the birds that come
 to the tower window. He loves that they can come and go freely — that their wings make them
-lords of the air, untouched by Minos's walls.
+masters of the air, untouched by Minos's walls.
 
 Every day the same birds. Every day a little more seed. Every day Daedalus watching them —
 and, you might guess, counting their feathers.
@@ -149,5 +149,6 @@ an island and your window is full of birds?** You build wings.
 
 ---
 
-*This article covers the opening of *Daedalus and Icarus* (course outline Week 7, Lesson 7.1)
-and is written for direct student use.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It covers the opening of *Daedalus and Icarus* (course outline Week 7, Lesson 7.1) and
+is written for direct student use.*

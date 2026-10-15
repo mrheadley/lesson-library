@@ -19,25 +19,25 @@ Test 1 (Week 5, Lesson 1) covers everything from Unit 1:
 
 1. **The nature of myths** — what a myth is, its purpose, its three jobs.
 2. **Greek vs. Biblical creation** — the two origin stories compared.
-3. **Pandora's Box** — the full narrative arc and what it explains.
+3. **Pandora's Box** — the full story and what it explains.
 
 The test wants *both* the facts *and* the evidence habit. You should be able to define a myth,
-retell the Pandora arc in order, compare the two creation accounts, and — crucially — back a
-claim with a quote. The rest of this sheet walks you through exactly what a strong answer looks
-like.
+retell the Pandora story in order, compare the two creation accounts, and — importantly — back a
+claim with a quote. The rest of this sheet shows you exactly what a strong answer looks like.
 
-**One marking note from your research phase:** on questions about Hope, answer with the course
+**One marking note from the research phase:** on questions about Hope, answer with the course
 outline's wording — **Hope remained inside the box to comfort humans and Prometheus on his
-cliff**. (A famous alternative version releases Hope from the box; the class discussed it in
-Lesson 09. On the test, the outline's wording is the one marked.)
+cliff**. (A famous other version lets Hope out of the box; the class discussed it in Lesson 09.
+On the test, use the outline's wording.)
 
 ---
 
 ## 1. Know the core facts cold
 
-Run these as flashcards until instant:
+Run these as flashcards until you know them instantly:
 
-- **Myth** = traditional story expressing a culture's beliefs/values and explaining the world.
+- **Myth** = a traditional story that expresses a culture's beliefs and values, and explains the
+  world.
 - Three jobs of a myth = **explain, teach, preserve**.
 - Home of the gods = **Mount Olympus**; king of the gods = **Zeus**.
 - Creation chain = **Mother Earth (Gaia) → Father Heaven (Ouranos) → Titans (Cronus) →**
@@ -53,16 +53,16 @@ Run these as flashcards until instant:
 - Morals: obey authority; never lose hope; be careful of gifts from enemies; curiosity can be
   dangerous; actions have consequences.
 
-## 2. Know the Pandora arc in exactly five beats
+## 2. Know the Pandora story in exactly five beats
 
-1. **Creation & gifts** — animals made by Epimetheus; First Man moulded from mud, upright, to
-   look at the stars; Prometheus steals a sliver of fire.
+1. **Creation & gifts** — animals made by Epimetheus; First Man moulded from mud, standing
+   upright to look at the stars; Prometheus steals a sliver of fire.
 2. **The punishment planned** — Prometheus chained; Zeus secretly builds Pandora as a "present."
-3. **The forbidden chest** — Pandora given to Epimetheus as a "reward"; iron-bound chest,
-   "don't open it."
+3. **The forbidden chest** — Pandora given to Epimetheus as a "reward"; iron-bound chest, "don't
+   open it."
 4. **The opening** — curiosity wins ("what harm can that do?"); the nine evils escape and the
    world becomes hard.
-5. **Hope survives** — Hope remains/released to comfort humans (and visits Prometheus on his
+5. **Hope survives** — Hope stays/is released to comfort humans (and visits Prometheus on his
    cliff), and the watery sun shines again.
 
 A strong answer will *name* the beats and *quote* one phrase for each.
@@ -76,22 +76,22 @@ moves:
    cultures use a single fateful "opening" (box / fruit) to explain why the world is hard; both
    keep something good afterwards (Hope / promise).
 2. **Difference.** One creates through a flawed, arguing family of gods; the other through one
-   fundamentally good God. Suffering is *inflicted from above* in the Greek version, *chosen
+   fundamentally good God. Suffering is *sent down from above* in the Greek version, *chosen
    through disobedience* in the Biblical one.
-3. **Insight.** The contrast shows that the deep questions are universal, while the answers are
-   shaped by each culture's beliefs — the whole point of studying mythology.
+3. **Insight.** The contrast shows that the big questions are the same everywhere, while the
+   answers are shaped by each culture's beliefs — the whole point of studying mythology.
 
 ## 4. Likely trouble spots (where marks are lost)
 
 - **Summary instead of analysis.** Retelling the story earns you zero for the "explain" mark.
-  Always follow story with *so what?*.
-- **Opinion without a quote.** "Zeus is cruel" with no phrase from the text is a claim, not an
-  argument.
+  Always follow the story with a *so what?*.
+- **Opinion without a quote.** "Zeus is cruel" with no phrase from the text is only a claim, not
+  an argument.
 - **Confusing the brothers.** Epimetheus = animals AFTER the fact; Prometheus = man + fire
   BEFORE thinking. Fore = before; epi = after.
 - **Hope wording.** Use the outline's "remained inside" phrasing on the test.
 - **Greek vs Roman names.** Venus = Aphrodite (Greek); Mercury = Hermes (Greek). Either is
-  accepted on the test; do not mix them as if they were different gods in one answer.
+  accepted on the test; just do not mix them as if they were different gods in one answer.
 
 ## 5. The one-question self-test (do this tonight)
 
@@ -102,11 +102,12 @@ Answer in three sentences, using the Claim→Quote→Explain spine:
 A strong answer looks like: *Zeus is a cruel ruler — Claim — because he turns a wedding gift
 into a weapon, grinning as he hands over the chest — Quote — and a king who enjoys the harm his
 punishments cause is acting out of spite, not justice — Explain.* Then, if you want top marks,
-add the other side: *"However, he lets Hope survive, which is a strand of mercy — so he is
-complex rather than simply evil."* — that balance is exactly what the rubric rewards.
+add the other side: *"However, he lets Hope survive, which is a small piece of mercy — so he is
+complicated rather than simply evil."* — that balance is exactly what the marking guide rewards.
 
 ---
 
-*This review article synthesises Lessons 01–12 (definitions, lineage, the Pandora arc, the
+*This review article was rewritten in plainer, age-appropriate language for Form 1 students
+(ages 11–13). It gathers Lessons 01–12 (definitions, family line, the Pandora story, the
 creation comparison, the evidence habit, and the flagged Hope-wording decision). Read it with
 your notes; then use the three self-study resources suggested alongside it.*

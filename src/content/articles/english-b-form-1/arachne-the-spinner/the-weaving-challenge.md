@@ -29,7 +29,7 @@ cloth woven on a loom. In that world, one weaver stood above every other:
 
 Her tapestries were so lovely, so finely made, that **sailors came from far away just to buy a
 bolt of her cloth.** Keep that detail: it is not just a compliment. Arachne is not talented; she
-is *famous*. Her skill is a public fact, a headline, a legend.
+is *famous*. Her skill is a public fact, a big name, a legend.
 
 And the story wraps her skill in one more detail you should feel with your hands:
 
@@ -47,33 +47,33 @@ Here is the scene the whole story turns on:
 Arachne is at a fair, showing her work. Every time she displays a new tapestry, the crowd gasps
 and crowds around her. It happens once. Twice. A dozen times.
 
-And **she cannot bear it.**
+And **she cannot stand it.**
 
 Not the praise — the *sharing*. The attention keeps drifting to other weavers too, and each
-time it drifts, the famous needlewoman feels the slight like a needle. At last it comes out of
+time it drifts, the famous needlewoman feels the slight like a pinprick. At last it comes out of
 her like steam from a boiling pot:
 
 > **"Gods? Bodkins! I can weave better than any god or goddess."**
 
-"Bodkins" — a blunt needle — is the insult loaded for the gods, who are, to a needlewoman
-who thinks she needs no help, just another set of useless tools. Arachne has just declared war
-on heaven with a swear word from her own workbench.
+"Bodkins" — a blunt needle — is the insult aimed at the gods, who are, to a needlewoman who
+thinks she needs no help, just another set of useless tools. Arachne has just declared war on
+heaven with a swear word from her own workbench.
 
 ---
 
 ## 3. Athene — the goddess who is listening
 
-Now the story introduces its second player — and you have to meet her properly, because she is
+Now the story brings in its second character — and you have to meet her properly, because she is
 different from the god in the last story.
 
 **Athene** (the Greeks also called her **Athena**; the Romans called her **Minerva**) is the
-goddess of **wisdom** and of **household crafts** — which in the ancient world meant cooking
-and sewing and weaving, the arts that keep a home and a people alive.
+goddess of **wisdom** and of **household crafts** — which in the ancient world meant cooking and
+sewing and weaving, the arts that keep a home and a people alive.
 
 Here is the part the text is careful to tell you: **every gift a mortal has comes from Athene.**
 The skill in Arachne's fingers? Athene's gift. The loom that sings? Athene's invention. When
-Arachne boasts that she can out-weave *any god*, she is boasting that she can out-weave the
-very source of her own gift.
+Arachne boasts that she can out-weave *any god*, she is boasting that she can out-weave the very
+source of her own gift.
 
 And Athene, goddess of wisdom, is famous for one thing above all: **she hears everything.**
 
@@ -81,14 +81,14 @@ And Athene, goddess of wisdom, is famous for one thing above all: **she hears ev
 
 ## 4. The old woman at the door
 
-Athene does not thunder down in full glory. She does what wisdom does — she tests first.
+Athene does not thunder down in all her glory. She does what wisdom does — she tests first.
 
 She arrives at the fair disguised as a **little old woman**, and speaks to Arachne gently:
-"Nobody but a goddess could weave so well," she says — with the small added poke, "but even
-the best weaver is only praising herself when she thinks she can best the gods."
+"Nobody but a goddess could weave so well," she says — with the small added poke, "but even the
+best weaver is only praising herself when she thinks she can beat the gods."
 
-It is a patience-test wearing a grandmother's face. She is giving Arachne a chance to cool
-off, to be humble, to take back the boast.
+It is a patience-test wearing a grandmother's face. She is giving Arachne a chance to cool off,
+to be humble, to take back the boast.
 
 Arachne does not take it.
 
@@ -102,8 +102,8 @@ woman is the goddess.
 
 ## 5. The reveal
 
-The old woman straightens up. Her hair burns bright. Her form rises and fills with light —
-and the disguise falls away like a shed season.
+The old woman straightens up. Her hair burns bright. Her form rises and fills with light — and
+the disguise falls away like a shed season.
 
 > "I am Athene — goddess of wisdom and household crafts. And here is your challenge: we shall
 > weave — and we shall see which of us is the better."
@@ -116,7 +116,7 @@ a goddess's and a mortal's — and the whole world stops to watch the contest.
 ## 6. Two kinds of pride
 
 Before the contest begins (that is Lesson 23's story — pause the fairy-tale now), file away the
-distinction the myth is quietly drawing, because it will decide everything:
+difference the myth is quietly drawing, because it will decide everything:
 
 - **Skill** — Arachne's hands are genuinely unmatched. The story never lies about that.
 - **Pride** — Arachne cannot separate her gift from her arrogance. She believes the gift makes
@@ -128,7 +128,7 @@ fingers were really moving that shuttle — until it was too late to take anythi
 ---
 
 ### Key terms for this lesson
-- **Arachne** — the most skilful needlewoman in the world; the story's anti-hero.
+- **Arachne** — the most skilful needlewoman in the world; the story's unhappy hero.
 - **Weaver / needlewoman** — someone who makes cloth and tapestries by hand.
 - **Athene / Athena / Minerva** — goddess of wisdom and household crafts (cooking, sewing).
 - **Boast** — to claim you are better than others (Arachne's fatal habit).
@@ -140,9 +140,10 @@ fingers were really moving that shuttle — until it was too late to take anythi
 - She boasts: "Gods? Bodkins! I can weave better than any god or goddess."
 - Athene's gifts are in every mortal's hands — including Arachne's.
 - Athene tests her patience in the old-woman disguise; Arachne fails.
-- The challenge is declared: goddess vs. mortal, two looms, one verdict (Lesson 23).
+- The challenge is declared: goddess vs. mortal, two looms, one decision (Lesson 23).
 
 ---
 
-*This article covers the opening of *Arachne* (course outline Week 8, Lesson 8.1) and is
-written for direct student use.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It covers the opening of *Arachne* (course outline Week 8, Lesson 8.1) and is written
+for direct student use.*

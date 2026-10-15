@@ -34,10 +34,10 @@ the city proud of nothing more than its horses.
 The course's word for what Paris did: **theft**. (An older, kinder telling says Helen went
 with him willingly — but the class text teaches the theft, as you'll see in the review.)
 
-Menelaus's grief turns to anger, and that anger is the biggest the Greek world ever raised:
-he calls an army of **fifty thousand** men and the greatest heroes alive — **Achilles the
-brave, Odysseus the cunning, Ajax the proud** — and a **thousand ships** sail to the tall
-white walls of Troy.
+Menelaus's grief turns to anger, and that anger raises the biggest army the Greek world ever
+raised: he calls **fifty thousand** men and the greatest heroes alive — **Achilles the brave,
+Odysseus the cunning, Ajax the proud** — and a **thousand ships** sail to the tall white walls
+of Troy.
 
 ---
 
@@ -54,9 +54,8 @@ the prize at the centre of it all hasn't changed:
 
 > Only Helen remained as lovely as ever — a precious prize locked inside Troy.
 
-Ten years of deaths, one unresolved answer. This is where Lesson 33's shapeshaper comes back:
-the Greeks have been trying strength. Strength did not finish the war. Now someone must propose
-the other thing.
+Ten years of deaths, one unresolved answer. The Greeks have been trying strength. Strength did
+not finish the war. Now someone must try the other thing.
 
 ---
 
@@ -86,16 +85,17 @@ Trojans shout as they swarm over it:
 
 > "A tribute to Troy! A tribute to the City of Horses!"
 
-That's the trick's genius, and it's the detail the PPT adds: Troy's patron god is **Poseidon**,
-whose sacred animal is the horse. The Trojans don't see a leftover weapon — they see a *divine
-gift*. The city of horses receives a tribute horse. Of course they welcome it.
+That's the trick's genius, and it's the detail the PPT adds: Troy's patron god (the god who
+protects the city) is **Poseidon**, whose sacred animal is the horse. The Trojans don't see a
+leftover weapon — they see a *gift from the gods*. The city of horses receives a tribute horse.
+Of course they welcome it.
 
 One old man throws a spear at the horse. The town laughs at the hollow thud. And the old man
 says the most famous warning in the story:
 
 > "**Beware of Greeks even when they give you presents!**"
 
-They ignore him, celebrate, drink, dance — and **tow the horse in through the gates**.
+They ignore him, celebrate, drink, dance — and **tow (pull) the horse in through the gates**.
 
 ---
 
@@ -131,18 +131,18 @@ hollow present.
 The outline wants three take-aways from this lesson, and two of them are language the world
 still uses every day:
 
-- **"Trojan Horse"** — a **deceptive trap that looks like a gift**. That's why a computer
-  "Trojan" is a file or email that looks friendly and sneaks malware inside. The structure is
-  identical: *looks helpful, opens a door.*
-- **"Beware of Greeks bearing gifts"** — the proverbial warning: don't trust an enemy's
-  apparent kindness. (The old man's line in the text is "Beware of Greeks even when they give
-  you presents.")
+- **"Trojan Horse"** — a **trap that looks like a gift**. That's why a computer "Trojan" is a
+  file or email that looks friendly and sneaks malware (harmful software) inside. The structure
+  is identical: *looks helpful, opens a door.*
+- **"Beware of Greeks bearing gifts"** — the famous warning: don't trust an enemy's apparent
+  kindness. (The old man's line in the text is "Beware of Greeks even when they give you
+  presents.")
 - **A siege** — surrounding a fortified city with an army until it falls; "under siege" means
-  trapped with supply lines cut.
+  trapped and cut off from food and supplies.
 
 And the moral the whole unit has been building toward, now applied to a war: **"Don't trust
-your enemies."** Cleverness beat strength — the term's argument in one lesson — but at the
-price of a burned city.
+your enemies."** Cleverness beat strength — the whole term's argument in one lesson — but at
+the price of a burned city.
 
 ---
 
@@ -161,9 +161,9 @@ the word every Trojan wished they'd listened to: *trap*.
 - **Siege** — surrounding a city with an army until it falls.
 - **City-state (polis)** — ancient Greece's self-ruled city-kingdom; Troy is one (its real site,
   Hisarlik in modern Turkey, was found by archaeologists).
-- **Trojan Horse** — idiom for a deceptive trap; also the computer malware with the same
-  structure.
-- **"Beware of Greeks bearing gifts"** — the proverb; don't trust an enemy's kindness.
+- **Trojan Horse** — idiom for a trap that looks like a gift; also the computer malware with
+  the same structure.
+- **"Beware of Greeks bearing gifts"** — the famous saying; don't trust an enemy's kindness.
 - **Odysseus** — King of Ithaca; the "cunning" hero whose plan ends the war.
 - **Helen (of Troy)** — "the face that launched a thousand ships"; her seizure begins the war.
 
@@ -185,6 +185,7 @@ the word every Trojan wished they'd listened to: *trap*.
 
 ---
 
-*This article completes the hero-era stories (course outline Week 12, Lesson 12.2) and is
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It completes the hero-era stories (course outline Week 12, Lesson 12.2) and is
 written for direct student use. Summative Test 3 (Lesson 36) covers Perseus through The Wooden
 Horse.*

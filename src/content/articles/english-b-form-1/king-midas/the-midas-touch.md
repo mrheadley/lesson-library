@@ -16,7 +16,7 @@ order: 2
 
 Midas judged a music contest with his heart instead of his honesty and was cursed with ass's
 ears — hidden, for now, under the tall hat that started a kingdom-wide fashion. He is "almost
-as stupid as he is greedy," and his greed has one more act to perform.
+as stupid as he is greedy," and his greed has one more trick to try.
 
 The wish is coming. And it is coming to the wrong king.
 
@@ -24,19 +24,19 @@ The wish is coming. And it is coming to the wrong king.
 
 ## 1. The wish
 
-One day the king somehow gets the chance every greedy person dreams of: **one wish, granted.**
+One day the king gets the chance every greedy person dreams of: **one wish, granted.**
 
-The magical helper who listens this time appears differently in different retellings (as you
-read in Lesson 25):
+The magical helper who listens this time appears differently in different versions of the
+story (as you read in Lesson 25):
 
 - The course's main story text says the helper is a **centaur** — half-man, half-horse.
 - The course's slides say it is **"the lost satyr"** — half-man, half-goat.
 
-Either way, the helper grants the wish without joy. A creature who can see the future in a
-greedy man's eyes asks one last question: *are you sure?*
+Either way, the helper grants the wish without joy. A being who can see the future in a greedy
+man's eyes asks one last question: *are you sure?*
 
-Midas is sure. He leans forward, and speaks the words that are already, unknowingly, the most
-dangerous sentence in his life:
+Midas is sure. He leans forward and speaks the words that are already, without him knowing,
+the most dangerous sentence in his life:
 
 > "Let everything I touch turn to gold!"
 
@@ -53,8 +53,8 @@ But the real test is food. And the myth turns breakfast into a horror film:
 - He sinks his teeth into **bread** — and chews gold.
 - The sizzling **fish** on his plate becomes a golden lump.
 
-What was meant to delight is killing him with kindness. Midas is rich beyond imagining and
-starving to death at the same table.
+What was meant to delight is killing him with kindness. Midas is richer than anyone could
+imagine and starving to death at the same table.
 
 ---
 
@@ -65,8 +65,8 @@ freezes into a **golden statue**, mid-step.
 
 It gets worse. The story's worst moment is saved for the person Midas loves most.
 
-His son — the story's main text and the course outline both say **son** — comes running to show
-his father something, breathless and delighted:
+His son — the story's main text and the course outline both say **son** — comes running to
+show his father something, breathless and delighted:
 
 > "Papa! Papa!"
 
@@ -78,9 +78,9 @@ person's warm, living skin, which he can never touch again.
 
 ---
 
-## 4. A family difference in retellings
+## 4. A family difference in the story's versions
 
-One honest note about the story before the rescue: different retellings disagree about which
+One honest note about the story before the rescue: different versions disagree about which
 family member is turned to gold.
 
 - The course's **main story text** and **course outline** say it is Midas's **son**.
@@ -118,20 +118,21 @@ Midas runs home. And the story lets him have what he wanted all along:
 > His son stood in the doorway — **dripping wet from head to foot**, whole and safe — but
 > shivering and crying with the shock.
 
-Read the details as the story's honesty about miracles: the boy is **soaked** (the river's
-remedy had to reach him), **crying** (he has been a golden statue and back), and *alive*. A
-restoration with the fright still on it — the myth refuses to airbrush the near-miss.
+Notice the details — they are the story being honest about miracles: the boy is **soaked** (the
+river's remedy had to reach him), **crying** (he has been a golden statue and back), and
+*alive*. A restoration with the fright still on it — the myth doesn't smooth over how close it
+came to disaster.
 
-Midas learns the lesson out loud, and the course files it as the story's moral:
+Midas learns the lesson out loud, and the course calls it the story's moral:
 
 > **Greed leads to unhappiness.** He vowed he would never wish for wealth again.
 
-The once-greedy king ends the story poorer in gold and richer in sense — and the whole kingdom
-is relieved.
+The once-greedy king ends the story poorer in gold and richer in good sense — and the whole
+kingdom is relieved.
 
 ---
 
-## 7. "The Midas touch" — the idiom the world kept
+## 7. "The Midas touch" — the saying the world kept
 
 Like Narcissus and Arachne, Midas has left his name in ordinary English — and this time the
 word is a compliment:
@@ -139,12 +140,13 @@ word is a compliment:
 > **"The Midas touch"** — the ability to make everything you get involved with extremely
 > successful.
 
-A business star who turns every investment to a fortune "has the Midas touch." A singer whose
+A business star who turns every investment into a fortune "has the Midas touch." A singer whose
 every song becomes a hit "has the Midas touch." It sounds like pure praise — until you remember
 where the phrase comes from: a king who was given exactly what he asked for, and almost
 destroyed his family and himself with it.
 
-Collect the unit's three name-loans now, all on one test-friendly line:
+Collect the unit's three name-loans (words passed down from myth names) now, all on one
+test-friendly line:
 
 - **Narcissus** → narcissism (psychology)
 - **Arachne** → arachnid (biology)
@@ -177,7 +179,7 @@ the evidence habit — which is exactly what Unit 2's test wants.
 - **Golden touch** — the power to turn everything touched into gold — and the curse it becomes.
 - **Idiom** — "The Midas touch": a phrase meaning "everything succeeds" that came from this myth.
 - **Cure / river** — the running water that washes the gift away.
-- **Son (sometimes daughter in other retellings)** — the family member turned to gold.
+- **Son (sometimes daughter in other versions)** — the family member turned to gold.
 
 ### Things to remember
 - The wish: "Let everything I touch turn to gold" — granted with a warning.
@@ -185,11 +187,12 @@ the evidence habit — which is exactly what Unit 2's test wants.
 - A servant turns to a golden statue; Midas's **son** ("Papa! Papa!") turns to gold in his arms.
 - The cure: wash the gift away in the river; the son returns — wet, crying, and alive.
 - The lesson: greed leads to unhappiness; Midas vows never to wish for wealth again.
-- "The Midas touch" — the idiom praised in modern English, born from a cautionary tale.
-- Two variant notes: centaur *and* satyr as the wish-granter; son *and* daughter in different
-  retellings — learn the main text, know the variants.
+- "The Midas touch" — the saying praised in modern English, born from a warning story.
+- Two version notes: centaur *and* satyr as the wish-granter; son *and* daughter in different
+  versions — learn the main text, know the variants.
 
 ---
 
-*This article completes *King Midas* (course outline Week 9, Lesson 9.2) and is written for
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It completes *King Midas* (course outline Week 9, Lesson 9.2) and is written for
 direct student use. Reading Journal checkpoint 6 is collected this lesson.*

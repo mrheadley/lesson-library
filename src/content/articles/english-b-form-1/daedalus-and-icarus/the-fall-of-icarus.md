@@ -14,9 +14,9 @@ order: 3
 
 ## The story so far
 
-Daedalus warned his son, twice and clearly: don't fly too high, don't fly too close to the
-sun. Icarus is airborne, delighted, and already climbing above the seagulls — cawing at them
-"You can't catch me!" as if the warning had never been spoken.
+Daedalus warned his son, twice and clearly: don't fly too high, don't fly too close to the sun.
+Icarus is airborne, delighted, and already climbing above the seagulls — calling at them "You
+can't catch me!" as if the warning had never been spoken.
 
 This is the lesson where the air turns cold.
 
@@ -28,7 +28,7 @@ Over the glittering sea, Icarus forgets his father almost completely.
 
 > He begins to climb — higher and higher — **just to show off to the seagulls.**
 
-The seagulls are gone. He does not need altitude for anything anymore. Pure showing-off.
+The seagulls are gone. He does not need to be up there for anything anymore. Pure showing-off.
 And because he is young and unstoppable and *good* at this, he keeps going.
 
 The story even lets him **jeer at the sun** — mocking the very thing he was warned about:
@@ -39,11 +39,11 @@ Fearless. Except the sun was never meant to scare him. It was protecting him fro
 
 ---
 
-## 2. The physics of the melt
+## 2. The science of the melt
 
-Now the myth does something beautiful — it makes disaster come from a completely ordinary
-fact of nature. The wings are held together by **melted candle-wax**. Candle-wax is a solid
-until you heat it.
+Now the myth does something clever — it makes disaster come from a completely ordinary fact of
+nature. The wings are held together by **melted candle-wax**. Candle-wax is solid until you
+heat it.
 
 Heat is exactly what is happening.
 
@@ -53,16 +53,16 @@ Heat is exactly what is happening.
 
 Read that sequence slowly — it is the story's slow-motion:
 
-1. Hotter.  
-2. Soften.  
-3. Trickle.  
-4. Feathers shed.  
-5. Wings lose their grip.  
+1. Hotter.
+2. Soften.
+3. Trickle.
+4. Feathers fall off.
+5. The wings lose their grip.
 6. First the feathers, then the hands, fall.
 
 There is no monster, no god, no curse. There is just a boy who ignored a warning, and a fact
-about wax and heat that was true before he was born. That is why the myth cuts so deep: the
-tragedy has a physics lesson inside it.
+about wax and heat that was true before he was born. That is why the myth hits so hard: the
+tragedy has a science lesson inside it.
 
 ---
 
@@ -72,9 +72,9 @@ The wings fail. Icarus tumbles —
 
 > He fell, **head first**, down towards the **glittering sea** — and the sea **swallowed him up.**
 
-Strike the picture into memory: a boy falling head first into water so bright it glitters, while
-the last of the feather-fluff drifts down around him. The only trace of him, when the water
-still s, is:
+Fix the picture in your memory: a boy falling head first into water so bright it glitters, while
+the last of the feather-fluff drifts down around him. The only trace of him, when the water goes
+still, is:
 
 > A litter of **waxy feathers floating on the sea.**
 
@@ -96,7 +96,7 @@ He finds nothing but feathers.
 > sands by the shore.**
 
 An inventor who solved a prison with his own hands ends the story burying a handful of his own
-son's feathers in a beach.
+son's feathers in the sand.
 
 Nobody in this story is a monster at this moment. There is just a father alone on a beach, and
 the sea, and the wind.
@@ -105,7 +105,7 @@ the sea, and the wind.
 
 ## 5. The lesson the course draws — obedience
 
-The course collects this tragedy into two clear statements, and tests love to use them:
+The course sums this tragedy into two clear statements, and tests love to use them:
 
 > **Disobedience can cost you your life.**
 > **Obedience keeps us safe from harm.**
@@ -116,9 +116,9 @@ Put those two lines side by side with what you already know:
 - Icarus ignored a clear, protective rule — and lost everything.
 
 Notice what the story is *not* saying. It is not saying "never fly." Daedalus flies the same
-sea and survives. The lesson is not about wings — it is about **limits**. People who respect
-the limits that keep them safe, and the people who know where those limits are, survive. People
-who shrug the warning off "to prove something" tend not to.
+sea and survives. The lesson is not about wings — it is about **limits**. People who respect the
+limits that keep them safe, and the people who know where those limits are, survive. People who
+shrug off the warning "to prove something" tend not to.
 
 ---
 
@@ -131,14 +131,14 @@ There is one more idea the outline files under this story, phrased simply:
 
 The Greeks had a word for flying too high: **hubris** — pride that grows so big it ignores the
 voice trying to protect you. You met hubris in Unit 1 (Prometheus, chained to his cliff). Here
-it is wearing a boy's face, arrowing toward a hot sun.
+it is wearing a boy's face, speeding toward a hot sun.
 
-Collect the twins now and you will see Unit 2's running theme:
+Collect the two now and you will see Unit 2's running theme:
 
 - **Narcissus** loved his own image → became a flower.
 - **Icarus** flew past the warning → fell into the sea.
 
-Both dead by their own pride. Both ruined by the very quality that made them shine.
+Both ruined by their own pride. Both destroyed by the very quality that made them shine.
 
 ---
 
@@ -155,12 +155,13 @@ Both dead by their own pride. Both ruined by the very quality that made them shi
 
 ### Things to remember
 - Icarus climbs to show off to the seagulls, then jeers at the sun: "You don't scare me!"
-- Heat softens the wax; feathers shed; he falls head first into the sea.
+- Heat softens the wax; feathers fall off; he falls head first into the sea.
 - Only the "waxy feathers floating on the sea" remain — Daedalus buries them by the shore.
 - Disobedience can cost you your life; obedience keeps us safe from harm.
 - The story warns against over-ambition / hubris — flying "too high" in life.
 
 ---
 
-*This article completes *Daedalus and Icarus* (course outline Week 7, Lesson 7.3) and is
-written for direct student use. Reading Journal checkpoint 4 is collected this lesson.*
+*This article was rewritten in plainer, age-appropriate language for Form 1 students (ages
+11–13). It completes *Daedalus and Icarus* (course outline Week 7, Lesson 7.3) and is written
+for direct student use. Reading Journal checkpoint 4 is collected this lesson.*
