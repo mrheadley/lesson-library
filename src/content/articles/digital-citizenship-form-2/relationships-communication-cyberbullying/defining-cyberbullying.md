@@ -7,141 +7,148 @@ topic: "Relationships, Communication & Cyberbullying"
 topicId: "relationships-communication-cyberbullying"
 order: 1
 ---
-# Lesson 9 — Bystander or Upstander
+# Lesson 9 — What Is Cyberbullying?
 
 *Reference article for Form 2 (ages 11–13) · Digital Citizenship*
 
-Picture a playground. Someone is being picked on. A ring of kids stands around watching. Now picture a group chat, or a comment section, or a game lobby where the same thing is happening. The stage is different — but look closely, and the same crowd is there. Watching. Scroll. Watch.
-
-Here's the uncomfortable truth we're going to sit with today: **watching is a choice.** And it's not a neutral one.
+Some of the hardest words in the English language are also the most misused. "Cyberbullying" is one of them. People toss it around — parents, friends, news articles, even us — and it can mean a thousand different things in a thousand different mouths. In this lesson we're going to slow down, take the word apart, and build our own clear definition. Not so we can win arguments about words, but so we can recognize what is really happening when someone is hurt online — and so we can act.
 
 ---
 
-## The cast of characters
+## A definition we can build
 
-Researchers who study bullying have mapped out the roles people play. Here's the lineup.
+Cyberbullying is bullying that happens on digital devices — phones, tablets, computers — through texting, apps, social media, games, or forums.
 
-### The bystander
-Anyone who sees or knows about bullying happening — in person or online. Here's the catch with cyberbullying: **even strangers who see a post are bystanders.** If you've ever scrolled past a mean post, you've been one.
+But "bullying on devices" is only the start. Something counts as cyberbullying when **three things are all present at once**. Think of them as three legs of a stool: if one leg is missing, the stool doesn't stand.
 
-### The passive bystander
-A bystander who does nothing. It's the most common role, and the most misunderstood. Doing nothing is still a choice — and targets often read it as "they agree with the bully" or "they don't care." Silence can look like approval. It makes the target feel more alone.
+### Leg 1: Intentional harm
 
-### The reinforcer
-A bystander who joins in — laughing, liking, sharing, encouraging the bully. This isn't neutrality; it's fuel. Every "like" is a cheer.
+The harm is done **on purpose**. It isn't an accident, a mistake, or a misunderstanding.
 
-### The upstander
-Someone who steps in to help — by supporting the target, speaking up, or telling a trusted adult. The word matters: an upstander *stands up*. Even one supportive person makes a huge difference to how a bullied person copes.
+> A friend sends a message that was meant for someone else, realizes the mistake, and apologizes. That's an accident, not bullying.
+>
+> Someone writes a message *specifically to hurt you* — knowing it will, and wanting it to. That's intent.
 
-### The ally
-One specific form of upstanding — someone who supports the target directly: checking in, sitting with them, being a friend. Small, quiet, and often the most powerful of all.
+One subtlety: the person doing the harm often claims they "didn't mean it." Here's the thing — **whether the target is hurt matters even if the sender says they didn't mean it.** "I didn't mean it" is sometimes true, and sometimes it's a shield. The hurt is real either way.
 
----
+### Leg 2: Repetition
 
-## Why does it matter what you do?
+The behavior happens **more than once**, or it has a strong chance of being repeated.
 
-Two findings from the research worth sitting with:
+- One nasty message, sent once, is usually a one-off incident — still not okay, but not the same thing as bullying.
+- A harmful post that gets shared and re-shared "repeats" — many people can see it or spread it. Even a single post can multiply like a rumor in a school corridor.
 
-- **Support helps.** A bullied person who has even one person on their side feels less anxious and less alone.
-- **Watching hurts the watcher too.** Witnessing bullying can upset the bystander themselves.
+### Leg 3: A power imbalance
 
-And here's the scale of the problem: most cyberbullying happens where others can see it, so most young people witness it at some point, even if they are never the target. Roughly a quarter of teens report having tried to help someone being cyberbullied. That means three out of four haven't — yet.
+One person or group holds more power — popularity, social status, access to embarrassing information, anonymity, or simply numbers — and uses it to control or harm the other.
 
----
+Power imbalances are easy to miss online. Someone with a huge follower count can get their followers to pile insults on one person — that's power amplified by numbers. An anonymous account can strike with no one knowing who it is. A group of players can gang up on one player in every match.
 
-## Why do people stay silent?
-
-It's never laziness. It's usually one of these:
-
-- **Fear of becoming the next target.** "If I speak up, they'll come after me."
-- **Worry about social consequences.** "What will my friends think?"
-- **Not knowing what to do.** "I'd help if I knew how, but I genuinely don't."
-- **Assuming someone else will.** "Someone will handle it."
-
-That last one has a name: the **bystander effect**. It's the tendency to freeze when other people are also watching, because we tell ourselves someone else will act. But if everyone thinks that, *no one* acts. Think about it — "someone else will handle it" is a thought that only works if you're the someone else. You can be the first, or the second, or the third person to speak up.
+When all three legs are present, you have cyberbullying. When one is missing, you have something else — and it might still be wrong, still be hurtful, and still deserve to be reported.
 
 ---
 
-## The myth of the "neutral" bystander
+## Why cyberbullying feels different from being bullied in person
 
-Some of us believe that if we don't participate, we're not part of it. Like we're watching a movie.
+Let's be honest: it's often **worse**, and it's worth understanding why.
 
-But there's no "pause" button on real life. When you scroll past a classmate being mocked in a group post, you can't see the classmate's face — but they can see that you saw. Here's the sentence researchers use: **silence signals approval.** Doing nothing gives the bully a free pass, and it tells the target they're on their own.
+- **Inescapable.** Bullying at school ends when you go home. Cyberbullying follows you into your bedroom, to the dinner table, on the weekend. Your device is in your pocket.
+- **Public.** Many people can see it at once — and you might not know who, or how many.
+- **Permanent.** Posts and messages are hard to fully delete. Screenshots travel.
+- **Unknown.** In person, you can see your bully. Online, you might not know who is doing it, who has seen it, or who is joining in. Strangers can view or pile on.
 
-You don't have to be loud to be seen. You just have to choose.
-
----
-
-## Worked example: the STAND framework
-
-Different programs teach different acronyms. One of the clearest is **STAND** — and it's designed so that there's a safe option at every comfort level. You do not have to be a superhero; you just have to take one step.
-
-- **S — Speak up.** Say something, kindly. "That's not cool." "Leave them alone, let's play." It doesn't have to be a speech. Even "this isn't funny" shifts the room.
-- **T — Tell a trusted adult.** A parent, teacher, counselor, coach. You don't need to resolve it yourself. Adults exist for exactly this.
-- **A — Alert the platform.** Report the post, the account, the chat. Reports are private, and they work.
-- **N — Never retaliate.** Fighting back or attacking the bully usually feeds the cycle and can make you look like part of the problem.
-- **D — Defend / support the target.** The quiet moves: message them privately, sit with them, check in. "Hey, you okay? That was not cool."
-
-Notice what's NOT on this list: *argue loudly, get into a fight, risk your safety.* Being an upstander does **not** mean confronting the bully. Support, reporting, and presence are just as powerful — and usually safer.
+No wonder targets often feel worse than they would with traditional bullying. It follows them everywhere, and it can feel like the whole world is watching.
 
 ---
 
-## What upstanding actually looks like
+## Conflict is not bullying
 
-Let's practice with real scenarios.
+This might surprise you: **not every disagreement online is bullying.** Conflict is normal, and sometimes even healthy.
 
-**Scenario A.** A classmate is getting nasty comments on a group post.
+In a **conflict**:
+- Both sides are roughly equal in power.
+- Both get to express their views.
+- Usually, both want it resolved.
 
-- Passive: scroll past.
-- Upstander: privately message them — *"Hey, you okay? That was not cool."*
+A loud argument with a friend about who won the game — where both of you are talking it out and both want to settle it — is a conflict. Two players disagreeing about a rule in a game lobby is a conflict.
 
-**Scenario B.** Someone posts a mean picture of a kid in your grade.
+In **bullying**:
+- One side intentionally targets someone who can't easily defend themselves.
+- The power is not equal.
 
-- Reinforcer: like it.
-- Upstander: post something kind about the target. Report the picture.
-
-**Scenario C.** Players in a game lobby are mocking a teammate.
-
-- You don't have to argue loudly. Say *"leave them alone, let's play"* — or report the chat abuse. Either is upstanding.
-
-**Scenario D.** A friend shows you screenshots of nasty messages they got and asks you not to tell anyone.
-
-- This one is hard, because it involves a secret. But here's the rule: **keeping them safe matters more than keeping the secret.** Go *with* them to tell a trusted adult. You don't have to break their trust alone — you can stand beside them.
-
-**Scenario E.** A classmate has gone quiet and is avoiding school.
-
-- You don't need the full story to act. Check in with them, or mention your worry to a teacher. Noticing someone is a gift in itself.
+The difference matters, because a conflict is something you can work through together. Bullying is something that needs to be stopped.
 
 ---
 
-## More myths, smashed
+## What cyberbullying looks like in real life
 
-- **"Doing nothing is neutral."** — It is not. Targets read silence as approval or indifference. Doing nothing signals the bully has a free pass.
-- **"Being an upstander means confronting the bully."** — Not necessarily. Support, reporting, and being present are just as powerful and usually safer.
-- **"If I step in, I'll become the next target."** — Many effective upstander actions carry low or no risk: private support, telling an adult, reporting.
-- **"Someone else will handle it."** — That's the bystander effect talking. You can be the first (or second, or third) person to speak up.
-- **"I can't upstand because I don't know the person."** — You can still report content to the platform and encourage the target's friends to check in on them.
-- **"Retaliating online stops the bully."** — Fighting back usually feeds the cycle and can make you look like part of the problem. Support and reporting are safer and more effective.
-- **"Support means big public gestures only."** — The opposite is closer to true. Small, private support — a message, sitting with someone, listening — is what targets often say helps most.
+Here are the common forms — all built on the three legs above:
 
----
-
-## A note from the research
-
-One honest caveat: researchers don't fully agree on how best to intervene. Some studies find that training aimed at reducing "bystanding" has only weak effects, while others find that bystander-focused training increases reporting and reduces victimization. And many young people say they'd love to help but genuinely don't know how — which is exactly why we're practicing *options*, not one magic move.
-
-The science is still building its answer. Meanwhile, you can build yours: **one supportive person makes a difference.** That single fact is the strongest finding of all.
+- **Mean or hurtful comments** — repeated, targeted, and aimed at a specific person.
+- **Rumors spread online** — whispered in a group chat where the target can't defend themselves to everyone at once.
+- **Embarrassing photos or videos** — shared to humiliate.
+- **Fake accounts** — created to post about someone or to mock them.
+- **Deliberately leaving someone out** — from a group chat, a game, an event.
+- **Sharing private information on purpose** — things that were told in confidence.
 
 ---
 
-## Hold on to this
+## Worked example: sorting the cases
 
-You do not need to be brave in a cape. You need to be brave in the way that fits you:
+Let's practice. Three scenarios — which are cyberbullying, and which are something else?
 
-- Message someone privately.
-- Sit with them at lunch.
-- Tell a trusted adult.
-- Report the post.
-- Say "that's not cool."
+**Scenario A.** Sending the same nasty message in a group chat every single time the person posts.
 
-Every one of those is upstanding. And here's the beautiful part: when you upstand, you don't just help the target. You tell the whole room that cruelty isn't normal — that you are the kind of person who doesn't just watch. That's a reputation worth building.
+- Intentional? Yes. Repeated? Yes — again and again. Power imbalance? It's aimed at someone who can't stop it. **This is cyberbullying.**
+
+**Scenario B.** One friend replied sharply during an argument, and later apologized.
+
+- Intentional? Maybe, maybe not. Repeated? No — it happened once. Power imbalance? No — this was an argument between equals. **This is a conflict, not bullying** — though the sharp reply was still not okay, and the apology was the right move.
+
+**Scenario C.** Creating a fake account to post embarrassing pictures of a classmate.
+
+- Intentional? Yes — the account was made to hurt. Repeated? Yes — once it's online, people can keep sharing it. Power imbalance? The anonymous creator has all the control. **This is cyberbullying.**
+
+---
+
+## A single act can still repeat
+
+Here's a subtle idea that researchers genuinely debate. What if someone posts **one** hurtful thing, but it goes viral — hundreds of people see it, share it, screenshot it?
+
+Strictly speaking, it happened once. But it *repeats* — in every re-share, in every view, in every stranger who joins in. Many experts argue this should count as repeated harm.
+
+Here's the practical takeaway, and it's simple: **hurt is hurt. Report it anyway.** Don't wait to decide whether it technically qualifies. If something online is hurting you or someone else, that is enough reason to tell a trusted adult and report it.
+
+---
+
+## What cyberbullying is *not*
+
+Some myths get in the way of clear thinking. Let's knock them down:
+
+- **"If it only happened once, it can't be cyberbullying."** — True for a strict definition, but one post shared widely can effectively repeat the harm. Hurt is hurt; report it anyway.
+- **"It's not bullying if it was a joke."** — If the target is hurt and the "joke" was aimed at them, intent and impact matter more than the label. "It was just a joke" is one of the most common ways to downplay harm.
+- **"Online, everyone is equal."** — No. Anonymity, follower counts, and groups create power imbalances that don't exist in person.
+- **"Just ignore it and it will go away."** — Ignoring can help in some cases, but real cyberbullying often continues and can get worse. Ignoring is not a substitute for telling a trusted adult and reporting.
+- **"It's the victim's fault for being online."** — Never. **No one deserves to be bullied, and the target is never responsible for the bully's behavior.** Being online is not an invitation.
+- **"Cyberbullying and a normal argument are the same thing."** — They aren't. Conflict is between equals and can even be healthy. Bullying is intentional harm from a position of power.
+
+---
+
+## What you can do
+
+If you or someone you care about is being cyberbullied:
+
+1. **Tell a trusted adult** — a parent, teacher, counselor, or coach. You don't have to handle this alone, and you shouldn't.
+2. **Report it to the platform** — apps and sites have report buttons for a reason. A report is not a big dramatic confrontation; it's a quiet, powerful act.
+3. **Save the evidence** — screenshots of messages and posts help adults and platforms understand what happened.
+4. **Support the target** — a message like "Hey, that was not okay. You don't deserve that" changes more than you know. (We'll go deep on this in the next lesson.)
+
+Some cyberbullying crosses the line into illegal or criminal behavior — threats, stalking, sharing certain images. Schools are required to address bullying in their anti-bullying policies, so when you report, you are not being dramatic. You are using a system that exists for this exact situation.
+
+---
+
+## One thing to hold on to
+
+The target is never at fault. Ever. The words may follow you home, but they don't define you. And the more clearly you understand what cyberbullying actually is — not the word everyone throws around, but the three legs of the stool — the better equipped you are to name it, to stop it, and to protect yourself and the people around you.
+
+You've just built a definition from the ground up. That's the kind of understanding nobody can take away from you.
